@@ -58,7 +58,7 @@ DELA means "Dictionnaire Electronique du LADL" (LADL's electronic dictionaries).
 This modified version of the original DELA dictionary was necessary because our [PNU project](https://github.com/HubTou/PNU)'s
 [conjuguer](https://github.com/HubTou/conjuguer) command made it clear that there were errors in some verb conjugations.
 
-It was naturally called AU-DELA, a pun meaning beyond DELA ("au-delà" being translated as "beyond"). 
+It was naturally called AU-DELA, a pun meaning beyond DELA ("au-delà" in French being translated as "beyond"). 
 
 I wrote an [history of Unix & French dictionaries](https://github.com/HubTou/PNU/wiki/Les-dictionnaires-sous-Unix) (in French only),
 which covers this dictionary and many others.
