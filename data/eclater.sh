@@ -1,4 +1,7 @@
 #!/bin/sh
+# eclater.sh - split DELA dictionary in multiple editable parts
+# License: 3-clause BSD (see https://opensource.org/licenses/BSD-3-Clause)
+# Author: Hubert Tournier
 
 TMPFILE=${TMP}/formats.$$
 
@@ -29,7 +32,7 @@ ExplodeOnField1()
     mkdir -p $1
     awk -vDIRECTORY=$1 '
         {
-            first_letter = substr($0,0,1);
+            first_letter = substr($0,0,1)
             if (first_letter !~ /[A-Za-z]/)
             {
                 first_letter = "0"
@@ -38,13 +41,15 @@ ExplodeOnField1()
             {
                 first_letter = tolower(first_letter)
             }
-            file = DIRECTORY "/" first_letter;
+            file = DIRECTORY "/" first_letter
             print $0 >> file
         }
     '
 }
 
 ExplodeOnField2()
+# Some starting letters have more than 20K lines associated.
+# We split these ones into multiple files.
 {
     rm -rf $1
     mkdir -p $1
@@ -53,7 +58,7 @@ ExplodeOnField2()
             FS = "|"
         }
         {
-            first_letter = substr($2,0,1);
+            first_letter = substr($2,0,1)
             if (first_letter == "")
             {
                 first_letter = substr($1,0,1)
@@ -66,7 +71,12 @@ ExplodeOnField2()
             {
                 first_letter = tolower(first_letter)
             }
-            file = DIRECTORY "/" first_letter;
+            lines[first_letter] += 1
+            if ((lines[first_letter] % 20000) == 0)
+            {
+                parts[first_letter] = (1 + (lines[first_letter] / 20000)) ""
+            }
+            file = DIRECTORY "/" first_letter parts[first_letter]
             print $0 >> file
         }
     '
