@@ -43,7 +43,6 @@ Barcelonaises|Barcelonais|N:fp
 Barclay||N+Conc+Tabac+Cigarette+z1:fs:fp
 Bas-Empire||N+AN+HumColl:ms
 Bas-Rhin||N+AN:ms
-Bas-Rhin||N+AN:ms
 Basic||N+Conc+Tabac+Cigarette+z1:fs:fp
 Basque||N+z1:ms:fs
 Basques|Basque|N+z1:mp:fp
@@ -1940,7 +1939,6 @@ bas||A+z1:ms:mp
 bas-côté||N+AN+Conc:ms
 bas-côtés|bas-côté|N+AN+Conc:mp
 bas-fonds|bas-fond|N+AN+Conc:mp
-bas-fonds|bas-fond|N+AN+Conc:mp
 bas-fonds||N+AN+HumColl:mp
 bas-foyers|bas-foyer|N+AN+Conc:mp
 bas-jointées|bas-jointé|A+EPA+z1:fp
@@ -3687,7 +3685,6 @@ bien||N+z1:ms
 bien||ADV+z1
 bien||A+z1:ms:fs:mp:fp
 bien-aimé||N+XN+Hum:ms
-bien-aimé||N+XN+Hum:ms
 bien-aimé||A+XA:ms
 bien-aimée|bien-aimé|N+XN+Hum:fs
 bien-aimée|bien-aimé|N+XN+Hum+z1:fs
@@ -3703,7 +3700,6 @@ bien-fondé||N+XN:ms
 bien-jugés|bien-jugé|N+XN+z2:mp
 bien-pensant||N+XN+Hum:ms
 bien-pensant||A+XA:ms
-bien-pensante|bien-pensant|N+XN+Hum:fs
 bien-pensante|bien-pensant|N+XN+Hum:fs
 bien-pensante|bien-pensant|A+XA:fs
 bien-pensantes|bien-pensant|N+XN+Hum:fp
