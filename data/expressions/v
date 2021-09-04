@@ -253,7 +253,6 @@ valeur de rachat||N+NDN:fs
 valeur de remplacement||N+NDN:fs
 valeur de référence||N+NDN:fs
 valeur de symbole||N+NDN:fs
-valeur de symbole||N+NDN:fs
 valeur de symbole||GN+A1+z1
 valeur disponible||N+NA:fs
 valeur dominante||N+NA+z2:fs
@@ -1120,7 +1119,6 @@ vers syllabique||N+NA:ms
 vers syncopés|vers syncopé|N+NA:mp
 vers trochaïque||N+NA:ms
 vers à soie|ver à soie|N+NAN+Conc:mp
-vers à soie|ver à soie|N+NAN+Conc:mp
 vers à soie||N+NAN:ms:mp
 vers élégiaques|vers élégiaque|N+NA:mp
 vers équivoque||N+NA:ms
@@ -1460,7 +1458,6 @@ vie de patachon||N+NDN:fs
 vie de quartier||N+NDN:fs
 vie de renoncement||N+NDN:fs
 vie de tous les jours||N+NPNPN:fs
-vie de tous les jours||N+NPNPN:fs
 vie de tous les jours||N+NDN:fs
 vie des autres||N+NDN:fs
 vie difficile||N+NA+E01+z1:fs
@@ -1554,7 +1551,6 @@ vie économique et sociale||N+NAPN:fs
 vie érémitique||N+NA:fs
 vie éternelle||N+NA+z1:fs
 vieil armagnac||N+AN:ms
-vieil homme||N+AN:ms
 vieil homme||N+AN:ms
 vieil homme||N+AN+Hum:ms
 vieil instituteur||N+AN+Hum:ms
