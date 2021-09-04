@@ -2212,7 +2212,6 @@ mauvais démon||N+AN:ms
 mauvais démons|mauvais démon|N+AN:mp
 mauvais départ||N+AN:ms
 mauvais esprit||N+AN+Hum:ms
-mauvais esprit||N+AN+Hum:ms
 mauvais esprit||GN+A1+z1
 mauvais esprits|mauvais esprit|N+AN+Hum:mp
 mauvais garçon||N+AN+Hum:ms
@@ -2260,7 +2259,6 @@ mauvaise affaire||N+AN:fs
 mauvaise blague||N+AN:fs
 mauvaise circulation||N+AN:fs
 mauvaise conscience||N+AN:fs
-mauvaise conscience||N+AN:fs
 mauvaise conscience||GN+A1+z1
 mauvaise diablesse|mauvais diable|N+AN+Hum:fs
 mauvaise foi||N+AN:fs
@@ -2287,7 +2285,6 @@ mauvaise plaisanterie||N+AN:fs
 mauvaise querelle||N+AN:fs
 mauvaise rencontre||N+AN+Hum:fs
 mauvaise renommée||N+AN:fs
-mauvaise réputation||N+AN:fs
 mauvaise réputation||N+AN:fs
 mauvaise réputation||GN+A1+z1
 mauvaise saison||N+AN:fs
@@ -2328,7 +2325,6 @@ maux de dos|mal de dos|N+NDN:mp
 maux de gorge|mal de gorge|N+NDN:mp
 maux de gorge||N+NDN:mp
 maux de reins||N+NDN:mp
-maux de tête|mal de tête|N+NDN:mp
 maux de tête|mal de tête|N+NDN:mp
 maux de tête||N+NDN:mp
 maux espagnols|mal espagnol|N+NA:mp
@@ -2510,7 +2506,6 @@ meilleur des mondes possibles||N+NPNA:ms
 meilleur marché qu'|meilleur marché que|CONJS+E1PN+z1
 meilleur marché que||CONJS+E1PN+z1
 meilleur second rôle||N+AAN+Hum:ms
-meilleur second rôle||N+AAN+Hum:ms
 meilleur second rôle||N+AAN+Abst:ms
 meilleur spécialiste||N+AN+Hum:ms
 meilleure des choses||N+NDN:fs
@@ -2519,7 +2514,6 @@ meilleure visibilité||N+AN+E01+z1:fs
 meilleures affaires||N+AN:fp
 meilleures spécialistes|meilleur spécialiste|N+AN+Hum:fp
 meilleurs prix||N+AN:mp
-meilleurs seconds rôles|meilleur second rôle|N+AAN+Hum:mp
 meilleurs seconds rôles|meilleur second rôle|N+AAN+Hum:mp
 meilleurs seconds rôles|meilleur second rôle|N+AAN+Abst:mp
 meilleurs spécialistes|meilleur spécialiste|N+AN+Hum:mp
@@ -2631,7 +2625,6 @@ menace voilée||N+NA+E01+z1:fs
 menace à l'ordre public||N+NPNA:fs
 menaces de dérapage inflationniste|menace de dérapage inflationniste|N+NPNA:fp
 menaces de fermeture|menace de fermeture|N+NDN:fp
-menaces de mort|menace de mort|N+NDN:fp
 menaces de mort|menace de mort|N+NDN:fp
 menaces de mort||N+NDN:fp
 menaces de sanctions|menace de sanctions|N+NDN:fp
@@ -3303,7 +3296,6 @@ militantes familiales|militant familial|N+NA+Hum:fp
 militantes ouvrières|militant ouvrier|N+NA+Hum+z1:fp
 militantes politiques|militant politique|N+NA+Hum+z1:fp
 militantes syndicales|militant syndical|N+NA+Hum+z1:fp
-militants anti-avortement|militant anti-avortement|N+NXN+Hum:mp
 militants anti-avortement|militant anti-avortement|N+NXN+Hum:mp
 militants anti-avortement|militant anti-avortement|N+NPAN+Hum:mp
 militants bolcheviques|militant bolchevique|N+NA+Hum:mp
@@ -5360,7 +5352,6 @@ mouvements d'immigration|mouvement d'immigration|N+NDN:mp
 mouvements d'opposition armés|mouvement d'opposition armé|N+NPNA+HumColl:mp
 mouvements dada|mouvement dada|N+NA+HumColl+z2:mp
 mouvements de baisse|mouvement de baisse|N+NDN:mp
-mouvements de capitaux|mouvement de capitaux|N+NDN:mp
 mouvements de capitaux|mouvement de capitaux|N+NDN:mp
 mouvements de capitaux||N+NDN:mp
 mouvements de colère|mouvement de colère|N+NDN:mp
