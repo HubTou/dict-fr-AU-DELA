@@ -101,7 +101,6 @@ Néo-Guinéen||N+XN+Hum:ms
 Néo-Guinéens|Néo-Guinéen|N+XN+Hum:mp
 Néo-Hébridaise|Néo-Hébridais|N+XN+Hum:fs
 Néo-Zélandais||N+XN+Hum:ms:mp
-Néo-Zélandais||N+XN+Hum:ms:mp
 Néo-Zélandaise|Néo-Zélandais|N+XN+Hum+z1:fs
 Népalais||N:ms:mp
 Népalaise|Népalais|N:fs
@@ -2660,7 +2659,6 @@ non-alignés|non-aligné|A+XA:mp
 non-animé||A+XA:ms
 non-animées|non-animé|A+XA:fp
 non-animés|non-animé|N+XN:mp
-non-animés|non-animé|N+XN:mp
 non-animés|non-animé|A+XA:mp
 non-appartenance||N+XN:fs
 non-assistance||N+XN:fs
@@ -2725,7 +2723,6 @@ non-ingérence||N+XN:fs
 non-initié||N+XN+Hum:ms
 non-initié||A+XA:ms
 non-initiées|non-initié|A+XA:fp
-non-initiés|non-initié|N+XN+Hum:mp
 non-initiés|non-initié|N+XN+Hum:mp
 non-initiés|non-initié|A+XA:mp
 non-inscription||N+XN:fs
@@ -3496,7 +3493,6 @@ noëls|noël|N+z1:mp
 nu||N+z1:ms:mp
 nu||N+z1:ms
 nu||A+z1:ms
-nu-pieds||N+AN+Conc:ms:mp
 nu-pieds||N+AN+Conc:ms:mp
 nu-pieds||A+EAPC+z1:ms:fs:mp:fp
 nu-tête||A+EAPC+z1:ms:fs:mp:fp
@@ -4406,7 +4402,6 @@ néo-latines|néolatin|A+XA:fp
 néo-libéral|néolibéral|N+XN+Hum+z1:ms
 néo-libéral|néolibéral|A+XA:ms
 néo-libérale|néolibéral|N+XN+Hum:fs
-néo-libérale|néolibéral|N+XN+Hum:fs
 néo-libérale|néolibéral|A+XA:fs
 néo-libérales|néolibéral|N+XN+Hum:fp
 néo-libérales|néolibéral|A+XA:fp
@@ -4429,7 +4424,6 @@ néo-nazie|néo-nazi|A+EPA+z1:fs
 néo-nazies|néonazi|N+XN+Hum+z1:fp
 néo-nazies|néonazi|A+XA:fp
 néo-nazies|néo-nazi|A+EPA+z1:fp
-néo-nazis|néonazi|N+XN+Hum:mp
 néo-nazis|néonazi|N+XN+Hum:mp
 néo-nazis|néonazi|A+XA:mp
 néo-nazis|néo-nazi|A+EPA+z1:mp
