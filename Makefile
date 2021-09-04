@@ -9,7 +9,7 @@
 
 dict-fr-AU-DELA:
 	@echo "=> Producing the full dictionary"
-	@( cd data ; cat expressions/* mots/* noms/* verbes/* | sort | sed -e "s/\([-,.]\)/\\\\\1/g" > dict-fr-AU-DELA )
+	@( cd data ; cat expressions/* mots/* noms/* verbes/* | sort | sed -e "s/\([-,.]\)/\\\\\1/g" -e "s/|/,/" -e "s/|/./" > dict-fr-AU-DELA )
 	@( cd data ; sed -e "s/\\\\,/~/g" -e "s/,/	/g" -e "s/~/,/g" -e "s/\\\\//g" dict-fr-AU-DELA > dict-fr-AU-DELA.tmp )
 	@( cd data ; cut -f1 dict-fr-AU-DELA.tmp | sort | uniq | tee dict-fr-AU-DELA.unicode | unicode2ascii | sort | uniq > dict-fr-AU-DELA.ascii )
 	@( cd data ; cat dict-fr-AU-DELA.unicode dict-fr-AU-DELA.ascii | sort | uniq > dict-fr-AU-DELA.combined )
