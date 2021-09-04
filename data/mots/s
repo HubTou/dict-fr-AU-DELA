@@ -19,13 +19,9 @@ Sahéliennes|Sahélien|N:fp
 Sahéliens|Sahélien|N:mp
 Saint-Empire||N+AN:ms
 Saint-Esprit||N+AN+Hum:ms
-Saint-Esprit||N+AN+Hum:ms
 Saint-Office||N+AN+HumColl:ms
 Saint-Père||N+AN+Hum:ms
-Saint-Père||N+AN+Hum:ms
 Saint-Siège||N+AN+HumColl:ms
-Saint-Siège||N+AN+HumColl:ms
-Saint-Sylvestre||N+AN:fs
 Saint-Sylvestre||N+AN:fs
 Saint-Sépulcre||N+AN:ms
 Sainte-Alliance||N+AN+HumColl:fs
@@ -86,7 +82,6 @@ Scandinave||N+z1:ms:fs
 Scandinaves|Scandinave|N+z1:mp:fp
 Scythe||N+z2:ms:fs
 Scythes|Scythe|N+z2:mp:fp
-Seine-et-Marne||N+NCN+Conc:fs
 Seine-et-Marne||N+NCN+Conc:fs
 Serbe||N+z2:ms:fs
 Serbes|Serbe|N+z2:mp:fp
@@ -814,9 +809,7 @@ saint-amour||N+AN+Conc:ms
 saint-benoît||N+AN+Conc:ms
 saint-bernard||N+AN+Anl+Hum:ms:mp
 saint-cyrien||N+AN+Hum:ms
-saint-cyrien||N+AN+Hum:ms
 saint-cyrienne|saint-cyrien|N+AN+Hum:fs
-saint-cyriens|saint-cyrien|N+AN+Hum:mp
 saint-cyriens|saint-cyrien|N+AN+Hum:mp
 saint-esprit||N+AN+Conc:ms
 saint-estèphe||N+AN:fs
@@ -4289,7 +4282,6 @@ semi-nasale|semi-nasal|A+XA:fs
 semi-nasaux|semi-nasal|A+EPA+z1:mp
 semi-nomade||N+XN+Hum:ms:fs
 semi-nomades|semi-nomade|N+XN+Hum:mp:fp
-semi-nomades|semi-nomade|N+XN+Hum:mp:fp
 semi-nomades|semi-nomade|A+XA:mp:fp
 semi-nomadisme||N+XN:ms
 semi-normes|semi-norme|N+XN:fp
@@ -6804,7 +6796,6 @@ sociables|sociable|A+z1:mp:fp
 social||N+z1:ms
 social||A+z1:ms
 social-démocrate||N+AN+Hum:ms
-social-démocrate||N+AN+Hum:ms
 social-démocrate||A+EPA+z1:ms:fs
 social-démocrates|social-démocrate|A+EPA+z1:mp:fp
 social-démocratie||N+AN:fs
@@ -6844,7 +6835,6 @@ sociatrie||N:fs
 sociatries|sociatrie|N:fp
 sociaux|social|A+z1:mp
 sociaux-chrétiens||N+AN+HumColl:mp
-sociaux-démocrates|social-démocrate|N+AN+Hum:mp
 sociaux-démocrates|social-démocrate|N+AN+Hum:mp
 sociaux-démocrates||N+AN+HumColl:mp
 society||N:fs
@@ -8332,7 +8322,6 @@ sous-développé||N+PN+Hum:ms
 sous-développé||N+PN+Hum+z1:ms
 sous-développé||A+EPA+z1:ms
 sous-développée|sous-développé|N+PN+Hum:fs
-sous-développée|sous-développé|N+PN+Hum:fs
 sous-développée|sous-développé|A+EPA+z1:fs
 sous-développées|sous-développé|N+PN+Hum+z1:fp
 sous-développées|sous-développé|A+EPA+z1:fp
@@ -8345,7 +8334,6 @@ sous-emploi||N+PN+z1:ms
 sous-emplois|sous-emploi|N+PN+z1:mp
 sous-ensemble||N+PN+z1:ms
 sous-ensembles|sous-ensemble|N+PN+z1:mp
-sous-entendu||N+PN:ms
 sous-entendu||N+PN:ms
 sous-entendu||A+EPA+z1:ms
 sous-entendue|sous-entendu|A+EPA+z1:fs
@@ -8397,7 +8385,6 @@ sous-joints|sous-joint|N+PN+Conc:mp:fp
 sous-lacustre||A+EPA+z1:ms:fs
 sous-lieutenances|sous-lieutenance|N+PN:fp
 sous-lieutenant||N+PN:ms
-sous-lieutenant||N+PN:ms
 sous-lieutenant||N+PN+Hum+z1:ms
 sous-ligneuse|sous-ligneux|A+EPA+z1:fs
 sous-liminaire||A+EPA+z1:ms:fs
@@ -8413,7 +8400,6 @@ sous-marine|sous-marin|A+EPA+z1:fs
 sous-marines|sous-marin|A+EPA+z1:fp
 sous-marinier||N+PN+Hum:ms
 sous-mariniers|sous-marinier|N+PN+Hum:mp
-sous-marins|sous-marin|N+PN+Conc:mp
 sous-marins|sous-marin|N+PN+Conc:mp
 sous-marins|sous-marin|A+EPA+z1:mp
 sous-marque||N+PN:fs
