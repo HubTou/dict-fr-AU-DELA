@@ -148,7 +148,6 @@ facteur d'échelle||N+NDN:ms
 facteur de baisse||N+NDN:ms
 facteur de coagulation||N+NDN:ms
 facteur de croissance||N+NDN+Conc:ms
-facteur de croissance||N+NDN+Conc:ms
 facteur de croissance||N+NDN+Abst:ms
 facteur de pianos|facteur de piano|N+NDN+Hum:ms
 facteur de pluie||N+NDN:ms
@@ -1133,7 +1132,6 @@ fer chrome||N+NN+Conc:ms
 fer cémenté||N+NA+Conc:ms
 fer de blanchisseuse||N+NDN+Conc:ms
 fer de forme||N+NDN+Conc:ms
-fer de lance||N+NDN+Conc:ms
 fer de lance||N+NDN+Conc:ms
 fer de lance||N+NDN+Abst:ms
 fer de pioche||N+NDN+Conc:ms
@@ -2912,7 +2910,6 @@ fonds de bibliothèque||N+NDN+Conc:ms:mp
 fonds de boutique|fond de boutique|N+NDN+Conc:mp
 fonds de cale|fond de cale|N+NDN:mp
 fonds de commerce|fond de commerce|N+NDN+Conc:mp
-fonds de commerce|fond de commerce|N+NDN+Conc:mp
 fonds de commerce||N+NDN+Conc:ms:mp
 fonds de court terme||N+NPAN:ms:mp
 fonds de culotte|fond de culotte|N+NDN+Conc:mp
@@ -3049,7 +3046,6 @@ force de dissuasion||N+NDN:fs
 force de défense||N+NDN:fs
 force de défense||N+NDN+HumColl:fs
 force de frappe||N+NDN:fs
-force de frappe||N+NDN:fs
 force de frappe||N+NDN+HumColl:fs
 force de gravitation||N+NDN:fs
 force de l'habitude||N+NDN:fs
@@ -3107,7 +3103,6 @@ forces centrifuges|force centrifuge|N+NA:fp
 forces centripètes|force centripète|N+NA:fp
 forces d'appui aérien||N+NPNA:fp
 forces d'appui terrestre||N+NPNA:fp
-forces de défense|force de défense|N+NDN+HumColl:fp
 forces de défense|force de défense|N+NDN+HumColl:fp
 forces de défense||N+NDN+HumColl:fp
 forces de l'ordre||N+NDN+HumColl:fp
@@ -4249,7 +4244,6 @@ frontière terrestre||N+NA:fs
 frontière élective||N+NA:fs
 frontières administratives|frontière administrative|N+NA+z2:fp
 frontières artificielles|frontière artificielle|N+NA+z2:fp
-frontières de la connaissance|frontière de la connaissance|N+NDN:fp
 frontières de la connaissance|frontière de la connaissance|N+NDN:fp
 frontières de la connaissance||N+NDN:fp
 frontières ethniques|frontière ethnique|N+NA:fp
