@@ -5421,7 +5421,6 @@ micro-capteurs|microcapteur|N+XN+Conc:mp
 micro-cravate||N+NN+Conc+z1:ms
 micro-gravité|microgravité|N+XN:fs
 micro-informatique||N+XN:fs
-micro-informatique||N+XN:fs
 micro-informatique||A+XA:ms:fs
 micro-injection||N+XN:fs
 micro-instruction||N+XN+z1:fs
@@ -5432,7 +5431,6 @@ micro-onde||N+XN:fs
 micro-onde||N+XN+Conc:ms
 micro-ondes|micro-onde|N+XN:fp
 micro-ondes|micro-onde|N+XN+Conc:mp
-micro-ondes|micro-onde|N+XN:fp
 micro-ondes|micro-onde|N+XN+Conc+z1:mp
 micro-ordinateur||N+XN+Conc:ms
 micro-ordinateurs|micro-ordinateur|N+XN+Conc:mp
@@ -6366,7 +6364,6 @@ mille-feuille|millefeuille|N+AN+Conc:ms
 mille-feuille|millefeuille|N+AN+Conc:fs
 mille-feuilles|millefeuille|N+AN+Conc:mp
 mille-feuilles||N+AN+Conc:fp
-mille-feuilles|millefeuille|N+AN+Conc:mp
 mille-feuilles|millefeuille|N+AN+Conc:fp
 mille-fleurs||N+AN+Conc:fs:fp
 mille-pattes||N+AN+Anl:ms:mp
