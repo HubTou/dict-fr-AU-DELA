@@ -1083,7 +1083,6 @@ paradis fiscal||N+NA+z1:ms
 paradis fiscaux|paradis fiscal|N+NA+z1:mp
 paradis sur terre||N+NPN+Conc:ms:mp
 paradis sur terre||N+NPN+Conc:ms
-paradis sur terre||N+NPN+Conc:ms
 paradis sur terre||N+NPN+Conc+z1:ms:mp
 paradis terrestre||N+NA+z1:ms
 paradis terrestres|paradis terrestre|N+NA+z1:mp
@@ -1431,7 +1430,6 @@ part d'intérêt||N+NDN:fs
 part de||NDET+Dnom12b
 part de butin||N+NDN+Conc:fs
 part de gâteau||N+NDN+Conc:fs
-part de gâteau||N+NDN+Conc:fs
 part de gâteau||N+NDN+Abst:fs
 part de l'|part de|NDET+Dnom12b
 part de la|part de|NDET+Dnom12b
@@ -1496,7 +1494,6 @@ parti agrarien||N+NA+HumColl:ms
 parti communiste||N+NA+HumColl+z1:ms
 parti conservateur||N+NA+HumColl+z1:ms
 parti d'opposition||N+NDN+HumColl:ms
-parti de Dieu||N+NDN+HumColl:ms
 parti de Dieu||N+NDN+HumColl:ms
 parti de Dieu||N+NDN+Abst:ms
 parti de droite||N+NDN+HumColl:ms
@@ -1985,7 +1982,6 @@ passage couvert||N+NA+Conc+z1:ms
 passage de||NDET+Dnom12b
 passage de l'|passage de|NDET+Dnom12b
 passage de la|passage de|NDET+Dnom12b
-passage de relais||N+NDN:ms
 passage de relais||N+NDN:ms
 passage de relais||N+NDN+Abst:ms
 passage difficile||N+NA+A12:ms
@@ -2894,7 +2890,6 @@ pension d'ancienneté||N+NDN:fs
 pension d'orphelin||N+NDN:fs
 pension de||NDET+Dnom7
 pension de famille||N+NDN+HumColl:fs
-pension de famille||N+NDN+HumColl:fs
 pension de famille||N+NDN+Conc:fs
 pension de famille de||NDET+Dnom7
 pension de guerre||N+NDN:fs
@@ -3379,7 +3374,6 @@ petit ange||N+AN+Hum:ms
 petit axe d'une ellipse||N+ANPN:ms
 petit banc||N+AN+Conc:ms
 petit bassin||N+AN:ms
-petit bassin||N+AN:ms
 petit bassin||N+AN+Conc:ms
 petit blanc||N+AN+Conc:ms
 petit blanc sec||N+ANA:ms
@@ -3623,7 +3617,6 @@ petites fortunes|petite fortune|N+AN:fp
 petites gens||N+AN+HumColl:fp
 petites gouttes|petite goutte|N+AN:fp
 petites heures|petite heure|N+AN:fp
-petites heures|petite heure|N+AN:fp
 petites heures||N+AN:fp
 petites horreurs|petite horreur|N+AN:fp
 petites idées|petite idée|N+AN:fp
@@ -3696,7 +3689,6 @@ petits faibles|petit faible|N+AN:mp
 petits faits|petit fait|N+AN:mp
 petits filets d'eau|petit filet d'eau|N+ANPN+Conc:mp
 petits formats|petit format|N+AN:mp
-petits fours||N+AN+Conc:mp
 petits fours||N+AN+Conc:mp
 petits fours|petit-four|N+AN:mp
 petits frères|petit frère|N+AN+Hum:mp
@@ -4336,7 +4328,6 @@ pierre de liais||N+NDN+Conc:fs
 pierre de meule||N+NDN+Conc:fs
 pierre de savon||N+NDN+Conc:fs
 pierre de taille||N+NDN+Conc:fs
-pierre de touche||N+NDN+Conc:fs
 pierre de touche||N+NDN+Conc:fs
 pierre de touche||N+NDN+Abst:fs
 pierre des Amazones||N+NDN+Conc:fs
@@ -5177,7 +5168,6 @@ plan de situation||N+NDN:ms
 plan de son|plan de|NDET+Dnom8
 plan de stabilisation||N+NDN:ms
 plan de supports||N+NDN:ms
-plan de travail||N+NDN+Conc:ms
 plan de travail||N+NDN+Conc:ms
 plan de travail||N+NDN+Abst:ms
 plan de vibration||N+NDN:ms
@@ -7124,7 +7114,6 @@ porte de placard||N+NDN+Conc:fs
 porte de service||N+NDN+Conc:fs
 porte de slalom||N+NDN+Conc:fs
 porte de sortie||N+NDN+Conc:fs
-porte de sortie||N+NDN+Conc:fs
 porte de sortie||N+NDN+Abst:fs
 porte de visite||N+NDN+Conc:fs
 porte dérobée||N+NA+Conc+E01+z1:fs
@@ -8546,7 +8535,6 @@ première cause de mortalité chez les femmes||N+NX4:fs
 première chaîne||N+AN:fs
 première chirurgicale||N+NA+z1:fs
 première classe||N+AN:fs
-première classe||N+AN:fs
 première classe||N+AN+Hum:ms
 première communiante|premier communiant|N+AN+Hum:fs
 première communion||N+AN:fs
@@ -9755,7 +9743,6 @@ produit de pays||N+NDN+Conc:ms
 produit de queue||N+NDN+Conc:ms
 produit de remplacement||N+NDN+Conc:ms
 produit de régime||N+NDN+Conc:ms
-produit de substitution||N+NDN:ms
 produit de substitution||N+NDN:ms
 produit de substitution||N+NDN+Conc:ms
 produit de synthèse||N+NDN+Conc:ms
