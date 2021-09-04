@@ -42,7 +42,6 @@ Framingham||N
 Franc-Comtoise|Franc-Comtois|N+AN+Hum:fs
 France||N+z1
 Franche-Comté||N+AN+Conc:fs
-Franche-Comté||N+AN+Conc:fs
 Franco-Américaine|Franco-Américain|N+XN+Hum:fs
 Franco-Américaines|Franco-Américain|N+XN+Hum+z1:fp
 Franco-Américains|Franco-Américain|N+XN+Hum:mp
@@ -5623,7 +5622,6 @@ franc||ADV+z1
 franc||A+z1:ms
 franc-bord||N+AN:ms
 franc-bourgeoises|franc-bourgeois|N+AN+Hum:fp
-franc-comtois||N+AN:ms
 franc-comtois||N+AN:ms
 franc-fief||N+AN+Conc:ms
 franc-jeu||N+AN:ms
