@@ -43,7 +43,7 @@ dict-fr-AU-DELA-common-compound-words.combined|French common compound words list
 
 Beside manual edits, apart from the *dict-fr-AU-DELA* file, these generated files went through the following transformations:
 * removal of escape backslashes
-* removal of lemma and grammatical info from dict-fr-DELA
+* removal of lemma and grammatical info from *dict-fr-AU-DELA*
 * lossless conversion of accents for the *\*-ascii* versions
 * combination of the *\*-ascii* and *\*-unicode* versions into the *\*-combined* ones (without duplicates)
 
