@@ -1,0 +1,4784 @@
+à Cayenne||A+EPC+z1
+à Charenton||A+EPC+z1
+à Dét autre titre||ADV+PAC+z1
+à Pâques ou à la Trinité||ADV+PCONJ+z1
+à Sainte-Anne||A+EPAC+z1
+à Tataouine||A+EPC+z1
+à accus||A+EPC+z1
+à affirmer||ADV+EPCPQ+z1
+à angle droit avec||PREP+EPCPN+z1
+à armes égales avec||PREP+EPCPN+z1
+à aucun prix||ADV+PDETC+z1
+à aucun prix||ADV+PAC+z1
+à babord||A+EPC+z1
+à bas prix||ADV+PAC+z1
+à bas régime||ADV+PAC+z1
+à base de||PREP+EPCDN+z1
+à base des|à base de|PREP+EPCDN+z1
+à basse altitude||ADV+PAC+z1
+à basse altitude||A+EPAC+z1
+à basse température||ADV+PAC+z1
+à beaucoup près||ADV+PAC+z1
+à belles dents||ADV+PAC+z1
+à bicyclette||ADV+PC+z1
+à bicyclette||A+EPC+z1
+à blanc||ADV+PC+z1
+à bloc||ADV+PC+z1
+à bois||A+EPC+z1
+à bon compte||ADV+PAC+z1
+à bon droit||ADV+PAC+z1
+à bon escient||ADV+PAC+z1
+à bon marché||ADV+PAC+z1
+à bon prix||ADV+PAC+z1
+à bon prix||ADV+ANP2+z1
+à bonne distance de||PREP+EPCDN+z1
+à bonne école||A+EPAC+z1
+à bord de||PREP+EPCDN+z1
+à bord des|à bord de|PREP+EPCDN+z1
+à bout||A+EPC+z1
+à bout de bras||ADV+PCDC+z1
+à bout de course||A+EPCDC+z1
+à bout de forces||A+EPCDC+z1
+à bout de nerfs||A+EPCDC+z1
+à bout de ressources||A+EPCDC+z1
+à bout de souffle||A+EPCDC+z1
+à bout portant||ADV+PCA+z1
+à bras d'homme||ADV+PCDC+z1
+à bras le corps||ADV+PCONJ+z1
+à bras ouverts||ADV+PCA+z1
+à bras raccourcis||ADV+PCA+z1
+à bref délai||ADV+PAC+z1
+à bref délai||A+EPAC+z1
+à bride abattue||ADV+PCA+z1
+à brève échéance||ADV+PAC+z1
+à brève échéance||A+EPAC+z1
+à brûle pourpoint||ADV+PAC+z1
+à bureaux fermés||ADV+PCA+z1
+à but lucratif||A+EPCA+z1
+à but non lucratif||A+EPCA+z1
+à bâtons rompus||ADV+PCA+z1
+à califourchon sur||PREP+EPCPN+z1
+à carte||A+EPC+z1
+à cause||ADV+PCDN+z1
+à cause d'|à cause de|PREP+PCDN1+z1
+à cause de|à cause|PREP+Prépconjs+1
+à cause de||PREP+PCDN+z1
+à cause de||PREP+PCDN1+z1
+à cause de||PREP+EPCPQ+z1
+à cause des|à cause|PREP+Prépconjs+1
+à cause des||PREP+Prépconjs+1
+à cause des|à cause de|PREP+PCDN+z1
+à cause des|à cause de|PREP+EPCPQ+z1
+à cause du|à cause|PREP+Prépconjs+1
+à cause du||PREP+Prépconjs+1
+à cause du|à cause de|PREP+PCDN+z1
+à cause du|à cause de|PREP+PCDN1+z1
+à ce compte-ci||ADV+PCA+z1
+à ce compte-là||ADV+PCA+z1
+à ce moment précis||ADV+PCA+z1
+à ce moment-là|au moment|ADV+Advconjs+5
+à ce petit jeu||ADV+PAC+z1
+à ce prix||ADV+PDETC+z1
+à ce prix||A+EPDETC+z1
+à ce propos ou à un autre||ADV+PCONJ+z1
+à ce que dit||ADV+PF+z1
+à ce simple titre||ADV+PAC+z1
+à ce sujet||ADV+PDETC+z1
+à ce titre ou à un autre||ADV+PCONJ+z1
+à ce train-là||ADV+PCA+z1
+à ceci près||ADV+Advconjs+7
+à ceci près que|à ceci près|CONJS+7
+à cela près||ADV+Advconjs+7
+à cela près que|à cela près|CONJS+7
+à cent lieues de||PREP+EPCPQ+z1
+à cent lieues des|à cent lieues de|PREP+EPCPQ+z1
+à cent pour cent||ADV+PCPC+z1
+à cent sous de l'heure||ADV+PCDC+z1
+à certains égards||ADV+PAC+z1
+à ces mots||ADV+PDETC+z1
+à cet effet||ADV+PDETC+z1
+à cet instant précis||ADV+PCA+z1
+à cet égard||ADV+PDETC+z1
+à cette condition que|à cette condition|CONJS+6
+à cette heure-ci||ADV+PCA+z1
+à cette heure-là|à l'heure|ADV+Advconjs+5+a
+à cette heure-là|à cette heure|ADV+Advconjs+5+a
+à cette heure-là||ADV+PCA+z1
+à cette minute là||ADV+PCA+z1
+à cette occasion||ADV+PDETC+z1
+à cette époque-là||ADV+PCA+z1
+à chaque coin de rue||ADV+PCDC+z1
+à chaque fois||ADV+Advconjs+5
+à chaque fois que|à chaque fois|CONJS+5
+à chaque instant||ADV+PDETC+z1
+à chaque moment||ADV+PDETC+z1
+à charbon||A+EPC+z1
+à charge||ADV+ANP2+z1
+à charge de revanche||ADV+PCDC+z1
+à charge de revanche||A+EPCDC+z1
+à chaud||ADV+PC+z1
+à cheval||A+EPC+z1
+à cheval sur||PREP+EPCPN+z1
+à cheval sur l'étiquette||A+EPCPC+z1
+à ciel ouvert||ADV+PCA+z1
+à ciel ouvert||A+EPCA+z1
+à claire-voie||A+EPAC+z1
+à cloche-pied||ADV+PAC+z1
+à coeur ouvert||ADV+PCA+z1
+à commencer par||ADV+PV+z1
+à concurrence||ADV+PCDN+z1
+à concurrence de||PREP+PCDN1+z1
+à condition de|à condition|PREP+Prépconjs+6
+à condition que|à condition|CONJS+6
+à considérer||ADV+EPCPQ+z1
+à consommer avec modération||A+EPCPC+z1
+à contre-coeur||ADV+PAC+z1
+à contre-courant||ADV+PCDN2+z1
+à contre-courant||ADV+PCDN+z1
+à contre-courant de||PREP+PCDN1+z1
+à contre-courant de||PREP+EPCDN+z1
+à contre-courant des|à contre-courant de|PREP+PCDN1+z1
+à contre-courant du|à contre-courant de|PREP+PCDN+z1
+à contre-jour||A+EPAC+z1
+à contre-voie||ADV+PAC+z1
+à contresens||ADV+PC+z1
+à contribution||A+EPC+z1
+à cor et à cri||ADV+PCONJ+z1
+à corps perdu||ADV+PCA+z1
+à coup sûr||ADV+PCA+z1
+à couper le souffle||A+EPCPC+z1
+à coups||ADV+PCDN+z1
+à coups de||PREP+PCDN+z1
+à coups de||PREP+PCDN1+z1
+à coups de pied au derrière||ADV+PCPC+z1
+à coups redoublés||ADV+PCA+z1
+à court d'arguments||A+EPCDC+z1
+à court terme||ADV+PAC+z1
+à courte distance d'|à courte distance de|PREP+EPCDN+z1
+à courte distance de||PREP+EPCDN+z1
+à courte distance du|à courte distance de|PREP+EPCDN+z1
+à courte portée||A+EPAC+z1
+à courte vue||A+EPAC+z1
+à courte échéance||ADV+PAC+z1
+à courte échéance||A+EPAC+z1
+à couteaux tirés avec||PREP+EPCPN+z1
+à couvert||ADV+PC+z1
+à cran||A+EPC+z1
+à croire||ADV+EPCPQ+z1
+à crédit||ADV+PC+z1
+à crédit||A+EPC+z1
+à côté||ADV+PCDN2+z1
+à côté||ADV+PCDN+z1
+à côté||A+EPC+z1
+à côté d'|à côté de|PREP+EPCDN+z1
+à côté de||PREP+PCDN+z1
+à côté de||PREP+PCDN1+z1
+à côté de||PREP+EPCDN+z1
+à côté de cela||ADV+PCDC+z1
+à côté de la plaque||A+EPCDC+z1
+à côté des|à côté de|PREP+PCDN+z1
+à côté du|à côté de|PREP+PCDN+z1
+à côté du sujet||A+EPCDC+z1
+à d'autres égards||ADV+PAC+z1
+à dada||A+EPC+z1
+à dates fixes||ADV+PCA+z1
+à de multiples égards||ADV+PAC+z1
+à de nombreux égards||ADV+PAC+z1
+à de tels instants||ADV+PAC+z1
+à demi||ADV+PC+z1
+à demi-mots||ADV+PAC+z1
+à demi-tarif||A+EPAC+z1
+à des degrés divers||ADV+PCA+z1
+à des heures impossibles||ADV+PCA+z1
+à des intervalles répétés||ADV+PCA+z1
+à des titres variés||ADV+PCA+z1
+à dessein||ADV+Advconjs+2
+à dessein||ADV+PC+z1
+à destination de||PREP+EPCDN+z1
+à destination du|à destination de|PREP+EPCDN+z1
+à destination finale des|à destination finale de|PREP+EPCDN+z1
+à deux||ADV+PC+z1
+à deux doigts de||PREP+EPCPQ+z1
+à deux faces||A+EPAC+z1
+à deux mains||ADV+PDETC+z1
+à deux pas de||PREP+EPCPQ+z1
+à deux pas de||PREP+EPCDN+z1
+à deux pas des|à deux pas de|PREP+EPCDN+z1
+à devenir fou||A+EPCA+z1
+à dire||ADV+EPCPQ+z1
+à dire le vrai||ADV+PV+z1
+à dire vrai||ADV+PV+z1
+à discrétion||ADV+PC+z1
+à discrétion||A+EPC+z1
+à distance||ADV+PC+z1
+à distance||A+EPC+z1
+à distance respectueuse d'|à distance respectueuse de|PREP+EPCDN+z1
+à distance respectueuse du|à distance respectueuse de|PREP+EPCDN+z1
+à divers égards||ADV+PAC+z1
+à dix coudées au dessus des|à dix coudées au dessus de|PREP+EPCDN+z1
+à dix crans au dessous de||PREP+EPCDN+z1
+à dix crans au dessus d'|à dix crans au dessus de|PREP+EPCDN+z1
+à dix crans au dessus du|à dix crans au dessus de|PREP+EPCDN+z1
+à domicile||ADV+PC+z1
+à dormir debout||A+EPCA+z1
+à dos||ADV+PCDN+z1
+à dos d'|à dos de|PREP+EPCDN+z1
+à dos d'âne||ADV+PCDC+z1
+à dos de||PREP+PCDN+z1
+à dos de||PREP+PCDN1+z1
+à dos de||PREP+EPCDN+z1
+à dos de chameau||ADV+PCDC+z1
+à dos de mulet||ADV+PCDC+z1
+à dos des|à dos de|PREP+EPCDN+z1
+à dos du|à dos de|PREP+PCDN1+z1
+à dose homéopathique||ADV+PCA+z1
+à double cloison||A+EPAC+z1
+à double détente||A+EPAC+z1
+à double entendement||A+EPAC+z1
+à double face||A+EPAC+z1
+à double fond||A+EPAC+z1
+à double sens||A+EPAC+z1
+à double tranchant||A+EPAC+z1
+à double vitrage||A+EPAC+z1
+à droite de||PREP+EPCDN+z1
+à droite des|à droite de|PREP+EPCDN+z1
+à droite et à gauche||A+EPCPC+z1
+à droite à gauche||ADV+PCONJ+z1
+à découvert||A+EPC+z1
+à défaut||ADV+Advconjs+4
+à défaut||PCDN3
+à défaut||ADV+PCDN+z1
+à défaut de|à défaut|PREP+Prépconjs+4
+à défaut de||PREP+PCDN+z1
+à défaut de||PREP+PCDN1+z1
+à défaut de mieux||ADV+PCDC+z1
+à défaut des|à défaut|PREP+Prépconjs+4
+à défaut des|à défaut de|PREP+PCDN+z1
+à défaut du|à défaut de|PREP+PCDN1+z1
+à dégueuler||A+EPC+z1
+à déjeuner||ADV+ANP2+z1
+à désespérer||A+EPC+z1
+à dîner||ADV+ANP2+z1
+à eau||A+EPC+z1
+à effet||A+EPC+z1
+à en croire||ADV+PV+z1
+à en juger par||ADV+PV+z1
+à en-tête||A+EPAC+z1
+à entendre||ADV+PV+z1
+à envier||A+EPC+z1
+à essence||A+EPC+z1
+à facettes||A+EPC+z1
+à faible distance de||PREP+EPCDN+z1
+à faible potentiel||A+EPAC+z1
+à faire peur||A+EPCPC+z1
+à faire peur||A+EPCA+z1
+à faire tout||ADV+PV+z1
+à faire vomir||A+EPCA+z1
+à fendre l'âme||A+EPCPC+z1
+à fendre la Âme||ADV+PV+z1
+à feu doux||ADV+PCA+z1
+à feu et à sang||A+EPCPC+z1
+à feu vif||ADV+PCA+z1
+à flanc de colline||A+EPCDC+z1
+à flanc de coteau||A+EPCDC+z1
+à flanc de montagne||A+EPCDC+z1
+à fleur d'|à fleur de|PREP+EPCDN+z1
+à fleur de||PREP+EPCDN+z1
+à flot||A+EPC+z1
+à fond||ADV+PC+z1
+à fond||A+EPC+z1
+à fond de cale||ADV+PCDC+z1
+à fond de cale||A+EPCDC+z1
+à fond de train||ADV+PCDC+z1
+à fond la caisse||ADV+PCONJ+z1
+à fonds perdus||ADV+PCA+z1
+à force||ADV+Advconjs+1
+à force||ADV+PC+z1
+à force de|à force|PREP+Prépconjs+1
+à four chaud||ADV+PCA+z1
+à fourrure||A+EPC+z1
+à franges||A+EPC+z1
+à froid||ADV+PC+z1
+à front découvert||ADV+PCA+z1
+à gauche||ADV+ANP2+z1
+à gauche de||PREP+EPCDN+z1
+à gauche des|à gauche de|PREP+EPCDN+z1
+à gaz||A+EPC+z1
+à genoux||ADV+PC+z1
+à genoux||A+EPC+z1
+à genoux dans||PREP+EPCPN+z1
+à genoux devant||PREP+EPCPN+z1
+à giorno||A+EPC+z1
+à glissière||A+EPC+z1
+à gogo||ADV+PC+z1
+à gorge déployée||ADV+PCA+z1
+à goûter||ADV+ANP2+z1
+à grand bruit||ADV+PAC+z1
+à grand fracas||ADV+PAC+z1
+à grand peine||ADV+PAC+z1
+à grand renfort||ADV+PCDN+z1
+à grand renfort de||PREP+PCDN+z1
+à grand renfort de||PREP+PCDN1+z1
+à grand spectacle||A+EPAC+z1
+à grande distance de||PREP+EPCDN+z1
+à grande eau||ADV+PAC+z1
+à grande échelle||A+EPAC+z1
+à grandes enjambées||ADV+PAC+z1
+à grandes gorgées||ADV+PAC+z1
+à grandes lampées||ADV+PAC+z1
+à grands coups||ADV+PAC+z1
+à grands cris||ADV+PAC+z1
+à grands flots||ADV+PAC+z1
+à grands frais||ADV+PAC+z1
+à grands pas||ADV+PAC+z1
+à grands renforts||ADV+PCDN+z1
+à grands renforts de||PREP+PCDN+z1
+à grands renforts de||PREP+PCDN1+z1
+à grands renforts des|à grands renforts de|PREP+PCDN1+z1
+à grands traits||ADV+PAC+z1
+à gros carreaux||A+EPAC+z1
+à grosses gouttes||ADV+PAC+z1
+à guichets fermés||ADV+PCA+z1
+à gué||ADV+PC+z1
+à géométrie variable||A+EPCA+z1
+à haut potentiel||A+EPAC+z1
+à haut rendement||A+EPAC+z1
+à haut risque||A+EPAC+z1
+à haute altitude||ADV+PAC+z1
+à haute altitude||A+EPAC+z1
+à haute fréquence||A+EPAC+z1
+à haute température||ADV+PAC+z1
+à haute tension||A+EPAC+z1
+à hauteur||ADV+PCDN+z1
+à hauteur d'|à hauteur de|PREP+PCDN1+z1
+à hauteur de||PREP+PCDN+z1
+à hauteur de||PREP+PCDN1+z1
+à hauteur des|à hauteur de|PREP+PCDN1+z1
+à heures fixes||ADV+PCA+z1
+à huis-clos||ADV+PCA+z1
+à huis-clos||A+EPCA+z1
+à huitaine||ADV+PC+z1
+à intervalles fixes||ADV+PCA+z1
+à intervalles irréguliers||ADV+PCA+z1
+à intervalles rapprochés||ADV+PCA+z1
+à intervalles réguliers||ADV+PCA+z1
+à intervalles réguliers||A+EPCA+z1
+à jamais||ADV+PC+z1
+à jet continu||ADV+PCA+z1
+à jeun||A+EPC+z1
+à jour||A+EPC+z1
+à juste raison||ADV+PAC+z1
+à juste titre||ADV+PAC+z1
+à l'Académie des Inscriptions et Belles Lettres||A+EPCDC+z1
+à l'Académie française||A+EPCA+z1
+à l'Assemblée nationale||A+EPCA+z1
+à l'Opéra comique||A+EPCA+z1
+à l'a b c des|à l'a b c de|PREP+EPCDN+z1
+à l'abandon||A+EPDETC+z1
+à l'abattoir||A+EPDETC+z1
+à l'abord des|à l'abord de|PREP+EPCDN+z1
+à l'abordage||A+EPDETC+z1
+à l'aboutissement d'|à l'aboutissement de|PREP+EPCDN+z1
+à l'aboutissement de||PREP+EPCDN+z1
+à l'aboutissement du|à l'aboutissement de|PREP+EPCDN+z1
+à l'abri de||PREP+EPCPQ+z1
+à l'abri de||PREP+EPCDN+z1
+à l'abri des regards indiscrets||A+EPCDC+z1
+à l'abri du|à l'abri de|PREP+EPCPQ+z1
+à l'abri du besoin||A+EPCDC+z1
+à l'abricot||A+EPDETC+z1
+à l'accueil de||PREP+EPCDN+z1
+à l'accueil des|à l'accueil de|PREP+EPCDN+z1
+à l'achat||ADV+PDETC+z1
+à l'achèvement de||PREP+EPCDN+z1
+à l'actif de||PREP+EPCDN+z1
+à l'actif des|à l'actif de|PREP+EPCDN+z1
+à l'adresse de||PREP+EPCDN+z1
+à l'affiche de||PREP+EPCDN+z1
+à l'affleurement des|à l'affleurement de|PREP+EPCDN+z1
+à l'affût||A+EPDETC+z1
+à l'affût de||PREP+EPCDN+z1
+à l'agonie||A+EPDETC+z1
+à l'aide||ADV+PCDN+z1
+à l'aide de||PREP+PCDN+z1
+à l'aide de||PREP+PCDN1+z1
+à l'aide des|à l'aide de|PREP+PCDN+z1
+à l'ail||A+EPDETC+z1
+à l'aimable attention de||PREP+EPCDN+z1
+à l'air du grand large||A+EPCDC+z1
+à l'air libre||ADV+PCA+z1
+à l'air libre||A+EPCA+z1
+à l'aise||ADV+PDETC+z1
+à l'aise||A+EPDETC+z1
+à l'aise avec||PREP+EPCPN+z1
+à l'aise dans||PREP+EPCPN+z1
+à l'alcool||ADV+PDETC+z1
+à l'aller||ADV+PDETC+z1
+à l'alto||A+EPDETC+z1
+à l'amende||A+EPDETC+z1
+à l'amiable||ADV+PDETC+z1
+à l'amorce de||PREP+EPCDN+z1
+à l'ancienne||ADV+PDETC+z1
+à l'ancienne||A+EPDETC+z1
+à l'ancienne mode||A+EPAC+z1
+à l'ancre||A+EPDETC+z1
+à l'anis||A+EPDETC+z1
+à l'année||ADV+PDETC+z1
+à l'antenne||A+EPDETC+z1
+à l'antique||A+EPDETC+z1
+à l'antithèse d'|à l'antithèse de|PREP+EPCDN+z1
+à l'antithèse du|à l'antithèse de|PREP+EPCDN+z1
+à l'aplomb de||PREP+EPCDN+z1
+à l'aplomb des|à l'aplomb de|PREP+EPCDN+z1
+à l'apogée de||PREP+EPCDN+z1
+à l'apothéose d'|à l'apothéose de|PREP+EPCDN+z1
+à l'apothéose de||PREP+EPCDN+z1
+à l'apothéose du|à l'apothéose de|PREP+EPCDN+z1
+à l'appareil||A+EPDETC+z1
+à l'appel||ADV+PCDN+z1
+à l'appel de||PREP+PCDN+z1
+à l'appel de||PREP+PCDN1+z1
+à l'appel des|à l'appel de|PREP+PCDN+z1
+à l'appel du|à l'appel de|PREP+PCDN+z1
+à l'approche||ADV+PCDN+z1
+à l'approche de||PREP+PCDN+z1
+à l'approche de||PREP+PCDN1+z1
+à l'approche des|à l'approche de|PREP+PCDN+z1
+à l'approche des|à l'approche de|PREP+PCDN1+z1
+à l'approche du|à l'approche de|PREP+PCDN+z1
+à l'appréciation d'|à l'appréciation de|PREP+EPCDN+z1
+à l'appréciation de||PREP+EPCDN+z1
+à l'appréciation du|à l'appréciation de|PREP+EPCDN+z1
+à l'appui de||PREP+EPCDN+z1
+à l'appui des|à l'appui de|PREP+EPCDN+z1
+à l'apéritif||A+EPDETC+z1
+à l'arbitrage d'|à l'arbitrage de|PREP+EPCDN+z1
+à l'arbitrage de||PREP+EPCDN+z1
+à l'arbitrage du|à l'arbitrage de|PREP+EPCDN+z1
+à l'arraché||ADV+PDETC+z1
+à l'arrivée||ADV+PDETC+z1
+à l'arrivée||ADV+PCDN2+z1
+à l'arrivée||ADV+PCDN+z1
+à l'arrivée de||PREP+PCDN+z1
+à l'arrivée de||PREP+PCDN1+z1
+à l'arrivée des|à l'arrivée de|PREP+PCDN+z1
+à l'arrivée du|à l'arrivée de|PREP+PCDN+z1
+à l'arrière de||PREP+EPCDN+z1
+à l'arrière-garde de||PREP+EPCDN+z1
+à l'arrière-garde des|à l'arrière-garde de|PREP+EPCDN+z1
+à l'arrière-plan de||PREP+EPCDN+z1
+à l'arrêt||A+EPDETC+z1
+à l'article de la mort||A+EPCDC+z1
+à l'asile||A+EPDETC+z1
+à l'assurance||A+EPDETC+z1
+à l'atelier||A+EPDETC+z1
+à l'attention d'|à l'attention de|PREP+EPCDN+z1
+à l'attention de||PREP+EPCDN+z1
+à l'attention du|à l'attention de|PREP+EPCDN+z1
+à l'aube||ADV+PDETC+z1
+à l'aube||ADV+PCDN+z1
+à l'aube d'|à l'aube de|PREP+PCDN1+z1
+à l'aube de||PREP+PCDN+z1
+à l'aube de||PREP+PCDN1+z1
+à l'aube de||PREP+EPCPQ+z1
+à l'aube de||PREP+EPCDN+z1
+à l'aube de la vie||ADV+PCDN+z1
+à l'aube de la vie de||PREP+PCDN1+z1
+à l'aube des|à l'aube de|PREP+PCDN+z1
+à l'aube des|à l'aube de|PREP+EPCPQ+z1
+à l'aube du||PREP+PCDN+z1
+à l'aube du|à l'aube de|PREP+PCDN+z1
+à l'aube du|à l'aube de|PREP+EPCPQ+z1
+à l'aune de||PREP+EPCDN+z1
+à l'aune des|à l'aune de|PREP+EPCDN+z1
+à l'aurore||ADV+PDETC+z1
+à l'aurore||ADV+PCDN+z1
+à l'aurore de||PREP+PCDN1+z1
+à l'aurore de la vie d'|à l'aurore de la vie de|PREP+PCDN1+z1
+à l'aurore de la vie du|à l'aurore de la vie de|PREP+PCDN1+z1
+à l'autre bout de||PREP+EPCDN+z1
+à l'autre extrémité de||PREP+EPCDN+z1
+à l'autre extrémité des|à l'autre extrémité de|PREP+EPCDN+z1
+à l'avance||ADV+PDETC+z1
+à l'avant d'|à l'avant de|PREP+EPCDN+z1
+à l'avant de||PREP+EPCDN+z1
+à l'avant du|à l'avant de|PREP+EPCDN+z1
+à l'avant-garde de||PREP+EPCDN+z1
+à l'avant-veille||ADV+PCDN+z1
+à l'avant-veille d'|à l'avant-veille de|PREP+PCDN1+z1
+à l'avant-veille de||PREP+PCDN1+z1
+à l'avant-veille du|à l'avant-veille de|PREP+PCDN1+z1
+à l'avantage||ADV+PCDN+z1
+à l'avantage d'|à l'avantage de|PREP+PCDN1+z1
+à l'avantage de||PREP+PCDN1+z1
+à l'avantage de||PREP+EPCDN+z1
+à l'avantage des|à l'avantage de|PREP+PCDN+z1
+à l'avantage du|à l'avantage de|PREP+PCDN1+z1
+à l'avenant||A+EPDETC+z1
+à l'avenir||ADV+PDETC+z1
+à l'aveuglette||ADV+PDETC+z1
+à l'avènement||ADV+PCDN+z1
+à l'avènement de||PREP+PCDN+z1
+à l'avènement de||PREP+PCDN1+z1
+à l'avènement de||PREP+EPCDN+z1
+à l'avènement des|à l'avènement de|PREP+EPCDN+z1
+à l'avènement du|à l'avènement de|PREP+PCDN+z1
+à l'eau||ADV+PDETC+z1
+à l'eau||A+EPDETC+z1
+à l'eau de pluie||A+EPCDC+z1
+à l'eau de rose||A+EPCDC+z1
+à l'eau plate||A+EPCA+z1
+à l'effet de|à l'effet|PREP+Prépconjs+2
+à l'emploi du temps d'|à l'emploi du temps de|PREP+EPCDN+z1
+à l'emploi du temps du|à l'emploi du temps de|PREP+EPCDN+z1
+à l'emporte-pièce||ADV+PAC+z1
+à l'emporte-pièce||A+EPCA+z1
+à l'encan||ADV+PDETC+z1
+à l'endroit||ADV+PCDN+z1
+à l'endroit||A+EPDETC+z1
+à l'endroit de||PREP+PCDN+z1
+à l'endroit de||PREP+PCDN1+z1
+à l'endroit de||PREP+EPCDN+z1
+à l'endroit du|à l'endroit de|PREP+PCDN+z1
+à l'enseigne de||PREP+EPCDN+z1
+à l'enterrement de||PREP+EPCDN+z1
+à l'entière disposition des|à l'entière disposition de|PREP+EPCDN+z1
+à l'entracte||ADV+PDETC+z1
+à l'entracte||A+EPDETC+z1
+à l'entraînement||A+EPDETC+z1
+à l'entresol||A+EPDETC+z1
+à l'entrée de||PREP+EPCDN+z1
+à l'entrée de l'hiver||ADV+PCDC+z1
+à l'entrée des|à l'entrée de|PREP+EPCDN+z1
+à l'envers||A+EPDETC+z1
+à l'envers de||PREP+EPCDN+z1
+à l'envi||ADV+PDETC+z1
+à l'esbrouffe||ADV+ANP2+z1
+à l'essai||A+EPDETC+z1
+à l'essence||ADV+PDETC+z1
+à l'est d'|à l'est de|PREP+EPCDN+z1
+à l'est de||PREP+EPCDN+z1
+à l'est du|à l'est de|PREP+EPCDN+z1
+à l'estime||ADV+PDETC+z1
+à l'estomac||ADV+PDETC+z1
+à l'estomac||ADV+ANP2+z1
+à l'estuaire de||PREP+EPCDN+z1
+à l'examen||A+EPDETC+z1
+à l'exception||ADV+PCDN+z1
+à l'exception de|à l'exception|PREP+Prépconjs+7
+à l'exception de||PREP+Prépconjs+7
+à l'exception de||PREP+PCDN+z1
+à l'exception de||PREP+PCDN1+z1
+à l'exception des|à l'exception|PREP+Prépconjs+7
+à l'exception des|à l'exception de|PREP+PCDN+z1
+à l'exception du|à l'exception|PREP+Prépconjs+7
+à l'exception du||PREP+Prépconjs+7
+à l'exception du|à l'exception de|PREP+PCDN+z1
+à l'exclusion||ADV+PCDN+z1
+à l'exclusion de|à l'exclusion|PREP+Prépconjs+7
+à l'exclusion de||PREP+PCDN+z1
+à l'exclusion de||PREP+PCDN1+z1
+à l'exclusion des|à l'exclusion|PREP+Prépconjs+7
+à l'exclusion des|à l'exclusion de|PREP+PCDN+z1
+à l'excès||ADV+PDETC+z1
+à l'exemple||ADV+PCDN+z1
+à l'exemple d'|à l'exemple de|PREP+PCDN1+z1
+à l'exemple de||PREP+PCDN+z1
+à l'exemple de||PREP+PCDN1+z1
+à l'exemple de||PREP+EPCDN+z1
+à l'exemple des|à l'exemple de|PREP+EPCDN+z1
+à l'exemple du|à l'exemple de|PREP+PCDN1+z1
+à l'exercice||A+EPDETC+z1
+à l'expérience||ADV+PDETC+z1
+à l'extrémité de||PREP+EPCDN+z1
+à l'extrémité des|à l'extrémité de|PREP+EPCDN+z1
+à l'extrême||ADV+PDETC+z1
+à l'extrême droite de||PREP+EPCDN+z1
+à l'extrême gauche d'|à l'extrême gauche de|PREP+EPCDN+z1
+à l'extrême gauche de||PREP+EPCDN+z1
+à l'extrême gauche du|à l'extrême gauche de|PREP+EPCDN+z1
+à l'extrême limite de||PREP+EPCDN+z1
+à l'extérieur||ADV+PDETC+z1
+à l'extérieur de||PREP+EPCDN+z1
+à l'extérieur des|à l'extérieur de|PREP+EPCDN+z1
+à l'hallali||A+EPDETC+z1
+à l'hasard des|à l'hasard de|PREP+PCDN1+z1
+à l'heure||ADV+PDETC+z1
+à l'heure||ADV+PCDN+z1
+à l'heure||A+EPDETC+z1
+à l'heure d'|à l'heure de|PREP+PCDN1+z1
+à l'heure de||PREP+PCDN+z1
+à l'heure de||PREP+PCDN1+z1
+à l'heure de vérité||A+EPCDC+z1
+à l'heure des|à l'heure de|PREP+PCDN+z1
+à l'heure du|à l'heure de|PREP+PCDN+z1
+à l'heure du|à l'heure de|PREP+PCDN1+z1
+à l'heure exacte||ADV+PCA+z1
+à l'heure légale||A+EPCA+z1
+à l'heure où|à l'heure|CONJS+5+b
+à l'heure où|à l'heure|CONJS+5+a
+à l'heure pile||ADV+PCA+z1
+à l'heure présente||ADV+PCA+z1
+à l'honneur||A+EPDETC+z1
+à l'honneur de||PREP+EPCDN+z1
+à l'honte de||PREP+PCDN1+z1
+à l'horizon||A+EPDETC+z1
+à l'horizon 1992||A+EPCA+z1
+à l'horizon 2000||A+EPCA+z1
+à l'horizontale||A+EPDETC+z1
+à l'horizontale de||PREP+EPCDN+z1
+à l'hospice||A+EPDETC+z1
+à l'huile||ADV+PDETC+z1
+à l'huile||A+EPDETC+z1
+à l'huile au vinaigre||A+EPCPC+z1
+à l'huile de colza||A+EPCDC+z1
+à l'huile de lin||A+EPCDC+z1
+à l'huile de noix||A+EPCDC+z1
+à l'huile de tournesol||A+EPCDC+z1
+à l'hôpital||A+EPDETC+z1
+à l'hôpital de||PREP+EPCDN+z1
+à l'hôtel||A+EPDETC+z1
+à l'idée d'|à l'idée de|PREP+EPCDN+z1
+à l'idée de||PREP+EPCDN+z1
+à l'idée du|à l'idée de|PREP+EPCDN+z1
+à l'image de||PREP+EPCDN+z1
+à l'image des|à l'image de|PREP+EPCDN+z1
+à l'imitation de||PREP+EPCDN+z1
+à l'impression||A+EPDETC+z1
+à l'imprimerie||A+EPDETC+z1
+à l'index||A+EPDETC+z1
+à l'index de||PREP+EPCDN+z1
+à l'infini||ADV+PDETC+z1
+à l'infirmerie||A+EPDETC+z1
+à l'initiative||ADV+PCDN2+z1
+à l'initiative||ADV+PCDN+z1
+à l'initiative de||PREP+PCDN+z1
+à l'initiative de||PREP+PCDN1+z1
+à l'initiative de||PREP+EPCDN+z1
+à l'initiative des|à l'initiative de|PREP+PCDN+z1
+à l'initiative du|à l'initiative de|PREP+PCDN+z1
+à l'injonction de||PREP+EPCDN+z1
+à l'injonction des|à l'injonction de|PREP+EPCDN+z1
+à l'inspection||A+EPDETC+z1
+à l'instant d'après||ADV+PCDC+z1
+à l'instant du|à l'instant|PREP+Prépconjs+5
+à l'instant même||ADV+PCA+z1
+à l'instant où|à l'instant|CONJS+5
+à l'instant venu||ADV+PCA+z1
+à l'instar||ADV+PCDN+z1
+à l'instar de||PREP+PCDN+z1
+à l'instar de||PREP+PCDN1+z1
+à l'instar des|à l'instar de|PREP+PCDN+z1
+à l'instar du|à l'instar de|PREP+PCDN+z1
+à l'instigation||ADV+PCDN+z1
+à l'instigation de||PREP+PCDN+z1
+à l'instigation de||PREP+PCDN1+z1
+à l'instigation de||PREP+EPCDN+z1
+à l'instinct||ADV+PDETC+z1
+à l'insu||ADV+PCDN+z1
+à l'insu de||PREP+PCDN+z1
+à l'insu de||PREP+PCDN1+z1
+à l'insu des|à l'insu de|PREP+PCDN+z1
+à l'intention de||PREP+EPCDN+z1
+à l'intention des|à l'intention de|PREP+EPCDN+z1
+à l'interclasse||ADV+PDETC+z1
+à l'interface entre||PREP+EPCPN+z1
+à l'intersection entre||PREP+EPCPN+z1
+à l'intuition||ADV+PDETC+z1
+à l'intérieur d'|à l'intérieur de|PREP+EPCDN+z1
+à l'intérieur de||PREP+EPCDN+z1
+à l'intérieur du|à l'intérieur de|PREP+EPCDN+z1
+à l'inverse||ADV+PCDN2+z1
+à l'inverse||ADV+PCDN+z1
+à l'inverse de||PREP+PCDN+z1
+à l'inverse de||PREP+PCDN1+z1
+à l'inverse des|à l'inverse de|PREP+PCDN+z1
+à l'invitation de||PREP+EPCDN+z1
+à l'invitation des|à l'invitation de|PREP+EPCDN+z1
+à l'issue||ADV+PCDN+z1
+à l'issue d'|à l'issue de|PREP+PCDN1+z1
+à l'issue de||PREP+PCDN+z1
+à l'issue de||PREP+PCDN1+z1
+à l'issue de||PREP+EPCDN+z1
+à l'issue des|à l'issue de|PREP+PCDN+z1
+à l'issue des|à l'issue de|PREP+EPCDN+z1
+à l'issue du|à l'issue de|PREP+PCDN+z1
+à l'issue du|à l'issue de|PREP+PCDN1+z1
+à l'italienne||A+EPDETC+z1
+à l'occasion||ADV+PDETC+z1
+à l'occasion||ADV+PCDN+z1
+à l'occasion d'|à l'occasion de|PREP+PCDN1+z1
+à l'occasion de||PREP+PCDN+z1
+à l'occasion de||PREP+PCDN1+z1
+à l'occasion des||PREP+PCDN+z1
+à l'occasion des|à l'occasion de|PREP+PCDN+z1
+à l'occasion du|à l'occasion de|PREP+PCDN+z1
+à l'occasion du|à l'occasion de|PREP+PCDN1+z1
+à l'occidentale||A+EPDETC+z1
+à l'oeil||ADV+PDETC+z1
+à l'oeil||ADV+ANP2+z1
+à l'oeil||A+EPDETC+z1
+à l'oeil nu||ADV+PCA+z1
+à l'oeuvre||A+EPDETC+z1
+à l'office||A+EPDETC+z1
+à l'office du matin||A+EPCDC+z1
+à l'oignon||A+EPDETC+z1
+à l'ombre||A+EPDETC+z1
+à l'ombre de||PREP+EPCDN+z1
+à l'ombre des lois||ADV+PCDC+z1
+à l'opposite des|à l'opposite de|PREP+PCDN1+z1
+à l'opposé||ADV+PCDN2+z1
+à l'opposé||ADV+PCDN+z1
+à l'opposé de||PREP+PCDN+z1
+à l'opposé de||PREP+PCDN1+z1
+à l'opposé de||PREP+EPCPQ+z1
+à l'opposé de||PREP+EPCDN+z1
+à l'opposé des|à l'opposé de|PREP+PCDN+z1
+à l'opposé des|à l'opposé de|PREP+EPCDN+z1
+à l'opéra||A+EPDETC+z1
+à l'oral de||PREP+EPCDN+z1
+à l'oral des|à l'oral de|PREP+EPCDN+z1
+à l'orange||ADV+PDETC+z1
+à l'orange||A+EPDETC+z1
+à l'ordinaire||ADV+PDETC+z1
+à l'ordre du jour||A+EPCDC+z1
+à l'orientale||A+EPDETC+z1
+à l'origine||ADV+PDETC+z1
+à l'origine de||PREP+EPCDN+z1
+à l'orée de||PREP+EPCDN+z1
+à l'orée des|à l'orée de|PREP+EPCDN+z1
+à l'ouest d'|à l'ouest de|PREP+EPCDN+z1
+à l'ouest de||PREP+EPCDN+z1
+à l'ouest du|à l'ouest de|PREP+EPCDN+z1
+à l'ouverture||ADV+PCDN+z1
+à l'ouverture de||PREP+PCDN+z1
+à l'ouverture de||PREP+PCDN1+z1
+à l'ouverture des|à l'ouverture de|PREP+PCDN1+z1
+à l'ouverture du|à l'ouverture de|PREP+PCDN+z1
+à l'ouvrage||A+EPDETC+z1
+à l'unanimité||ADV+PCDN2+z1
+à l'unanimité||ADV+PCDN+z1
+à l'unanimité de||PREP+PCDN+z1
+à l'unanimité de||PREP+PCDN1+z1
+à l'unanimité des|à l'unanimité de|PREP+PCDN+z1
+à l'unanimité des|à l'unanimité de|PREP+PCDN1+z1
+à l'une de||PREP+EPCDN+z1
+à l'une des|à l'une de|PREP+EPCDN+z1
+à l'unité||A+EPDETC+z1
+à l'université||A+EPDETC+z1
+à l'usage||ADV+PDETC+z1
+à l'usage de||PREP+EPCDN+z1
+à l'usage des|à l'usage de|PREP+EPCDN+z1
+à l'usine||A+EPDETC+z1
+à l'usure||ADV+ANP2+z1
+à l'âge||ADV+PCDN+z1
+à l'âge d'|à l'âge de|PREP+PCDN1+z1
+à l'âge de||PREP+PCDN1+z1
+à l'âge de||PREP+EPCPQ+z1
+à l'âge de la retraite||A+EPCDC+z1
+à l'âge de pierre||A+EPCDC+z1
+à l'âge de six mois||ADV+PCDC+z1
+à l'âge des|à l'âge de|PREP+EPCPQ+z1
+à l'âge du fer||A+EPCDC+z1
+à l'âge ingrat||A+EPCA+z1
+à l'âge mûr||A+EPCA+z1
+à l'écart d'|à l'écart de|PREP+EPCDN+z1
+à l'écart de||PREP+EPCDN+z1
+à l'écart de tout||A+EPCDC+z1
+à l'échelle||A+EPDETC+z1
+à l'échelle atomique||A+EPCA+z1
+à l'échelle cosmique||A+EPCA+z1
+à l'échelle de||PREP+EPCDN+z1
+à l'échelle de la cellule||A+EPCDC+z1
+à l'échelle de la planète||A+EPCDC+z1
+à l'échelle du pays||A+EPCDC+z1
+à l'échelle humaine||A+EPCA+z1
+à l'échelle macroscopique||A+EPCA+z1
+à l'échelle moléculaire||A+EPCA+z1
+à l'échelle nucléaire||A+EPCA+z1
+à l'échelle planétaire||A+EPCA+z1
+à l'échelon international||ADV+PCA+z1
+à l'échelon local||ADV+PCA+z1
+à l'échelon national||ADV+PCA+z1
+à l'échelon régional||ADV+PCA+z1
+à l'école||A+EPDETC+z1
+à l'école de||PREP+EPCDN+z1
+à l'école maternelle||A+EPCA+z1
+à l'économie||A+EPDETC+z1
+à l'écouteur||A+EPDETC+z1
+à l'écran||A+EPDETC+z1
+à l'écrit de||PREP+EPCDN+z1
+à l'égal||ADV+PCDN+z1
+à l'égal d'|à l'égal de|PREP+EPCDN+z1
+à l'égal de||PREP+PCDN1+z1
+à l'égal de||PREP+EPCDN+z1
+à l'égal du|à l'égal de|PREP+EPCDN+z1
+à l'égard||ADV+PCDN+z1
+à l'égard d'|à l'égard de|PREP+PCDN1+z1
+à l'égard de||PREP+PCDN1+z1
+à l'égard du|à l'égard de|PREP+PCDN1+z1
+à l'électricité||ADV+PDETC+z1
+à l'électricité||A+EPDETC+z1
+à l'épaule||ADV+ANP2+z1
+à l'épicerie||A+EPDETC+z1
+à l'époque||ADV+PDETC+z1
+à l'époque||ADV+PCDN+z1
+à l'époque de|à l'époque|PREP+Prépconjs+5
+à l'époque de||PREP+PCDN+z1
+à l'époque de||PREP+PCDN1+z1
+à l'époque des|à l'époque|PREP+Prépconjs+5
+à l'époque des|à l'époque de|PREP+PCDN+z1
+à l'époque du|à l'époque|PREP+Prépconjs+5
+à l'époque du||PREP+PCDN+z1
+à l'époque du|à l'époque de|PREP+PCDN+z1
+à l'époque où|à l'époque|CONJS+5
+à l'époque que|à l'époque|CONJS+5
+à l'épreuve de||PREP+EPCDN+z1
+à l'épreuve des|à l'épreuve de|PREP+EPCDN+z1
+à l'équateur||A+EPDETC+z1
+à l'étage||A+EPDETC+z1
+à l'étage au dessus||A+EPCPC+z1
+à l'étage de||PREP+EPCDN+z1
+à l'étage des|à l'étage de|PREP+EPCDN+z1
+à l'étage inférieur de||PREP+EPCDN+z1
+à l'étage supérieur d'|à l'étage supérieur de|PREP+EPCDN+z1
+à l'étage supérieur du|à l'étage supérieur de|PREP+EPCDN+z1
+à l'étalage||A+EPDETC+z1
+à l'étale||A+EPDETC+z1
+à l'étape||ADV+PDETC+z1
+à l'état brut||A+EPCA+z1
+à l'état chronique||A+EPCA+z1
+à l'état d'ébauche||A+EPCDC+z1
+à l'état de projet||A+EPCDC+z1
+à l'état de traces dans||PREP+EPCPN+z1
+à l'état latent||A+EPCA+z1
+à l'état naturel||A+EPCA+z1
+à l'état poudreux||A+EPCA+z1
+à l'état pâteux||A+EPCA+z1
+à l'état sauvage||A+EPCA+z1
+à l'état solide||A+EPCA+z1
+à l'étouffée||ADV+PDETC+z1
+à l'étouffée||A+EPDETC+z1
+à l'étranger||A+EPDETC+z1
+à l'étroit dans||PREP+EPCPN+z1
+à l'évidence||ADV+PDETC+z1
+à l'île de||PREP+EPCDN+z1
+à l'île des|à l'île de|PREP+EPCDN+z1
+à la Libération||ADV+PDETC+z1
+à la Noël||ADV+PDETC+z1
+à la baisse||ADV+PDETC+z1
+à la banque||A+EPDETC+z1
+à la barbe||ADV+PCDN+z1
+à la barbe de||PREP+PCDN1+z1
+à la barbe du|à la barbe de|PREP+PCDN+z1
+à la base de||PREP+EPCDN+z1
+à la basse||A+EPDETC+z1
+à la belle saison||ADV+PAC+z1
+à la belle étoile||ADV+PAC+z1
+à la bonne||ADV+ANP2+z1
+à la bonne dimension||A+EPAC+z1
+à la bonne franquette||ADV+PAC+z1
+à la bonne largeur||A+EPAC+z1
+à la bonne saison||A+EPAC+z1
+à la bonne épaisseur||A+EPAC+z1
+à la bordure d'|à la bordure de|PREP+EPCDN+z1
+à la bordure du|à la bordure de|PREP+EPCDN+z1
+à la bouche||ADV+ANP2+z1
+à la boucherie||A+EPDETC+z1
+à la boulangerie||A+EPDETC+z1
+à la bourre||A+EPDETC+z1
+à la boutonnière||ADV+ANP2+z1
+à la brasse||ADV+PDETC+z1
+à la broche||ADV+PDETC+z1
+à la béchamel||A+EPDETC+z1
+à la cadence de||PREP+EPCDN+z1
+à la campagne||ADV+PDETC+z1
+à la campagne||A+EPDETC+z1
+à la cape||A+EPDETC+z1
+à la carte||A+EPDETC+z1
+à la carte de||PREP+EPCDN+z1
+à la caserne||A+EPDETC+z1
+à la casse||A+EPDETC+z1
+à la cave||A+EPDETC+z1
+à la censure||A+EPDETC+z1
+à la cerise||A+EPDETC+z1
+à la chantilly||A+EPDETC+z1
+à la charge de|à la charge|PREP+Prépconjs+6
+à la charge de||PREP+EPCDN+z1
+à la charge des|à la charge|PREP+Prépconjs+6
+à la charge du|à la charge|PREP+Prépconjs+6
+à la charge du propriétaire||A+EPCDC+z1
+à la charnière de||PREP+EPCDN+z1
+à la charnière entre||PREP+EPCPN+z1
+à la chasse||A+EPDETC+z1
+à la chaîne||ADV+PDETC+z1
+à la chlorophylle||A+EPDETC+z1
+à la chute du jour||ADV+PCDC+z1
+à la clarinette||A+EPDETC+z1
+à la clarté||ADV+PCDN+z1
+à la clarté de||PREP+PCDN+z1
+à la clarté de||PREP+PCDN1+z1
+à la clef||ADV+PDETC+z1
+à la clef||A+EPDETC+z1
+à la clinique||A+EPDETC+z1
+à la cloche||A+EPDETC+z1
+à la clé||ADV+PDETC+z1
+à la clé||A+EPDETC+z1
+à la cocotte||ADV+PDETC+z1
+à la cocotte-minute||ADV+PCA+z1
+à la colle avec||PREP+EPCPN+z1
+à la commande||A+EPDETC+z1
+à la con||A+EPDETC+z1
+à la conclusion de||PREP+EPCDN+z1
+à la condition de|à la condition|PREP+Prépconjs+6
+à la condition de||PREP+EPCPQ+z1
+à la condition des|à la condition de|PREP+EPCPQ+z1
+à la condition que|à la condition|CONJS+6
+à la conduite de||PREP+EPCDN+z1
+à la confusion||ADV+PCDN2+z1
+à la confusion||ADV+PCDN+z1
+à la confusion de||PREP+PCDN+z1
+à la confusion de||PREP+PCDN1+z1
+à la confusion des|à la confusion de|PREP+PCDN+z1
+à la conquête d'|à la conquête de|PREP+EPCDN+z1
+à la conquête de||PREP+EPCDN+z1
+à la conquête du|à la conquête de|PREP+EPCDN+z1
+à la consigne||A+EPDETC+z1
+à la convenance||ADV+PCDN+z1
+à la convenance de||PREP+PCDN1+z1
+à la convenance de||PREP+EPCDN+z1
+à la conversation||A+EPDETC+z1
+à la corde||A+EPDETC+z1
+à la cote||A+EPDETC+z1
+à la coule||A+EPDETC+z1
+à la coupe||A+EPDETC+z1
+à la course||ADV+PDETC+z1
+à la courte honte d'|à la courte honte de|PREP+PCDN1+z1
+à la courte honte du|à la courte honte de|PREP+PCDN1+z1
+à la criée||ADV+PDETC+z1
+à la croisée des chemins||A+EPCDC+z1
+à la crème Chantilly||A+EPCA+z1
+à la crême||A+EPDETC+z1
+à la crêmerie||A+EPDETC+z1
+à la cuisine||A+EPDETC+z1
+à la cuisson||A+EPDETC+z1
+à la curée||A+EPDETC+z1
+à la célérité de||PREP+EPCDN+z1
+à la célérité des|à la célérité de|PREP+EPCDN+z1
+à la cîme de||PREP+EPCDN+z1
+à la côte||A+EPDETC+z1
+à la danse||A+EPDETC+z1
+à la date indiquée||ADV+PCA+z1
+à la date prescrite||ADV+PCA+z1
+à la demande||ADV+PDETC+z1
+à la demande||ADV+PCDN+z1
+à la demande||A+EPDETC+z1
+à la demande d'|à la demande de|PREP+PCDN1+z1
+à la demande de||PREP+PCDN+z1
+à la demande de||PREP+PCDN1+z1
+à la demande de||PREP+EPCDN+z1
+à la demande des|à la demande de|PREP+PCDN+z1
+à la demande du|à la demande de|PREP+PCDN+z1
+à la demande du|à la demande de|PREP+PCDN1+z1
+à la demande expresse||ADV+PCDN+z1
+à la demande expresse de||PREP+PCDN1+z1
+à la demande expresse des|à la demande expresse de|PREP+PCDN1+z1
+à la demi||ADV+PDETC+z1
+à la dernière extrémité||A+EPAC+z1
+à la dernière minute||ADV+PAC+z1
+à la dernière mode||A+EPAC+z1
+à la dernière seconde||ADV+PAC+z1
+à la devanture de||PREP+EPCDN+z1
+à la diable||ADV+PDETC+z1
+à la différence||PCDN3
+à la différence||ADV+PCDN2+z1
+à la différence||ADV+PCDN+z1
+à la différence de||PREP+PCDN+z1
+à la différence de||PREP+PCDN1+z1
+à la différence des|à la différence de|PREP+PCDN+z1
+à la différence du|à la différence de|PREP+PCDN+z1
+à la diligence de||PREP+EPCDN+z1
+à la dimension de||PREP+EPCDN+z1
+à la dimension des|à la dimension de|PREP+EPCDN+z1
+à la direction de||PREP+EPCDN+z1
+à la discrétion||ADV+PCDN+z1
+à la discrétion de||PREP+PCDN+z1
+à la discrétion de||PREP+PCDN1+z1
+à la discrétion de||PREP+EPCDN+z1
+à la discrétion des|à la discrétion de|PREP+PCDN+z1
+à la disposition d'|à la disposition de|PREP+EPCDN+z1
+à la disposition de||PREP+EPCDN+z1
+à la disposition du|à la disposition de|PREP+EPCDN+z1
+à la diète||A+EPDETC+z1
+à la douche||A+EPDETC+z1
+à la droite de||PREP+EPCDN+z1
+à la débandade||A+EPDETC+z1
+à la décharge||A+EPDETC+z1
+à la décharge de||PREP+EPCDN+z1
+à la défense de||PREP+EPCDN+z1
+à la dérive||A+EPDETC+z1
+à la dérobée||ADV+PDETC+z1
+à la dévotion des|à la dévotion de|PREP+EPCDN+z1
+à la face||ADV+PCDN+z1
+à la face de||PREP+PCDN+z1
+à la face de||PREP+PCDN1+z1
+à la face des|à la face de|PREP+PCDN+z1
+à la face du|à la face de|PREP+PCDN1+z1
+à la fantaisie de||PREP+EPCDN+z1
+à la faveur||ADV+PCDN+z1
+à la faveur d'|à la faveur de|PREP+PCDN1+z1
+à la faveur de||PREP+PCDN+z1
+à la faveur de||PREP+PCDN1+z1
+à la faveur de la nuit||ADV+PCDC+z1
+à la faveur du|à la faveur de|PREP+PCDN+z1
+à la façon||ADV+PCDN+z1
+à la façon de||PREP+PCDN+z1
+à la façon de||PREP+PCDN1+z1
+à la façon de||PREP+EPCDN+z1
+à la façon des|à la façon de|PREP+PCDN+z1
+à la fenêtre d'|à la fenêtre de|PREP+EPCDN+z1
+à la fenêtre de||PREP+EPCDN+z1
+à la fenêtre du|à la fenêtre de|PREP+EPCDN+z1
+à la fermeture||ADV+PCDN+z1
+à la fermeture de||PREP+PCDN1+z1
+à la fermeture des|à la fermeture de|PREP+PCDN+z1
+à la fermeture des|à la fermeture de|PREP+PCDN1+z1
+à la fermeture du|à la fermeture de|PREP+PCDN+z1
+à la file||ADV+PDETC+z1
+à la file indienne||A+EPCA+z1
+à la fin||ADV+PDETC+z1
+à la fin||ADV+PCDN2+z1
+à la fin||ADV+PCDN+z1
+à la fin d'|à la fin de|PREP+EPCDN+z1
+à la fin de||PREP+PCDN+z1
+à la fin de||PREP+PCDN1+z1
+à la fin de||PREP+EPCDN+z1
+à la fin des||PREP+PCDN+z1
+à la fin des|à la fin de|PREP+PCDN+z1
+à la fin du||PREP+PCDN+z1
+à la fin du|à la fin de|PREP+PCDN+z1
+à la fin du|à la fin de|PREP+EPCDN+z1
+à la finale de||PREP+EPCDN+z1
+à la fois||ADV+PDETC+z1
+à la fois prochaine||ADV+PCA+z1
+à la fortune du pot||ADV+PCDC+z1
+à la fouille||A+EPDETC+z1
+à la fourrière||A+EPDETC+z1
+à la fraise||A+EPDETC+z1
+à la frange de||PREP+EPCDN+z1
+à la frappe||A+EPDETC+z1
+à la fraîche||ADV+PDETC+z1
+à la frontière de||PREP+EPCDN+z1
+à la frontière des|à la frontière de|PREP+EPCDN+z1
+à la frontière entre||PREP+EPCPN+z1
+à la fréquence de||PREP+EPCDN+z1
+à la fréquence des|à la fréquence de|PREP+EPCDN+z1
+à la fête||A+EPDETC+z1
+à la garde de||PREP+EPCDN+z1
+à la gare||A+EPDETC+z1
+à la garçonne||ADV+PDETC+z1
+à la gauche de||PREP+EPCDN+z1
+à la gloire de||PREP+EPCDN+z1
+à la gloire des|à la gloire de|PREP+EPCDN+z1
+à la godille||ADV+PDETC+z1
+à la graisse||A+EPDETC+z1
+à la graisse d'oie||A+EPCDC+z1
+à la grande honte||ADV+PCDN+z1
+à la grande honte de||PREP+PCDN1+z1
+à la grande école||A+EPAC+z1
+à la grâce de Dieu||ADV+PCDC+z1
+à la guerre comme à la guerre||ADV+PCONJ+z1
+à la guimauve||A+EPDETC+z1
+à la guise||ADV+PCDN+z1
+à la guise de||PREP+PCDN1+z1
+à la guitare||A+EPDETC+z1
+à la hausse||ADV+PDETC+z1
+à la hauteur||A+EPDETC+z1
+à la hauteur de||PREP+EPCDN+z1
+à la hauteur de la pauvreté||A+EPCDC+z1
+à la hauteur de la situation||A+EPCDC+z1
+à la heure actuelle||ADV+PCA+z1
+à la honte de||PREP+EPCDN+z1
+à la honte des|à la honte de|PREP+EPCDN+z1
+à la hussarde||ADV+PDETC+z1
+à la hâte||ADV+PDETC+z1
+à la hâte||A+EPDETC+z1
+à la journée||ADV+PDETC+z1
+à la lessive||A+EPDETC+z1
+à la lettre||ADV+PDETC+z1
+à la ligne de partage entre||PREP+EPCPN+z1
+à la limite||ADV+PDETC+z1
+à la limite de||PREP+EPCPQ+z1
+à la limite de||PREP+EPCDN+z1
+à la limite des|à la limite de|PREP+EPCDN+z1
+à la limite des forces de||PREP+EPCDN+z1
+à la limite du possible||A+EPCDC+z1
+à la limite entre||PREP+EPCPN+z1
+à la liqueur||A+EPDETC+z1
+à la lisière de||PREP+EPCDN+z1
+à la longue||ADV+PDETC+z1
+à la louche||A+EPDETC+z1
+à la loupe||ADV+PDETC+z1
+à la loyale||ADV+PDETC+z1
+à la lueur||ADV+PCDN+z1
+à la lueur d'|à la lueur de|PREP+PCDN+z1
+à la lueur de||PREP+PCDN1+z1
+à la lumière||ADV+PCDN+z1
+à la lumière||A+EPDETC+z1
+à la lumière de||PREP+PCDN+z1
+à la lumière de||PREP+PCDN1+z1
+à la lumière des|à la lumière de|PREP+PCDN+z1
+à la lumière du|à la lumière de|PREP+PCDN+z1
+à la lumière du|à la lumière de|PREP+PCDN1+z1
+à la légère||ADV+PDETC+z1
+à la machine||ADV+PDETC+z1
+à la main||ADV+PDETC+z1
+à la main||ADV+ANP2+z1
+à la main||A+EPDETC+z1
+à la maison||ADV+PDETC+z1
+à la maison||A+EPDETC+z1
+à la maison d'arrêt de||PREP+EPCDN+z1
+à la majorité||ADV+PCDN+z1
+à la majorité de||PREP+PCDN+z1
+à la majorité de||PREP+PCDN1+z1
+à la majorité des|à la majorité de|PREP+PCDN+z1
+à la majorité des votants||A+EPCDC+z1
+à la mandarine||A+EPDETC+z1
+à la manière||ADV+PCDN+z1
+à la manière d'|à la manière de|PREP+PCDN1+z1
+à la manière de||PREP+PCDN+z1
+à la manière de||PREP+PCDN1+z1
+à la manière de||PREP+EPCDN+z1
+à la manière des|à la manière de|PREP+PCDN+z1
+à la manière du|à la manière de|PREP+PCDN1+z1
+à la margarine||A+EPDETC+z1
+à la marée basse||ADV+PCA+z1
+à la masse||A+EPDETC+z1
+à la maternelle||A+EPDETC+z1
+à la mauvaise saison||A+EPAC+z1
+à la mayonnaise||A+EPDETC+z1
+à la menthe||A+EPDETC+z1
+à la mer||A+EPDETC+z1
+à la merci de||PREP+EPCDN+z1
+à la merci des|à la merci de|PREP+EPCDN+z1
+à la messe||A+EPDETC+z1
+à la mesure de||PREP+EPCDN+z1
+à la mesure des|à la mesure de|PREP+EPCDN+z1
+à la mi mai||ADV+PAC+z1
+à la mi-août||A+EPAC+z1
+à la mi-avril||A+EPAC+z1
+à la mi-décembre||A+EPAC+z1
+à la mi-février||A+EPAC+z1
+à la mi-janvier||A+EPAC+z1
+à la mi-journée||ADV+PAC+z1
+à la mi-juillet||A+EPAC+z1
+à la mi-juin||A+EPAC+z1
+à la mi-mai||A+EPAC+z1
+à la mi-mars||A+EPAC+z1
+à la mi-novembre||A+EPAC+z1
+à la mi-octobre||A+EPAC+z1
+à la mi-saison||A+EPAC+z1
+à la mi-septembre||A+EPAC+z1
+à la mi-séance||A+EPAC+z1
+à la mi-temps||ADV+PAC+z1
+à la mi-temps||A+EPAC+z1
+à la minute||ADV+PDETC+z1
+à la minute où je te parle||ADV+PCA+z1
+à la minute près||ADV+PCA+z1
+à la minute présente||ADV+PCA+z1
+à la minute que|à la minute|CONJS+5
+à la mode||A+EPDETC+z1
+à la mode du pays||A+EPCDC+z1
+à la moindre alerte||ADV+PAC+z1
+à la moindre des occasions d'|à la moindre des occasions de|PREP+PCDN1+z1
+à la moindre des occasions du|à la moindre des occasions de|PREP+PCDN1+z1
+à la moindre occasion||ADV+PAC+z1
+à la moitié de||PREP+EPCDN+z1
+à la moitié du parcours||A+EPCDC+z1
+à la montagne||A+EPDETC+z1
+à la monte||A+EPDETC+z1
+à la morgue||A+EPDETC+z1
+à la mort||ADV+PCDN2+z1
+à la mort||ADV+PCDN+z1
+à la mort d'|à la mort de|PREP+PCDN1+z1
+à la mort de||PREP+PCDN+z1
+à la mort de||PREP+PCDN1+z1
+à la mort du|à la mort de|PREP+PCDN+z1
+à la mort du|à la mort de|PREP+PCDN1+z1
+à la moutarde||A+EPDETC+z1
+à la mémoire de||PREP+EPCDN+z1
+à la mûre||A+EPDETC+z1
+à la nage||ADV+PDETC+z1
+à la nage||A+EPDETC+z1
+à la naissance||ADV+PCDN2+z1
+à la naissance||ADV+PCDN+z1
+à la naissance de||PREP+PCDN+z1
+à la naissance de||PREP+PCDN1+z1
+à la naissance du|à la naissance de|PREP+PCDN+z1
+à la neige||A+EPDETC+z1
+à la noce||A+EPDETC+z1
+à la noix de coco||A+EPCDC+z1
+à la nuit||ADV+PDETC+z1
+à la nuit tombante||ADV+PCA+z1
+à la nuit tombée||ADV+PCA+z1
+à la papa||ADV+PDETC+z1
+à la parade||A+EPDETC+z1
+à la pause||ADV+PDETC+z1
+à la pause||A+EPDETC+z1
+à la pelle||ADV+PDETC+z1
+à la pelle||ADV+ANP2+z1
+à la perfection||ADV+PDETC+z1
+à la petite semaine||ADV+PAC+z1
+à la pharmacie||A+EPDETC+z1
+à la photocopie||A+EPDETC+z1
+à la pistache||A+EPDETC+z1
+à la pièce||ADV+PDETC+z1
+à la pièce||A+EPDETC+z1
+à la place||ADV+PCDN2+z1
+à la place||ADV+PCDN+z1
+à la place de||PREP+PCDN+z1
+à la place de||PREP+PCDN1+z1
+à la place de||PREP+EPCDN+z1
+à la place des|à la place de|PREP+PCDN+z1
+à la place des|à la place de|PREP+PCDN1+z1
+à la place du|à la place de|PREP+PCDN+z1
+à la plage||A+EPDETC+z1
+à la pleine lune||ADV+PAC+z1
+à la plonge||A+EPDETC+z1
+à la pluie||A+EPDETC+z1
+à la pointe de||PREP+EPCDN+z1
+à la pointe des|à la pointe de|PREP+EPCDN+z1
+à la poire||A+EPDETC+z1
+à la pomme||A+EPDETC+z1
+à la porte||A+EPDETC+z1
+à la porte de||PREP+EPCDN+z1
+à la porte des|à la porte de|PREP+EPCDN+z1
+à la portion congrue||A+EPCA+z1
+à la portée de||PREP+EPCDN+z1
+à la portée de la bourse de||PREP+EPCDN+z1
+à la portée de la main||A+EPCDC+z1
+à la portée de la main d'|à la portée de la main de|PREP+EPCDN+z1
+à la portée de la main de||PREP+EPCDN+z1
+à la portée de la main du|à la portée de la main de|PREP+EPCDN+z1
+à la portée de tous||A+EPCDC+z1
+à la portée de tout le monde||A+EPCDC+z1
+à la portée de toutes les bourses||A+EPCDC+z1
+à la portée des|à la portée de|PREP+EPCDN+z1
+à la portée immédiate de||PREP+EPCDN+z1
+à la portée immédiate des|à la portée immédiate de|PREP+EPCDN+z1
+à la poêle||ADV+PDETC+z1
+à la première heure||ADV+PAC+z1
+à la première occasion||ADV+PAC+z1
+à la première page de||PREP+EPCDN+z1
+à la pression normale||ADV+PCA+z1
+à la proximité de||PREP+EPCDN+z1
+à la proximité des|à la proximité de|PREP+EPCDN+z1
+à la préférence de||PREP+EPCDN+z1
+à la pâtisserie||A+EPDETC+z1
+à la périphérie de||PREP+EPCDN+z1
+à la pêche||A+EPDETC+z1
+à la pêche au hareng||A+EPCPC+z1
+à la pêche aux moules||A+EPCPC+z1
+à la question||A+EPDETC+z1
+à la queue de||PREP+EPCDN+z1
+à la queue leu leu||ADV+PCA+z1
+à la queue leu leu||A+EPCA+z1
+à la racine de||PREP+EPCDN+z1
+à la radio||ADV+PDETC+z1
+à la radio||A+EPDETC+z1
+à la recherche d'un nouveau souffle||A+EPCDC+z1
+à la recherche de||PREP+EPCDN+z1
+à la redresse||A+EPDETC+z1
+à la remorque de||PREP+EPCDN+z1
+à la renverse devant||PREP+EPCPN+z1
+à la reproduction||A+EPDETC+z1
+à la requête d'|à la requête de|PREP+EPCDN+z1
+à la requête de||PREP+EPCDN+z1
+à la requête du|à la requête de|PREP+EPCDN+z1
+à la revente||ADV+PDETC+z1
+à la ronde||ADV+PDETC+z1
+à la rue||A+EPDETC+z1
+à la réception||A+EPDETC+z1
+à la récréation||ADV+PDETC+z1
+à la réflexion||ADV+PDETC+z1
+à la réforme||A+EPDETC+z1
+à la saison||ADV+PCDN+z1
+à la saison d'|à la saison de|PREP+PCDN1+z1
+à la saison de|à la saison|PREP+Prépconjs+5
+à la saison de||PREP+PCDN+z1
+à la saison de||PREP+PCDN1+z1
+à la saison des amours||ADV+PCDC+z1
+à la saison du|à la saison|PREP+Prépconjs+5
+à la saison du|à la saison de|PREP+PCDN+z1
+à la santé de||PREP+EPCDN+z1
+à la sauce blanche||ADV+PCA+z1
+à la sauce mayonnaise||A+EPCA+z1
+à la sauce moutarde||A+EPCA+z1
+à la sauce vinaigrette||A+EPCA+z1
+à la sauvette||ADV+PDETC+z1
+à la seconde près||ADV+PCA+z1
+à la selle||A+EPDETC+z1
+à la semaine||ADV+PDETC+z1
+à la seule fin de||PREP+EPCPQ+z1
+à la signature||A+EPDETC+z1
+à la solde de||PREP+EPCDN+z1
+à la solde des|à la solde de|PREP+EPCDN+z1
+à la sortie d'|à la sortie de|PREP+PCDN1+z1
+à la sortie de||PREP+PCDN1+z1
+à la sortie de||PREP+EPCDN+z1
+à la sortie de l'école||ADV+PCDC+z1
+à la sortie de prison d'|à la sortie de prison de|PREP+PCDN1+z1
+à la sortie de prison du|à la sortie de prison de|PREP+PCDN1+z1
+à la sortie des|à la sortie de|PREP+EPCDN+z1
+à la sortie du|à la sortie de|PREP+PCDN1+z1
+à la sortie du froid||ADV+PCDC+z1
+à la source de||PREP+EPCDN+z1
+à la source des|à la source de|PREP+EPCDN+z1
+à la sous-direction de||PREP+EPCDN+z1
+à la suggestion||ADV+PCDN+z1
+à la suggestion de||PREP+PCDN1+z1
+à la suite||ADV+PDETC+z1
+à la suite||ADV+PCDN2+z1
+à la suite||ADV+PCDN+z1
+à la suite de||PREP+PCDN+z1
+à la suite de||PREP+PCDN1+z1
+à la suite de||PREP+EPCDN+z1
+à la suite des|à la suite de|PREP+PCDN+z1
+à la suite des|à la suite de|PREP+PCDN1+z1
+à la suite du|à la suite de|PREP+PCDN+z1
+à la superficie de||PREP+EPCDN+z1
+à la surface de||PREP+EPCDN+z1
+à la sécu||A+EPDETC+z1
+à la séparation de||PREP+EPCDN+z1
+à la table de négociations||A+EPCDC+z1
+à la taille||A+EPDETC+z1
+à la taille de||PREP+EPCDN+z1
+à la teinturerie||A+EPDETC+z1
+à la tempera||A+EPDETC+z1
+à la température normale||ADV+PCA+z1
+à la terre||A+EPDETC+z1
+à la tomate||A+EPDETC+z1
+à la tombée de la nuit||ADV+PCDC+z1
+à la tombée du jour||ADV+PCDC+z1
+à la torture||A+EPDETC+z1
+à la traîne||A+EPDETC+z1
+à la traîne de||PREP+EPCDN+z1
+à la tribune||A+EPDETC+z1
+à la trompette||A+EPDETC+z1
+à la tâche||ADV+PDETC+z1
+à la télé||ADV+PDETC+z1
+à la télé||A+EPDETC+z1
+à la télévision||ADV+PDETC+z1
+à la télévision||A+EPDETC+z1
+à la tête d'|à la tête de|PREP+EPCDN+z1
+à la tête d'un vaste empire||A+EPCDC+z1
+à la tête de||PREP+EPCDN+z1
+à la tête de l'Etat||A+EPCDC+z1
+à la tête des forces armées||A+EPCDC+z1
+à la tête du client||A+EPCDC+z1
+à la va comme je te pousse||A+EPCPC+z1
+à la va-vite||ADV+PCA+z1
+à la vache||ADV+PDETC+z1
+à la vanille||A+EPDETC+z1
+à la vapeur||ADV+PDETC+z1
+à la vapeur||A+EPDETC+z1
+à la veille||ADV+PCDN+z1
+à la veille d'|à la veille de|PREP+PCDN+z1
+à la veille d'|à la veille de|PREP+PCDN1+z1
+à la veille de||PREP+PCDN+z1
+à la veille de||PREP+PCDN1+z1
+à la veille de||PREP+EPCPQ+z1
+à la veille des|à la veille de|PREP+PCDN+z1
+à la veille du|à la veille de|PREP+PCDN+z1
+à la veillée||ADV+PDETC+z1
+à la vente||ADV+PDETC+z1
+à la verticale de||PREP+EPCDN+z1
+à la ville||ADV+PDETC+z1
+à la ville||A+EPDETC+z1
+à la vinaigrette||A+EPDETC+z1
+à la violette||A+EPDETC+z1
+à la visite||A+EPDETC+z1
+à la vitesse de||PREP+EPCDN+z1
+à la vitesse de la lumière||ADV+PCDC+z1
+à la vitesse grand vé||ADV+PCA+z1
+à la voile||ADV+PDETC+z1
+à la volée||ADV+PDETC+z1
+à la volée||A+EPDETC+z1
+à la vue||ADV+PCDN+z1
+à la vue d'|à la vue de|PREP+PCDN1+z1
+à la vue de||PREP+PCDN+z1
+à la vue de||PREP+PCDN1+z1
+à la vue de||PREP+EPCDN+z1
+à la vue des|à la vue de|PREP+EPCDN+z1
+à la vue du|à la vue de|PREP+PCDN1+z1
+à la vérité||ADV+PDETC+z1
+à la époque actuelle||ADV+PCA+z1
+à lames multiples||A+EPCA+z1
+à large échelle||A+EPAC+z1
+à le bon vieux temps de||PREP+PCDN1+z1
+à le grand dam de||PREP+PCDN1+z1
+à le grand regret de||PREP+PCDN1+z1
+à le grand regret des|à le grand regret de|PREP+PCDN1+z1
+à le grand scandale de||PREP+PCDN1+z1
+à le plus fort de||PREP+PCDN1+z1
+à le plus profond de||PREP+PCDN1+z1
+à le plus profond des|à le plus profond de|PREP+PCDN1+z1
+à le premier niveau||ADV+PCDN2+z1
+à le premier niveau de||PREP+PCDN1+z1
+à les bons soins de||PREP+PCDN1+z1
+à les pires heures de||PREP+PCDN1+z1
+à les plus beaux jours de la vie des|à les plus beaux jours de la vie de|PREP+PCDN1+z1
+à les premiers signes de||PREP+PCDN1+z1
+à les premiers temps de||PREP+PCDN1+z1
+à les quatre coins de||PREP+PCDN1+z1
+à livre ouvert||ADV+PCA+z1
+à loisir||ADV+PC+z1
+à long terme||ADV+PAC+z1
+à longue portée||A+EPAC+z1
+à longue échéance||ADV+PAC+z1
+à longue échéance||A+EPAC+z1
+à longues gorgées||ADV+PAC+z1
+à longueur d'année||ADV+PCDC+z1
+à longueur de journées||ADV+PCDC+z1
+à longueur de temps||ADV+PCDC+z1
+à lotir||A+EPC+z1
+à louer||A+EPC+z1
+à loyer modéré||A+EPCA+z1
+à lunette||A+EPC+z1
+à mailles||A+EPC+z1
+à main||A+EPC+z1
+à main droite||A+EPCA+z1
+à main gauche||A+EPCA+z1
+à main levée||ADV+PCA+z1
+à mains nues||ADV+PCA+z1
+à majorité absolue||A+EPCA+z1
+à mal||A+EPC+z1
+à manche||A+EPC+z1
+à manches||A+EPC+z1
+à manches courtes||A+EPCA+z1
+à manches longues||A+EPCA+z1
+à marche forcée||ADV+PCA+z1
+à martingale||A+EPC+z1
+à marée basse||ADV+PCA+z1
+à marée basse||A+EPCA+z1
+à marée haute||ADV+PCA+z1
+à marée haute||A+EPCA+z1
+à maturité||ADV+PC+z1
+à maturité||A+EPC+z1
+à mauvais escient||ADV+PAC+z1
+à mazout||A+EPC+z1
+à meilleur compte qu'|à meilleur compte que|CONJS+PCPN+z1
+à meilleur marché que||CONJS+PCPN+z1
+à mentonnier||A+EPC+z1
+à mercure||A+EPC+z1
+à merveille||ADV+PC+z1
+à mesure de|à mesure|PREP+Prépconjs+5
+à mesure des|à mesure|PREP+Prépconjs+5
+à mesure que|à mesure|CONJS+5
+à mi-chemin||ADV+PAC+z1
+à mi-chemin de||PREP+EPCDN+z1
+à mi-chemin des|à mi-chemin de|PREP+EPCDN+z1
+à mi-chemin entre||PREP+EPCPN+z1
+à mi-corps||A+EPAC+z1
+à mi-course||ADV+PAC+z1
+à mi-course||A+EPAC+z1
+à mi-course de||PREP+EPCDN+z1
+à mi-cuisson d'|à mi-cuisson de|PREP+EPCDN+z1
+à mi-cuisson du|à mi-cuisson de|PREP+EPCDN+z1
+à mi-distance de||PREP+EPCDN+z1
+à mi-exercice||A+EPAC+z1
+à mi-hauteur||ADV+PAC+z1
+à mi-hauteur||A+EPAC+z1
+à mi-hauteur de||PREP+EPCDN+z1
+à mi-journée||ADV+PAC+z1
+à mi-mandat||A+EPAC+z1
+à mi-mollet||A+EPAC+z1
+à mi-mollets||A+EPAC+z1
+à mi-parcours||A+EPAC+z1
+à mi-parcours de||PREP+EPCDN+z1
+à mi-parcours des|à mi-parcours de|PREP+EPCDN+z1
+à mi-pente||ADV+PAC+z1
+à mi-pente||A+EPAC+z1
+à mi-saison||A+EPAC+z1
+à mi-semestre||A+EPAC+z1
+à mi-séance||A+EPAC+z1
+à mi-temps||ADV+PAC+z1
+à mi-trimestre||A+EPAC+z1
+à mi-voix||ADV+PAC+z1
+à micro-ondes||A+EPAC+z1
+à midi||ADV+PC+z1
+à minuit||ADV+PC+z1
+à moindre frais||ADV+PAC+z1
+à moindre prix||ADV+PAC+z1
+à moins||ADV+PC+z1
+à moins de|à moins|PREP+Prépconjs+6
+à moins de frais||ADV+PCDC+z1
+à moins que|à moins|CONJS+6
+à moitié||ADV+PC+z1
+à moitié prix||ADV+PAC+z1
+à moitié prix||ADV+ANP2+z1
+à mon humble opinion||ADV+PAC+z1
+à mort||ADV+PC+z1
+à moto||A+EPC+z1
+à mots couverts||ADV+PCA+z1
+à mourir||ADV+PV+z1
+à moyen terme||ADV+PAC+z1
+à moyenne altitude||A+EPAC+z1
+à moyenne portée||A+EPAC+z1
+à mâchoires||A+EPC+z1
+à même||ADV+PCPN+z1
+à même de||PREP+EPCPQ+z1
+à même des|à même de|PREP+EPCPQ+z1
+à n'en pas douter||ADV+PV+z1
+à n'importe quel instant||ADV+PAC+z1
+à n'importe quelle date||ADV+PAC+z1
+à n'y rien comprendre||A+EPAC+z1
+à ne pas manquer||A+EPDETC+z1
+à ne pas rater||A+EPDETC+z1
+à ne pas savoir qu'en faire||ADV+ANP2+z1
+à neuf||ADV+PC+z1
+à niveau||A+EPC+z1
+à nos portes||A+EPDETC+z1
+à notre porte||A+EPDETC+z1
+à nourrir||ADV+ANP2+z1
+à nouveau||ADV+PC+z1
+à nu||A+EPC+z1
+à nul autre pareil||A+EPCA+z1
+à nulle autre pareille||A+EPCA+z1
+à option||A+EPC+z1
+à options||A+EPC+z1
+à outrance||ADV+PC+z1
+à pareille heure||ADV+PAC+z1
+à parler franchement||ADV+PV+z1
+à part||PREP+Prépconjs+7
+à part||ADV+PCPN+z1
+à part||ADV+PCPN+z1
+à part||A+EPC+z1
+à part cela||ADV+PCPC+z1
+à part que|à part|CONJS+7
+à part ça||ADV+PCPC+z1
+à part égale avec||PREP+PCPN+z1
+à participation ouvrière||A+EPCA+z1
+à partie égale avec||PREP+EPCPN+z1
+à partir de ce moment-là||ADV+PCDC+z1
+à partir de midi||ADV+PCDC+z1
+à parts égales avec||PREP+PCPN+z1
+à pas comptés||ADV+PCA+z1
+à pas de géant||ADV+PCDC+z1
+à pas de tortue||ADV+PCDC+z1
+à pas feutrés||ADV+PCA+z1
+à pas lents||ADV+PCA+z1
+à pas menus||ADV+PCA+z1
+à pas mesurés||ADV+PCA+z1
+à peine||ADV+PC+z1
+à peine croyable||A+EPA+z1:ms:fs
+à peine croyables|à peine croyable|A+EPA+z1:mp:fp
+à penser||ADV+EPCPQ+z1
+à perdre haleine||ADV+PV+z1
+à perpète||A+EPC+z1
+à perpétuité||ADV+PC+z1
+à perte||ADV+PC+z1
+à perte de vue||ADV+PCDC+z1
+à petite échelle||A+EPAC+z1
+à petites gorgées||ADV+PAC+z1
+à petits carreaux||A+EPAC+z1
+à petits coups||ADV+PAC+z1
+à petits pas||ADV+PAC+z1
+à peu de chose près||ADV+EAPC+z1:ms
+à peu de frais||ADV+PCDC+z1
+à peu près||N+NXN:ms
+à pic||A+EPC+z1
+à pied||ADV+PC+z1
+à pied||A+EPC+z1
+à pied d'oeuvre||A+EPCDC+z1
+à pied sec||ADV+PCA+z1
+à pile||A+EPC+z1
+à piles||A+EPC+z1
+à pinces||A+EPC+z1
+à plaisir||ADV+PC+z1
+à plat||A+EPC+z1
+à plat-ventre devant||PREP+EPCPN+z1
+à plein||ADV+PC+z1
+à plein nez||ADV+PAC+z1
+à plein régime||ADV+PAC+z1
+à plein tarif||A+EPAC+z1
+à pleine capacité||ADV+PAC+z1
+à pleine charge||ADV+PAC+z1
+à pleine gorge||ADV+PAC+z1
+à pleine poitrine||ADV+PAC+z1
+à pleine puissance||A+EPAC+z1
+à pleine vitesse||ADV+PAC+z1
+à pleine voix||ADV+PAC+z1
+à pleines cruches||ADV+PAC+z1
+à pleines dents||ADV+PAC+z1
+à pleines mains||ADV+PAC+z1
+à pleines poignées||ADV+PAC+z1
+à pleins bords||ADV+PAC+z1
+à pleins gaz||ADV+PAC+z1
+à pleins poumons||ADV+PAC+z1
+à pleins ruisseaux||ADV+PAC+z1
+à pleins tonneaux||ADV+PAC+z1
+à pleins tuyaux||ADV+PAC+z1
+à pleins verres||ADV+PAC+z1
+à pleurer||A+EPC+z1
+à plus d'un titre||ADV+PCDC+z1
+à plus de frais||ADV+PCDC+z1
+à plus forte raison||ADV+PAC+z1
+à plusieurs||A+EPC+z1
+à poigne||A+EPC+z1
+à poil||A+EPC+z1
+à poils||A+EPC+z1
+à point||ADV+PC+z1
+à point nommé||ADV+PCA+z1
+à point nommé||A+EPCA+z1
+à pois||A+EPC+z1
+à portée de canon d'|à portée de canon de|PREP+EPCDN+z1
+à portée de canon de||PREP+EPCDN+z1
+à portée de canon du|à portée de canon de|PREP+EPCDN+z1
+à portée de fusil de||PREP+EPCDN+z1
+à portée de fusil des|à portée de fusil de|PREP+EPCDN+z1
+à portée de la main de||PREP+EPCDN+z1
+à portée de main||A+EPCDC+z1
+à portée de voix||A+EPCDC+z1
+à portée de voix de||PREP+EPCDN+z1
+à portée de voix des|à portée de voix de|PREP+EPCDN+z1
+à portée du regard||A+EPCDC+z1
+à poste||A+EPC+z1
+à première vue||ADV+PAC+z1
+à prendre ou à laisser||A+EPCPC+z1
+à prendre tout||ADV+PV+z1
+à preuve||ADV+PCPN+z1
+à preuve||ADV+PCDN+z1
+à preuve de||PREP+PCDN1+z1
+à prix coûtant||ADV+PCA+z1
+à prix d'or||ADV+PCDC+z1
+à prix réduit||ADV+PCA+z1
+à prix unique||A+EPCA+z1
+à proportion||ADV+PCDN+z1
+à proportion d'|à proportion de|PREP+PCDN1+z1
+à proportion de||PREP+PCDN1+z1
+à proportion du|à proportion de|PREP+PCDN1+z1
+à propos||ADV+PCDN+z1
+à propos||ADV+PC+z1
+à propos de||PREP+PCDN+z1
+à propos de||PREP+PCDN1+z1
+à propos des|à propos de|PREP+PCDN+z1
+à propos du|à propos de|PREP+PCDN+z1
+à propos du|à propos de|PREP+PCDN1+z1
+à proximité de||PREP+EPCDN+z1
+à proximité de la gare||A+EPCDC+z1
+à proximité de la mairie||A+EPCDC+z1
+à proximité de la place||A+EPCDC+z1
+à proximité du métro||A+EPCDC+z1
+à présent||ADV+PC+z1
+à présent que|à présent|CONJS+5
+à péage||A+EPC+z1
+à périodes régulières||ADV+PCA+z1
+à pétrole||A+EPC+z1
+à quai||A+EPC+z1
+à qualité comparable||ADV+PCA+z1
+à qualité similaire||ADV+PCA+z1
+à qualité égale||ADV+PCA+z1
+à quart de temps||ADV+PCDC+z1
+à quatre mains||A+EPDETC+z1
+à quatre pattes||ADV+PDETC+z1
+à quelque niveau où l'on se trouve||ADV+PCA+z1
+à quelque niveau que ce soit||ADV+PCA+z1
+à quelque temps de là||ADV+PCDC+z1
+à quelques encablures d'|à quelques encablures de|PREP+EPCDN+z1
+à quelques encablures de||PREP+EPCDN+z1
+à quelques encablures du|à quelques encablures de|PREP+EPCDN+z1
+à quelques exceptions près||ADV+PCA+z1
+à quelques pas de||PREP+EPCDN+z1
+à qui mieux mieux||ADV+PCONJ+z1
+à quia||A+EPC+z1
+à quinzaine||ADV+PC+z1
+à raison||ADV+PCDN+z1
+à raison||ADV+PC+z1
+à raison de||PREP+PCDN+z1
+à raison de||PREP+PCDN1+z1
+à raison des|à raison de|PREP+PCDN+z1
+à raison des|à raison de|PREP+PCDN1+z1
+à ras bord||ADV+PAC+z1
+à ras de||PREP+EPCDN+z1
+à ras de terre||A+EPCDC+z1
+à ras du sol||A+EPCDC+z1
+à rebondissements||A+EPC+z1
+à rebours||ADV+PC+z1
+à rebours d'|à rebours de|PREP+EPCDN+z1
+à rebours de||PREP+EPCDN+z1
+à rebours du|à rebours de|PREP+EPCDN+z1
+à reculons||ADV+PC+z1
+à regret||ADV+PC+z1
+à renforts des|à renforts de|PREP+PCDN1+z1
+à revendre||ADV+ANP2+z1
+à revoir||A+EPC+z1
+à risques||A+EPC+z1
+à rompre tout||ADV+PV+z1
+à roulettes||A+EPC+z1
+à rude école||A+EPAC+z1
+à rude épreuve||A+EPAC+z1
+à réaction||A+EPC+z1
+à répétition||A+EPC+z1
+à réveiller les morts||ADV+PV+z1
+à réveiller un mort||ADV+PV+z1
+à rôtir||A+EPC+z1
+à s'y méprendre au|à s'y méprendre à|PREP+PV+z1
+à s'y méprendre à||PREP+PV+z1
+à sac||A+EPC+z1
+à satiété||ADV+PC+z1
+à saturation||A+EPC+z1
+à savoir||ADV+PV+z1
+à se demander||ADV+EPCPQ+z1
+à se dire||ADV+EPCPQ+z1
+à se mettre à genoux||A+EPCPC+z1
+à se rouler par terre||A+EPCA+z1
+à sec||A+EPC+z1
+à sec d'argent||A+EPCDC+z1
+à sens unique||A+EPCA+z1
+à seule fin de|à seule fin|PREP+Prépconjs+2
+à seule fin de||PREP+EPCPQ+z1
+à skis||ADV+PC+z1
+à skis||A+EPC+z1
+à souhait||ADV+PC+z1
+à souper||ADV+ANP2+z1
+à stationnement interdit||A+EPCA+z1
+à suivre||A+EPC+z1
+à supposer||PREP+Prépconjs+6
+à supposer que|à supposer|CONJS+6
+à table||A+EPC+z1
+à tant du mois||ADV+PCDC+z1
+à tel point que|à tel point|CONJS+3
+à telle enseigne que|à telle enseigne|CONJS+3
+à temps||ADV+PC+z1
+à temps complet||ADV+PCA+z1
+à temps partiel||ADV+PCA+z1
+à temps plein||ADV+PCA+z1
+à temps plein||A+EPCA+z1
+à tempérament||ADV+PC+z1
+à température constante||ADV+PCA+z1
+à température normale||ADV+PCA+z1
+à terme||ADV+PC+z1
+à terme||A+EPC+z1
+à terme échu||ADV+PCA+z1
+à terre||A+EPC+z1
+à tiroirs||A+EPC+z1
+à titre||ADV+PCDN+z1
+à titre amical||ADV+PCA+z1
+à titre bénévole||ADV+PCA+z1
+à titre comparatif||ADV+PCA+z1
+à titre consultatif||ADV+PCA+z1
+à titre d'indemnité||ADV+PCDC+z1
+à titre de||PREP+PCDN+z1
+à titre de||PREP+PCDN1+z1
+à titre de comparaison||ADV+PCDC+z1
+à titre de compensation||ADV+PCDC+z1
+à titre de dédommagement||ADV+PCDC+z1
+à titre divers||ADV+PCA+z1
+à titre du|à titre de|PREP+PCDN1+z1
+à titre définitif||ADV+PCA+z1
+à titre exceptionnel||ADV+PCA+z1
+à titre expérimental||ADV+PCA+z1
+à titre gracieux||ADV+PCA+z1
+à titre gratuit||ADV+PCA+z1
+à titre honorifique||ADV+PCA+z1
+à titre indicatif||ADV+PCA+z1
+à titre individuel||ADV+PCA+z1
+à titre onéreux||ADV+PCA+z1
+à titre posthume||ADV+PCA+z1
+à titre principal||ADV+PCA+z1
+à titre privé||ADV+PCA+z1
+à titre provisoire||ADV+PCA+z1
+à titre précaire||ADV+PCA+z1
+à titre préventif||ADV+PCA+z1
+à tort||ADV+PC+z1
+à tort ou à raison||ADV+PCONJ+z1
+à tour de bras||ADV+PCDC+z1
+à tour de rôle||ADV+PCDC+z1
+à tous coups||ADV+PDETC+z1
+à tous crins||ADV+PDETC+z1
+à tous les coins de rue||ADV+PCDC+z1
+à tous les coups||ADV+PDETC+z1
+à tous les niveaux||ADV+PDETC+z1
+à tous les niveaux||ADV+PCDN2+z1
+à tous les niveaux||ADV+PCDN+z1
+à tous les niveaux de||PREP+PCDN+z1
+à tous les niveaux de||PREP+PCDN1+z1
+à tous les vents||ADV+PDETC+z1
+à tous égards||ADV+PDETC+z1
+à tout bout de champ||ADV+PCDC+z1
+à tout casser||A+EPAC+z1
+à tout hasard||ADV+PDETC+z1
+à tout instant||ADV+PDETC+z1
+à tout jamais||ADV+PAC+z1
+à tout le moins||ADV+PDETC+z1
+à tout moment||ADV+PDETC+z1
+à tout prix||ADV+PDETC+z1
+à tout propos||ADV+PDETC+z1
+à tout va||ADV+PF+z1
+à tout venant||A+EPDETC+z1
+à tout âge||ADV+PDETC+z1
+à toute allure||ADV+PDETC+z1
+à toute biture||ADV+PDETC+z1
+à toute bride||ADV+PDETC+z1
+à toute extrémité||A+EPDETC+z1
+à toute force||ADV+PDETC+z1
+à toute heure||ADV+PDETC+z1
+à toute vapeur||ADV+PDETC+z1
+à toute vibure||ADV+PDETC+z1
+à toute vitesse||ADV+PDETC+z1
+à toute volée||ADV+PDETC+z1
+à toute épreuve||A+EPDETC+z1
+à toutes fins utiles||ADV+PCA+z1
+à toutes jambes||ADV+PDETC+z1
+à toutes les sauces||A+EPDETC+z1
+à travers||ADV+PCPN+z1
+à travers bois||ADV+PC+z1
+à travers champs||ADV+PC+z1
+à travers la campagne||ADV+PDETC+z1
+à travers le monde||ADV+PCPC+z1
+à travers le temps||ADV+PCPC+z1
+à travers les âges||ADV+PCPC+z1
+à tribord||A+EPC+z1
+à triple effet||A+EPAC+z1
+à trois de front||ADV+PCDC+z1
+à tu et à toi avec||PREP+EPCPN+z1
+à tue-tête||ADV+PAC+z1
+à tuer||A+EPC+z1
+à tâtons||ADV+PC+z1
+à un anniversaire||A+EPDETC+z1
+à un atelier||A+EPDETC+z1
+à un bal costumé||A+EPCA+z1
+à un bal masqué||A+EPCA+z1
+à un banquet||A+EPDETC+z1
+à un baptême||A+EPDETC+z1
+à un certain extremum||A+EPDETC+z1
+à un certain moment||ADV+PAC+z1
+à un certain moment||A+EPDETC+z1
+à un certain moment de||PREP+EPCDN+z1
+à un certain niveau||A+EPDETC+z1
+à un certain niveau de||PREP+EPCDN+z1
+à un certain passage de||PREP+EPCDN+z1
+à un certain plafond||A+EPDETC+z1
+à un certain stade||A+EPDETC+z1
+à un certain stade d'|à un certain stade de|PREP+EPCDN+z1
+à un certain stade de||PREP+EPCDN+z1
+à un certain stade du|à un certain stade de|PREP+EPCDN+z1
+à un certain équilibre||A+EPDETC+z1
+à un cocktail||A+EPDETC+z1
+à un coin de table||A+EPCDC+z1
+à un colloque||A+EPDETC+z1
+à un congrès||A+EPDETC+z1
+à un degré avancé d'|à un degré avancé de|PREP+EPCDN+z1
+à un degré avancé des|à un degré avancé de|PREP+EPCDN+z1
+à un degré moindre||ADV+PCA+z1
+à un détour de la conversation||ADV+PCDC+z1
+à un dîner||A+EPDETC+z1
+à un endroit perdu des|à un endroit perdu de|PREP+EPCDN+z1
+à un endroit précis de||PREP+EPCDN+z1
+à un enterrement||A+EPDETC+z1
+à un festival de jazz||A+EPCDC+z1
+à un gueuleton||A+EPDETC+z1
+à un haut degré de||PREP+EPCDN+z1
+à un instant de la vie d'|à un instant de la vie de|PREP+PCDN1+z1
+à un instant de la vie du|à un instant de la vie de|PREP+PCDN1+z1
+à un instant donné||ADV+PCA+z1
+à un instant important de l'existence||ADV+PCDN2+z1
+à un instant important de l'existence des|à un instant important de l'existence de|PREP+PCDN1+z1
+à un instant important de la vie||ADV+PCDN2+z1
+à un jet de pierre de||PREP+EPCDN+z1
+à un jury de thèse||A+EPCDC+z1
+à un mariage||A+EPDETC+z1
+à un mauvais moment||ADV+PCDN2+z1
+à un mauvais moment||ADV+PCDN+z1
+à un mauvais moment de||PREP+PCDN1+z1
+à un moment crucial d'|à un moment crucial de|PREP+EPCDN+z1
+à un moment crucial du|à un moment crucial de|PREP+EPCDN+z1
+à un moment de l'existence||ADV+PCDN2+z1
+à un moment de l'existence des|à un moment de l'existence de|PREP+PCDN1+z1
+à un moment de la vie||ADV+PCDN2+z1
+à un moment de la vie des|à un moment de la vie de|PREP+PCDN1+z1
+à un moment difficile des|à un moment difficile de|PREP+EPCDN+z1
+à un moment donné||ADV+PCA+z1
+à un moment important de l'existence||ADV+PCDN2+z1
+à un moment important de la vie||ADV+PCDN2+z1
+à un moment important de la vie||ADV+PCDN+z1
+à un moment important de la vie des|à un moment important de la vie de|PREP+PCDN1+z1
+à un moment ou à un autre||ADV+PCONJ+z1
+à un moment où|à un moment|CONJS+5
+à un moment quelconque||ADV+PCA+z1
+à un office religieux||A+EPCA+z1
+à un passage difficile de||PREP+EPCDN+z1
+à un passage décisif d'|à un passage décisif de|PREP+EPCDN+z1
+à un passage décisif du|à un passage décisif de|PREP+EPCDN+z1
+à un poil des|à un poil de|PREP+EPCPQ+z1
+à un poil près||ADV+PCA+z1
+à un point critique de||PREP+EPCDN+z1
+à un point critique des|à un point critique de|PREP+EPCDN+z1
+à un point de non-retour||A+EPCDC+z1
+à un point exagéré||ADV+PCA+z1
+à un pot de thèse||A+EPCDC+z1
+à un premier niveau||ADV+PCDN2+z1
+à un prix défiant toute concurrence||A+EPCA+z1
+à un prix imbattable||A+EPCA+z1
+à un rendez-vous||A+EPCA+z1
+à un stade avancé||A+EPCA+z1
+à un symposium||A+EPDETC+z1
+à un séminaire||A+EPDETC+z1
+à un tel prix||A+EPAC+z1
+à un thé dansant||A+EPCA+z1
+à un titre ou à un autre||ADV+PCONJ+z1
+à un titre quelconque||ADV+PCA+z1
+à un vin d'honneur||A+EPCDC+z1
+à un âge avancé||A+EPCA+z1
+à un âge critique||A+EPCA+z1
+à un échelon national||ADV+PCA+z1
+à un échelon régional||ADV+PCA+z1
+à une boume||A+EPDETC+z1
+à une certaine cadence||A+EPDETC+z1
+à une certaine date||ADV+PAC+z1
+à une certaine latitude||A+EPDETC+z1
+à une certaine période||A+EPDETC+z1
+à une certaine période d'|à une certaine période de|PREP+EPCDN+z1
+à une certaine période du|à une certaine période de|PREP+EPCDN+z1
+à une certaine époque||A+EPDETC+z1
+à une certaine étape des|à une certaine étape de|PREP+EPCDN+z1
+à une communion||A+EPDETC+z1
+à une commémoration||A+EPDETC+z1
+à une cérémonie religieuse||A+EPCA+z1
+à une date quelconque||ADV+PCA+z1
+à une exposition||A+EPDETC+z1
+à une fête||A+EPDETC+z1
+à une fête de charité||A+EPCDC+z1
+à une fête de famille||A+EPCDC+z1
+à une grande échelle||ADV+PAC+z1
+à une grande échelle||A+EPAC+z1
+à une heure incroyable||ADV+PCA+z1
+à une heure où|à une heure|CONJS+5
+à une kermesse||A+EPDETC+z1
+à une large majorité||ADV+PAC+z1
+à une large échelle||A+EPAC+z1
+à une lieue||ADV+PDETC+z1
+à une majorité||ADV+PCDN+z1
+à une majorité de||PREP+PCDN+z1
+à une majorité de||PREP+PCDN1+z1
+à une majorité des|à une majorité de|PREP+PCDN1+z1
+à une manif||A+EPDETC+z1
+à une manifestation||A+EPDETC+z1
+à une ou deux reprises||ADV+PCONJ+z1
+à une petite échelle||ADV+PAC+z1
+à une petite échelle||A+EPAC+z1
+à une période cruciale de||PREP+EPCDN+z1
+à une période difficile d'|à une période difficile de|PREP+EPCDN+z1
+à une période difficile du|à une période difficile de|PREP+EPCDN+z1
+à une période décisive des|à une période décisive de|PREP+EPCDN+z1
+à une répétition||A+EPDETC+z1
+à une réunion||A+EPDETC+z1
+à une réunion électorale||A+EPCA+z1
+à une soirée||A+EPDETC+z1
+à une soirée dansante||A+EPCA+z1
+à une surboume||A+EPDETC+z1
+à une table ronde||A+EPCA+z1
+à une époque de la vie||ADV+PCDN2+z1
+à une époque de la vie||ADV+PCDN+z1
+à une époque de la vie d'|à une époque de la vie de|PREP+PCDN1+z1
+à une époque de la vie du|à une époque de la vie de|PREP+PCDN1+z1
+à une époque importante de l'existence d'|à une époque importante de l'existence de|PREP+PCDN1+z1
+à une époque importante de l'existence du|à une époque importante de l'existence de|PREP+PCDN1+z1
+à une époque lointaine||ADV+PCA+z1
+à une époque où|à une époque|CONJS+5
+à usage commercial||A+EPCA+z1
+à usage externe||A+EPCA+z1
+à usage industriel||A+EPCA+z1
+à usage interne||A+EPCA+z1
+à usage médical||A+EPCA+z1
+à usages multiples||A+EPCA+z1
+à valeur comparable||ADV+PCA+z1
+à valeur similaire||ADV+PCA+z1
+à valoir sur||PREP+EPCPN+z1
+à vapeur||A+EPC+z1
+à vendre||A+EPC+z1
+à venir||A+EPC+z1
+à vide||ADV+PC+z1
+à vide||A+EPC+z1
+à vie||ADV+PC+z1
+à vif||A+EPC+z1
+à vil prix||ADV+PAC+z1
+à visage découvert||ADV+PCA+z1
+à visage découvert||A+EPCA+z1
+à visage humain||A+EPCA+z1
+à vitesse constante||ADV+PCA+z1
+à vitesse réduite||ADV+PCA+z1
+à vive allure||ADV+PAC+z1
+à voir||A+EPC+z1
+à voix basse||ADV+PCA+z1
+à voix haute||ADV+PCA+z1
+à volonté||ADV+PC+z1
+à volume constant||ADV+PCA+z1
+à vomir||A+EPC+z1
+à votre service||A+EPDETC+z1
+à vue||ADV+PC+z1
+à vue d'oeil||ADV+PCDC+z1
+à vue de nez||ADV+PCDC+z1
+à vélo||ADV+PC+z1
+à vélo||A+EPC+z1
+à y penser||ADV+PV+z1
+à y penser bien||ADV+PV+z1
+à y réfléchir bien||ADV+PV+z1
+à échelle humaine||A+EPCA+z1
+à échéance lointaine||ADV+PCA+z1
+à éclipses||A+EPC+z1
+à écouter||ADV+PV+z1
+à égalité avec||PREP+EPCPN+z1
+à épisodes||A+EPC+z1
+âge adulte||N+NA+z1:ms
+âge apparent||N+NA+z1:ms
+âge atomique||N+NA:ms
+âge avancé||N+NA+E01+z1:ms
+âge biologique||N+NA+z1:ms
+âge canonique||N+NA+E01+z1:ms
+âge chronologique||N+NA+z2:ms
+âge classique||N+NA+z2:ms
+âge d'airain||N+NDN:ms
+âge d'homme||N+NDN:ms
+âge de bronze||N+NDN:ms
+âge de fer||N+NDN:ms
+âge de l'Univers||N+NDN:ms
+âge de la maternité||N+NDN:ms
+âge de la ménopause||N+NDN:ms
+âge de la pierre||N+NDN:ms
+âge de la retraite||N+NDN:ms
+âge de pierre||N+NDN:ms
+âge de raison||N+NDN:ms
+âge du bronze||N+NDN:ms
+âge du mariage||N+NDN:ms
+âge industriel||N+NA+z1:ms
+âge interglaciaire||N+NA:ms
+âge limite||N+NA+z1:ms
+âge légal||N+NA+z1:ms
+âge maternel||N+NA:ms
+âge mental||N+NA+z1:ms
+âge minimum||N+NA+z1:ms
+âge moyen||N+NA+z1:ms
+âge mûr||N+NA+z1:ms
+âge nubile||N+NA:ms
+âge psychologique||N+NA+z1:ms
+âge scolaire||N+NA+z1:ms
+âge tendre||N+NA+z1:ms
+âges apparents|âge apparent|N+NA+z1:mp
+âges avancés|âge avancé|N+NA+E01+z1:mp
+âges baroques|âge baroque|N+NA:mp
+âges critiques|âge critique|N+NA+z1:mp
+âges de l'humanité||N+NDN:mp
+âges industriels|âge industriel|N+NA+z1:mp
+âges interglaciaires|âge interglaciaire|N+NA:mp
+âges maternels|âge maternel|N+NA:mp
+âges moyens|âge moyen|N+NA+z1:mp
+âges métaphysiques|âge métaphysique|N+NA:mp
+âges osseux|âge osseux|N+NA+z2:mp
+âges pubertaires|âge pubertaire|N+NA:mp
+âges staturaux|âge statural|N+NA:mp
+âges virils|âge viril|N+NA:mp
+âme candide||N+NA+E01+z2:fs
+âme collective||N+NA+z2:fs
+âme damnée||N+NA+Hum+z1:fs
+âme de boue||N+NDN+Hum:fs
+âme de câble||N+NDN+Conc:fs
+âme de héros||N+NDN+Hum:fs
+âme de panneau latté||N+NPNA+Conc:fs
+âme des choses||N+NDN:fs
+âme du monde||N+NDN:fs
+âme en peine||N+NPN+Hum:fs
+âme généreuse||N+NA+Hum+z1:fs
+âme humaine||N+NA+z1:fs
+âme lattée||N+NA+Conc:fs
+âme nutritive||N+NA:fs
+âme pure||N+NA+E01+z2:fs
+âme sensible||N+NA+Hum+z1:fs
+âme sereine||N+NA+E01:fs
+âme soeur||N+NN+z1:fs
+âme toronnée||N+NA+Conc:fs
+âme vile||N+NA+Hum+z2:fs
+âmes damnées|âme damnée|N+NA+Hum+z1:fp
+âmes de canon|âme de canon|N+NDN+Conc:fp
+âmes de feu|âme de feu|N+NDN+Hum:fp
+âmes de laquais|âme de laquais|N+NDN:fp
+âmes de valet|âme de valet|N+NDN:fp
+âmes lattées|âme lattée|N+NA+Conc:fp
+âmes pures|âme pure|N+NA+E01+z2:fp
+âmes sensibles|âme sensible|N+NA+Hum+z1:fp
+âmes soeurs|âme soeur|N+NN+z1:fp
+âmes toronnées|âme toronnée|N+NA+Conc:fp
+âmes viles|âme vile|N+NA+Hum+z2:fp
+âne cornard||N+NA+Anl:ms
+âne de mer||N+NDN+Anl:ms
+âne gris||N+NA+Anl:ms
+âne rouge||N+NA+Anl:ms
+âne sauvage||N+NA+Anl:ms
+ânes domestiques|âne domestique|N+NA+Anl:mp
+âpre au gain||A+EAPC+z1:ms:fs
+âpres au gain|âpre au gain|A+EAPC+z1:mp:fp
+âpres combats||N+AN:mp
+âpres à la besogne|âpre à la besogne|A+EAPC+z1:mp:fp
+âpreté au toucher||N+NAN:fs
+ça dépend||ADV+PF+z1
+çà et là||ADV+PCONJ+z1
+ère archéozoïque||N+NA:fs
+ère atomique||N+NA+z1:fs
+ère chrétienne||N+NA+z1:fs
+ère de||NDET+Dnom13
+ère de la|ère de|NDET+Dnom13
+ère hadronique||N+NA:fs
+ère industrielle||N+NA+z1:fs
+ère leptonique||N+NA:fs
+ère nouvelle||N+NA+z1:fs
+ère nucléaire||N+NA+z1:fs
+ère paléozoïque||N+NA:fs
+ère primaire||N+NA+z2:fs
+ère quaternaire||N+NA+z2:fs
+ère radiative||N+NA:fs
+ère secondaire||N+NA+z2:fs
+ère stalinienne||N+NA:fs
+ère victorienne||N+NA+z2:fs
+ères archéozoïques|ère archéozoïque|N+NA:fp
+ères chrétiennes|ère chrétienne|N+NA+z1:fp
+ères hadroniques|ère hadronique|N+NA:fp
+ères leptoniques|ère leptonique|N+NA:fp
+ès qualité||ADV+PC+z1
+ébats amoureux||N+NA+z1:mp
+ébats sexuels||N+NA+z1:mp
+ébauche de||NDET+Dnom14
+ébauche de clef||N+NDN+Conc:fs
+ébauche du|ébauche de|NDET+Dnom14
+ébauche foliaire||N+NA:fs
+ébauches épithéliales|ébauche épithéliale|N+NA:fp
+éboulement secondaire||N+NA:ms
+ébène verte||N+NA+Conc:fs
+écaille cycloïde||N+NA+Conc:fs
+écaille de serpent||N+NDN+Conc:fs
+écaille de tortue||N+NDN+Conc:fs
+écailles cycloïdes|écaille cycloïde|N+NA+Conc:fp
+écailles de serpent|écaille de serpent|N+NDN+Conc:fp
+écailleur à tolite||N+NAN+Conc:ms
+écart angulaire||N+NA:ms
+écart de conduite||N+NDN:ms
+écart de langage||N+NDN:ms
+écart de prix||N+NDN:ms
+écart de température||N+NDN:ms
+écart grandissant||N+NA+z1:ms
+écart inflationniste||N+NA:ms
+écart probable||N+NA:ms
+écart spatial||N+NA:ms
+écart temporel||N+NA:ms
+écarteurs utérins|écarteur utérin|N+NA+Conc:mp
+écarts déflationnistes|écart déflationniste|N+NA:mp
+écarts maxima|écart maximum|N+NA+z1:mp
+écarts probables|écart probable|N+NA:mp
+écarts temporels|écart temporel|N+NA:mp
+écartée de tout|écarté de tout|A+EAPC+z1:fs
+échafaudage capillaire||N+NA:ms
+échange adiabatique||N+NA:ms
+échange communautaire||N+NA:ms
+échange culturel||N+NA+z1:ms
+échange d'informations||N+NDN:ms
+échange de bons procédés||N+NPAN:ms
+échange de coups||N+NDN:ms
+échange de coups de feu||N+NPNPN:ms
+échange de lettres||N+NDN:ms
+échange de participations||N+NDN:ms
+échange de politesses||N+NDN:ms
+échange de prisonniers||N+NDN:ms
+échange de propos||N+NDN:ms
+échange de regards||N+NDN:ms
+échange de titres||N+NDN:ms
+échange de vues||N+NDN:ms
+échange intercommunautaire||N+NA+z2:ms
+échange international||N+NA+z1:ms
+échange mitotique||N+NA:ms
+échange politique||N+NA:ms
+échange scientifique||N+NA+z1:ms
+échange standard||N+NA+z1:ms
+échange thermique||N+NA:ms
+échange universitaire||N+NA+z1:ms
+échange verbal||N+NA+z1:ms
+échange économique||N+NA+z2:ms
+échange économique international||N+NAA:ms
+échange épistolaire||N+NA+z1:ms
+échanges artistiques||N+NA+z2:mp
+échanges chimiques|échange chimique|N+NA:mp
+échanges commerciaux||N+NA+z2:mp
+échanges contrictifs||N+NA:mp
+échanges culturels|échange culturel|N+NA+z1:mp
+échanges culturels||N+NA+z1:mp
+échanges de poignées de main|échange de poignées de main|N+NPNPN:mp
+échanges financiers|échange financier|N+NA+z2:mp
+échanges industriels||N+NA+z2:mp
+échanges informatiques||N+NA+z2:mp
+échanges internationaux|échange international|N+NA+z1:mp
+échanges internationaux||N+NA+z1:mp
+échanges maritimes||N+NA:mp
+échanges migratoires||N+NA:mp
+échanges politiques|échange politique|N+NA:mp
+échanges scientifiques|échange scientifique|N+NA+z1:mp
+échanges scolaires|échange scolaire|N+NA+z1:mp
+échanges sportifs|échange sportif|N+NA+z1:mp
+échanges standard|échange standard|N+NA+z1:mp
+échanges universitaires|échange universitaire|N+NA+z1:mp
+échanges verbaux|échange verbal|N+NA+z1:mp
+échanges économiques|échange économique|N+NA+z2:mp
+échanges économiques internationaux|échange économique international|N+NAA:mp
+échanges énergétiques||N+NA+z2:mp
+échangeur autoroutier||N+NA+Conc+z2:ms
+échangeur d'autoroute||N+NDN+Conc:ms
+échangeur de refroidissement||N+NDN+Conc:ms
+échangeur géothermique||N+NA+Conc:ms
+échangeur routier||N+NA+Conc+z2:ms
+échangeur thermique||N+NA+Conc:ms
+échangeurs de refroidissement|échangeur de refroidissement|N+NDN+Conc:mp
+échangeurs géothermiques|échangeur géothermique|N+NA+Conc:mp
+échangeurs routiers|échangeur routier|N+NA+Conc+z2:mp
+échansons royaux|échanson royal|N+NA:mp
+échantillon aléatoire||N+NA+Conc:ms
+échantillon compensé||N+NA+Conc:ms
+échantillon de||NDET+Dnom10
+échantillon de laine||N+NDN+Conc:ms
+échantillon de tissu||N+NDN+Conc:ms
+échantillon gratuit||N+NA+Conc+z1:ms
+échantillon lunaire||N+NA+Conc:ms
+échantillon national||N+NA+z2:ms
+échantillon représentatif||N+NA+z1:ms
+échantillon statistique||N+NA+z2:ms
+échantillon tiré||N+NA+Conc:ms
+échantillonnage de||NDET+Dnom10
+échantillons biaisés|échantillon biaisé|N+NA+Conc:mp
+échantillons de|échantillon de|NDET+Dnom10
+échantillons de laboratoire|échantillon de laboratoire|N+NDN+Conc:mp
+échantillons de roche|échantillon de roche|N+NDN+Conc:mp
+échantillons gratuits|échantillon gratuit|N+NA+Conc+z1:mp
+échantillons représentatifs|échantillon représentatif|N+NA+z1:mp
+échantillons stellaires|échantillon stellaire|N+NA:mp
+échappement silencieux||N+NA:ms
+échappement à repos||N+NAN+Conc:ms
+échappements à ancre|échappement à ancre|N+NAN+Conc:mp
+échappé de Charenton||N+NDN+Hum:ms
+écharpe cachemire||N+NA+z1:fs
+écharpe de laine à rayures||N+NPNPN:fs
+écharpe de soie||N+NDN+Conc:fs
+écharpes de laine à carreaux|écharpe de laine à carreaux|N+NPNPN:fp
+écharpes de soie|écharpe de soie|N+NDN+Conc:fp
+échec au roi||N+NAN:ms
+échec cinglant||N+NA+E01+z1:ms
+échec commercial||N+NA+z1:ms
+échec conjugal||N+NA+z1:ms
+échec cuisant||N+NA+E01+z1:ms
+échec double||N+NA:ms
+échec et mat||A+EAPC+z1:ms:fs:mp:fp
+échec perpétuel||N+NA+z2:ms
+échec politique||N+NA+z1:ms
+échec scolaire||N+NA+z1:ms
+échec sentimental||N+NA+z1:ms
+échec social||N+NA+z1:ms
+échec technique||N+NA+z1:ms
+échec technologique||N+NA+z1:ms
+échec thérapeutique||N+NA+z1:ms
+échec à la découverte||N+NAN:ms
+échec économique||N+NA+z1:ms
+échec électoral||N+NA+z1:ms
+échecs commerciaux|échec commercial|N+NA+z1:mp
+échecs cuisants|échec cuisant|N+NA+E01+z1:mp
+échecs féeriques||N+NA:mp
+échecs matrimoniaux|échec matrimonial|N+NA+z2:mp
+échecs répétés||N+NA+z1:mp
+échecs scolaires|échec scolaire|N+NA+z1:mp
+échecs sociaux|échec social|N+NA+z1:mp
+échecs vivants||N+NA:mp
+échecs économiques|échec économique|N+NA+z1:mp
+échelle arithmétique||N+NA:fs
+échelle atomique||N+NA:fs
+échelle chromatique||N+NA:fs
+échelle d'intervalle||N+NDN:fs
+échelle de Beaufort||N+NDN:fs
+échelle de Jacob||N+NDN:fs
+échelle de Richter||N+NDN:fs
+échelle de coupée||N+NDN+Conc:fs
+échelle de perroquet||N+NDN+Conc:fs
+échelle de progression||N+NDN:fs
+échelle de salaires||N+NDN:fs
+échelle de sauvetage||N+NDN+Conc:fs
+échelle de température Celsius||N+NPNPN:fs
+échelle de valeurs||N+NDN:fs
+échelle des marées||N+NDN:fs
+échelle des salaires||N+NDN:fs
+échelle double||N+NA+Conc+z1:fs
+échelle graduée||N+NA+Conc:fs
+échelle graphique||N+NA:fs
+échelle géologique||N+NA:fs
+échelle harmonique||N+NA:fs
+échelle logarithmique||N+NA:fs
+échelle majeure||N+NA:fs
+échelle mobile||N+NA+Conc+z2:fs
+échelle moléculaire||N+NA:fs
+échelle métrique||N+NA:fs
+échelle réduite||N+NA:fs
+échelle sociale||N+NA+z1:fs
+échelle stratigraphique||N+NA:fs
+échelle tournante||N+NA+Conc:fs
+échelle à incendie||N+NAN+Conc:fs
+échelles atomiques|échelle atomique|N+NA:fp
+échelles d'évaluation|échelle d'évaluation|N+NDN:fp
+échelles de service|échelle de service|N+NDN+Conc:fp
+échelles graphiques|échelle graphique|N+NA:fp
+échelles harmoniques|échelle harmonique|N+NA:fp
+échelles musicales|échelle musicale|N+NA:fp
+échelles numériques|échelle numérique|N+NA:fp
+échelles thermométriques|échelle thermométrique|N+NA:fp
+échelles tétratoniques|échelle tétratonique|N+NA:fp
+échelles à poissons|échelle à poissons|N+NAN+Conc:fp
+échelon région||N+NN:ms
+échelons régions|échelon région|N+NN:mp
+écheveau de coton||N+NDN+Conc:ms
+écheveau de soie||N+NDN+Conc:ms
+écheveaux de lin|écheveau de lin|N+NDN+Conc:mp
+échine de porc||N+NDN+Conc:fs
+échinococcoses alvéolaires|échinococcose alvéolaire|N+NA:fp
+échiquier européen||N+NA+z1:ms
+échiquier international||N+NA+z1:ms
+échiquier mondial||N+NA+z1:ms
+échiquier mural||N+NA+Conc:ms
+échiquier politique||N+NA+z1:ms
+échiquier social||N+NA:ms
+échiquiers cylindriques|échiquier cylindrique|N+NA+Conc:mp
+échiquiers muraux|échiquier mural|N+NA+Conc:mp
+échiquiers sociaux|échiquier social|N+NA:mp
+écho flottant||N+NA:ms
+écho lointain||N+NA+z1:ms
+écho multiple||N+NA:ms
+écho radioélectrique||N+NA:ms
+échographie oculaire||N+NA:fs
+échographie vésicale||N+NA:fs
+échoppe de||NDET+Dnom7
+échos radioélectriques|écho radioélectrique|N+NA:mp
+échéance fatidique||N+NA+E01+z1:fs
+échéance moyenne||N+NA:fs
+échéance politique||N+NA+z1:fs
+échéance présidentielle||N+NA+z2:fs
+échéance électorale||N+NA+z1:fs
+échéances fiscales|échéance fiscale|N+NA+z1:fp
+échéances politiques|échéance politique|N+NA+z1:fp
+échéances présidentielles|échéance présidentielle|N+NA+z2:fp
+échéances sociales|échéance sociale|N+NA+z2:fp
+échéances électorales|échéance électorale|N+NA+z1:fp
+éclaboussure d'écume||N+NDN+Conc:fs
+éclair d'optimisme||N+NDN:ms
+éclair de chaleur||N+NDN:ms
+éclair de conscience||N+NDN:ms
+éclair de lucidité||N+NDN:ms
+éclair de malice||N+NDN:ms
+éclair à la crème||N+NAN+Conc:ms
+éclairage artificiel||N+NA+z1:ms
+éclairage axial||N+NA:ms
+éclairage de secours||N+NDN+Conc:ms
+éclairage halogène||N+NA+z1:ms
+éclairage indirect||N+NA+E01+z1:ms
+éclairage naturel||N+NA+z1:ms
+éclairage public||N+NA+z1:ms
+éclairage urbain||N+NA+z2:ms
+éclairage à l'arc électrique||N+NPNA:ms
+éclairage électrique||N+NA+z1:ms
+éclairages a giorno|éclairage a giorno|N+NAN:mp
+éclairages artificiels|éclairage artificiel|N+NA+z1:mp
+éclairages halogènes|éclairage halogène|N+NA+z1:mp
+éclairages indirects|éclairage indirect|N+NA+E01+z1:mp
+éclairages publics|éclairage public|N+NA+z1:mp
+éclairages à l'arc électrique|éclairage à l'arc électrique|N+NPNA:mp
+éclaircie résineuse||N+NA:fs
+éclairement lumineux||N+NA:ms
+éclairements lumineux|éclairement lumineux|N+NA:mp
+éclaireur skieur||N+NN+Hum:ms
+éclat de bombe||N+NDN+Conc:ms
+éclat de grenade||N+NDN+Conc:ms
+éclat de pierre||N+NDN+Conc:ms
+éclat de rire||N+NDN:ms
+éclat de souche||N+NDN+Conc:ms
+éclat de tonnerre||N+NDN:ms
+éclat de vitre||N+NDN+Conc:ms
+éclat de voix||N+NDN:ms
+éclats de grenade|éclat de grenade|N+NDN+Conc:mp
+éclats de pierre|éclat de pierre|N+NDN+Conc:mp
+éclats de rire|éclat de rire|N+NDN:mp
+éclats de souche|éclat de souche|N+NDN+Conc:mp
+éclipse apparente||N+NA:fs
+éclipse de lune||N+NDN:fs
+éclipse de soleil||N+NDN:fs
+éclipse de soleil partielle||N+NPNA:fs
+éclipse lunaire||N+NA:fs
+éclipse partielle||N+NA+z2:fs
+éclipse totale||N+NA+z2:fs
+éclipses apparentes|éclipse apparente|N+NA:fp
+éclipses de soleil partielles|éclipse de soleil partielle|N+NPNA:fp
+éclipses totales|éclipse totale|N+NA+z2:fp
+écluse double||N+NA+Conc:fs
+écluse à sas||N+NAN+Conc:fs
+écluses simples|écluse simple|N+NA+Conc:fp
+école active||N+NA+HumColl+z2:fs
+école artistique||N+NA+Conc+HumColl:fs
+école bilingue||N+NA+Conc+z1:fs
+école bolonaise||N+NA+HumColl:fs
+école buissonnière||N+NA+z1:fs
+école classique||N+NA+HumColl:fs
+école commerciale||N+NA+Conc+HumColl+z1:fs
+école communale||N+NA+Conc+HumColl+z1:fs
+école confessionnelle||N+NA+Conc+HumColl+z2:fs
+école consulaire||N+NA+Conc+HumColl:fs
+école cynique||N+NA+HumColl:fs
+école cyrénaïque||N+NA+HumColl:fs
+école d'alpinisme||N+NDN+Conc:fs
+école d'art||N+NDN+Conc:fs
+école d'arts graphiques||N+NPNA+HumColl:fs
+école d'infanterie||N+NDN+Conc:fs
+école d'officiers||N+NDN+Conc:fs
+école de||NDET+Dnom7
+école de ballet||N+NDN+Conc:fs
+école de cavalerie||N+NDN+Conc:fs
+école de chant||N+NDN+Conc:fs
+école de commerce||N+NDN+Conc:fs
+école de danse||N+NDN+Conc:fs
+école de diction||N+NDN+Conc:fs
+école de filles||N+NDN+Conc:fs
+école de formation||N+NDN+Conc:fs
+école de jazz||N+NDN+Conc:fs
+école de la vie||N+NDN:fs
+école de langue||N+NDN+Conc:fs
+école de langues|école de langue|N+NDN+Conc:fs
+école de miniature||N+NDN:fs
+école de musique||N+NDN+Conc:fs
+école de médecine||N+NDN+Conc:fs
+école de patience||N+NDN:fs
+école de peinture||N+NDN+Conc:fs
+école de pensée||N+NDN:fs
+école de piano||N+NDN+Conc:fs
+école de pilotage||N+NDN+Conc:fs
+école de pédicurie||N+NDN+Conc:fs
+école de samba||N+NDN+Conc:fs
+école de secrétariat||N+NDN+Conc:fs
+école de tennis||N+NDN+Conc:fs
+école de vie||N+NDN:fs
+école de viticulture||N+NDN+Conc:fs
+école de voile||N+NDN+Conc:fs
+école des|école de|NDET+Dnom7
+école du vice||N+NDN:fs
+école flamande||N+NA+HumColl+z2:fs
+école florentine||N+NA+HumColl+z2:fs
+école génoise||N+NA+Conc+HumColl:fs
+école historique||N+NA+HumColl:fs
+école hollandaise||N+NA+HumColl+z2:fs
+école hôtelière||N+NA+Conc+HumColl+z1:fs
+école intégrée||N+NA+Conc+HumColl:fs
+école laïque||N+NA+Conc+HumColl:fs
+école libre||N+NA+Conc+HumColl+z1:fs
+école littéraire||N+NA+Conc+HumColl+z1:fs
+école lombarde||N+NA+HumColl:fs
+école maternelle||N+NA+Conc+HumColl+z1:fs
+école mixte||N+NA+Conc+HumColl+z1:fs
+école napolitaine||N+NA+HumColl:fs
+école nationale supérieure de chimie||N+NX4:fs
+école nazaréenne||N+NA+HumColl:fs
+école normale supérieure||N+NAA+HumColl:fs
+école paroissiale||N+NA+Conc+HumColl:fs
+école primaire||N+NA+Conc+HumColl+z1:fs
+école privée||N+NA+Conc+HumColl+z1:fs
+école professionnelle||N+NA+Conc+HumColl:fs
+école préparatoire||N+NA+Conc+HumColl+z2:fs
+école publique||N+NA+Conc+HumColl+z1:fs
+école pythagoricienne||N+NA+HumColl:fs
+école religieuse||N+NA+Conc+HumColl+z1:fs
+école romantique||N+NA+HumColl+z1:fs
+école réaliste||N+NA+Conc+HumColl:fs
+école secondaire||N+NA+Conc+HumColl+z1:fs
+école stoïcienne||N+NA+HumColl+z2:fs
+école supérieure||N+NA+Conc+HumColl+z2:fs
+école supérieure de commerce||N+NAPN+Conc:fs
+école talmudique||N+NA+Conc+HumColl+z2:fs
+école unique||N+NA+HumColl:fs
+école vétérinaire||N+NA+Conc+HumColl+z1:fs
+école à feu||N+NAN:fs
+école élémentaire||N+NA+z1:fs
+école émilienne||N+NA+HumColl:fs
+écoles canoniales|école canoniale|N+NA+Conc+HumColl:fp
+écoles classiques|école classique|N+NA+HumColl:fp
+écoles commerciales|école commerciale|N+NA+Conc+HumColl+z1:fp
+écoles communales|école communale|N+NA+Conc+HumColl+z1:fp
+écoles confessionnelles|école confessionnelle|N+NA+Conc+HumColl+z2:fp
+écoles coraniques|école coranique|N+NA+Conc+HumColl+z2:fp
+écoles d'agriculture|école d'agriculture|N+NDN+Conc:fp
+écoles d'hôtellerie|école d'hôtellerie|N+NDN+Conc:fp
+écoles d'équitation|école d'équitation|N+NDN+Conc:fp
+écoles de|école de|NDET+Dnom7
+écoles de chirurgie|école de chirurgie|N+NDN+Conc:fp
+écoles de commerce|école de commerce|N+NDN+Conc:fp
+écoles de filles|école de filles|N+NDN+Conc:fp
+écoles de formation|école de formation|N+NDN+Conc:fp
+écoles de garçons|école de garçons|N+NDN+Conc:fp
+écoles de jazz|école de jazz|N+NDN+Conc:fp
+écoles de langues|école de langue|N+NDN+Conc:fp
+écoles de mousses|école de mousses|N+NDN+Conc:fp
+écoles de musique|école de musique|N+NDN+Conc:fp
+écoles de peloton|école de peloton|N+NDN+Conc:fp
+écoles de section|école de section|N+NDN+Conc:fp
+écoles de théologie|école de théologie|N+NDN+Conc:fp
+écoles de vie|école de vie|N+NDN:fp
+écoles des|école de|NDET+Dnom7
+écoles florentines|école florentine|N+NA+HumColl+z2:fp
+écoles historiques|école historique|N+NA+HumColl:fp
+écoles hollandaises|école hollandaise|N+NA+HumColl+z2:fp
+écoles libres|école libre|N+NA+Conc+HumColl+z1:fp
+écoles littéraires|école littéraire|N+NA+Conc+HumColl+z1:fp
+écoles lombardes|école lombarde|N+NA+HumColl:fp
+écoles maternelles|école maternelle|N+NA+Conc+HumColl+z1:fp
+écoles napolitaines|école napolitaine|N+NA+HumColl:fp
+écoles nazaréennes|école nazaréenne|N+NA+HumColl:fp
+écoles primaires|école primaire|N+NA+Conc+HumColl+z1:fp
+écoles privées|école privée|N+NA+Conc+HumColl+z1:fp
+écoles publiques|école publique|N+NA+Conc+HumColl+z1:fp
+écoles religieuses|école religieuse|N+NA+Conc+HumColl+z1:fp
+écoles romaines|école romaine|N+NA+Conc+HumColl:fp
+écoles secondaires|école secondaire|N+NA+Conc+HumColl+z1:fp
+écoles structuralistes|école structuraliste|N+NA+HumColl+z2:fp
+écoles supérieures|école supérieure|N+NA+Conc+HumColl+z2:fp
+écoles talmudiques|école talmudique|N+NA+Conc+HumColl+z2:fp
+écoles techniques|école technique|N+NA+Conc+HumColl+z1:fp
+écoles vénitiennes|école vénitienne|N+NA+HumColl:fp
+écoles vétérinaires|école vétérinaire|N+NA+Conc+HumColl+z1:fp
+écoles écossaises|école écossaise|N+NA+HumColl:fp
+écoles élémentaires|école élémentaire|N+NA+z1:fp
+écolier modèle||N+NA+Hum:ms
+écologie culturelle||N+NA:fs
+écologie forestière||N+NA:fs
+écologie humaine||N+NA:fs
+écologie rurale||N+NA:fs
+écologie végétale||N+NA:fs
+écologie éthologique||N+NA:fs
+écologies éthologiques|écologie éthologique|N+NA:fp
+économie administrée||N+NA:fs
+économie agraire||N+NA:fs
+économie agricole||N+NA+z2:fs
+économie américaine||N+NA+z1:fs
+économie appliquée||N+NA:fs
+économie budgétaire||N+NA+z2:fs
+économie capitaliste||N+NA+z1:fs
+économie classique||N+NA+z2:fs
+économie commerciale||N+NA+z2:fs
+économie d'agriculture||N+NDN:fs
+économie de carburant||N+NDN:fs
+économie de crise||N+NDN:fs
+économie de guerre||N+NDN:fs
+économie de marché||N+NDN:fs
+économie de production||N+NDN:fs
+économie de subsistance||N+NDN:fs
+économie dirigiste||N+NA:fs
+économie dirigée||N+NA:fs
+économie domestique||N+NA+z2:fs
+économie dominante||N+NA:fs
+économie dynamique||N+NA+z2:fs
+économie déductive||N+NA:fs
+économie développée||N+NA+z1:fs
+économie familiale||N+NA+z2:fs
+économie financière||N+NA:fs
+économie forestière||N+NA:fs
+économie française||N+NA+z1:fs
+économie humaine||N+NA:fs
+économie immergée||N+NA:fs
+économie industrielle||N+NA+z2:fs
+économie internationale||N+NA+z1:fs
+économie interne||N+NA+z2:fs
+économie keynésienne||N+NA:fs
+économie libérale||N+NA+z1:fs
+économie marxiste||N+NA+z2:fs
+économie mathématique||N+NA:fs
+économie mixte||N+NA+z2:fs
+économie mondiale||N+NA+z1:fs
+économie monétaire||N+NA+z2:fs
+économie normative||N+NA:fs
+économie ouverte||N+NA:fs
+économie parallèle||N+NA+z2:fs
+économie planifiée||N+NA:fs
+économie politique||N+NA+z1:fs
+économie positive||N+NA:fs
+économie pratique||N+NA+z2:fs
+économie privée||N+NA+z2:fs
+économie publique||N+NA+z2:fs
+économie quantitative||N+NA:fs
+économie rurale||N+NA:fs
+économie régionale||N+NA:fs
+économie sociale||N+NA+z1:fs
+économie sociale de marché||N+NAPN:fs
+économie souterraine||N+NA:fs
+économie stagnante||N+NA+z2:fs
+économie statistique||N+NA:fs
+économie urbaine||N+NA:fs
+économie étatisée||N+NA+z2:fs
+économies agricoles|économie agricole|N+NA+z2:fp
+économies appliquées|économie appliquée|N+NA:fp
+économies budgétaires||N+NA+z1:fp
+économies capitalistes|économie capitaliste|N+NA+z1:fp
+économies commerciales|économie commerciale|N+NA+z2:fp
+économies d'échelle||N+NDN:fp
+économies de marché|économie de marché|N+NDN:fp
+économies de production|économie de production|N+NDN:fp
+économies dirigistes|économie dirigiste|N+NA:fp
+économies dirigées|économie dirigée|N+NA:fp
+économies dominantes|économie dominante|N+NA:fp
+économies dynamiques|économie dynamique|N+NA+z2:fp
+économies humaines|économie humaine|N+NA:fp
+économies internes|économie interne|N+NA+z2:fp
+économies libérales|économie libérale|N+NA+z1:fp
+économies minières|économie minière|N+NA:fp
+économies mixtes|économie mixte|N+NA+z2:fp
+économies mondiales|économie mondiale|N+NA+z1:fp
+économies monétaires|économie monétaire|N+NA+z2:fp
+économies occidentales|économie occidentale|N+NA+z1:fp
+économies ouvertes|économie ouverte|N+NA:fp
+économies paysannes|économie paysanne|N+NA:fp
+économies politiques|économie politique|N+NA+z1:fp
+économies positives|économie positive|N+NA:fp
+économies régionales|économie régionale|N+NA:fp
+économies sociales|économie sociale|N+NA+z1:fp
+économies souterraines|économie souterraine|N+NA:fp
+économies stagnantes|économie stagnante|N+NA+z2:fp
+économies statistiques|économie statistique|N+NA:fp
+économies étatisées|économie étatisée|N+NA+z2:fp
+économique et social||A+EAPC+z1:ms
+économique et sociale|économique et social|A+EAPC+z1:fs
+économiquement faible||A+EPA+z1:ms:fs
+économiquement faibles|économiquement faible|A+EPA+z1:mp:fp
+économiques et sociaux|économique et social|A+EAPC+z1:mp
+économiste classique||N+NA+Hum+z2:ms
+économiste distingué||N+NA+Hum+z2:ms
+économistes classiques|économiste classique|N+NA+Hum+z2:mp
+écorce d'arbre||N+NDN+Conc:fs
+écorce de bouleau||N+NDN+Conc:fs
+écorce de mimosa||N+NDN+Conc:fs
+écorce terrestre||N+NA+Conc+z1:fs
+écorces d'orange confite|écorce d'orange confite|N+NPNA:fp
+écorces de liège|écorce de liège|N+NDN+Conc:fp
+écorché vif||N+NA+Hum+z1:ms
+écorchées vives|écorché vif|N+NA+Hum+z1:fp
+écosystème aquatique||N+NA:ms
+écosystème fluvial||N+NA:ms
+écosystème forestier||N+NA+z2:ms
+écosystème marin||N+NA+z2:ms
+écosystème souterrain||N+NA+Conc:ms
+écosystème urbain||N+NA:ms
+écosystèmes aquatiques|écosystème aquatique|N+NA:mp
+écosystèmes cultivés|écosystème cultivé|N+NA:mp
+écosystèmes marins|écosystème marin|N+NA+z2:mp
+écosystèmes urbains|écosystème urbain|N+NA:mp
+écoulement aérodynamique||N+NA:ms
+écoulement endoréique||N+NA:ms
+écoulement linéaire||N+NA:ms
+écoulement tourbillonnaire||N+NA:ms
+écoulement à gueule-bée||N+NPAN+Conc:ms
+écoulements tourbillonnaires|écoulement tourbillonnaire|N+NA:mp
+écoute flottante||N+NA+E01+z2:fs
+écoutes administratives||N+NA:fp
+écoutes auriculaires|écoute auriculaire|N+NA:fp
+écoutes judiciaires||N+NA:fp
+écoutes téléphoniques||N+NA+z1:fp
+écouteur téléphonique||N+NA+Conc+z1:ms
+écran acoustique||N+NA+Conc:ms
+écran antiflash||N+NA+Conc:ms
+écran cathodique||N+NA+Conc:ms
+écran couleur||N+NN+Conc+z1:ms
+écran de||NDET+Dnom9
+écran de blocage||N+NDN+Conc:ms
+écran de contrôle||N+NDN+Conc:ms
+écran de fumée||N+NDN+Conc:ms
+écran de terminal||N+NDN+Conc:ms
+écran de télévision||N+NDN+Conc:ms
+écran fluorescent||N+NA+Conc:ms
+écran géant||N+NA+Conc+z1:ms
+écran hémisphérique||N+NA+Conc:ms
+écran magnétique||N+NA+Conc:ms
+écran panoramique||N+NA+Conc+z2:ms
+écran plat en couleurs||N+NAPN+Conc:ms
+écran protecteur||N+NA+Conc+z1:ms
+écran publicitaire||N+NA+Conc:ms
+écran radar||N+NN+Conc+z1:ms
+écran rétro-éclairé||N+NXA+Conc:ms
+écran tactile||N+NA+Conc+z2:ms
+écran total||N+NA+Conc+z1:ms
+écran à coins carrés||N+NPNA+Conc:ms
+écran à matrice active||N+NPNA+Conc:ms
+écran électrodynamique||N+NA+Conc:ms
+écrans absorbants|écran absorbant|N+NA+Conc:mp
+écrans cathodiques|écran cathodique|N+NA+Conc:mp
+écrans d'eau|écran d'eau|N+NDN+Conc:mp
+écrans de|écran de|NDET+Dnom9
+écrans de bois|écran de bois|N+NDN+Conc:mp
+écrans de fumée|écran de fumée|N+NDN+Conc:mp
+écrans de télévision|écran de télévision|N+NDN+Conc:mp
+écrans des|écran de|NDET+Dnom9
+écrans formatés|écran formaté|N+NA+Conc:mp
+écrans graphiques|écran graphique|N+NA+Conc+z2:mp
+écrans géants|écran géant|N+NA+Conc+z1:mp
+écrans muraux|écran mural|N+NA+Conc+z2:mp
+écrans perlés|écran perlé|N+NA+Conc:mp
+écrans protecteurs|écran protecteur|N+NA+Conc+z1:mp
+écrans publicitaires|écran publicitaire|N+NA+Conc:mp
+écrans solaires|écran solaire|N+NA+Conc+z1:mp
+écrans tactiles|écran tactile|N+NA+Conc+z2:mp
+écrans thermiques|écran thermique|N+NA+Conc:mp
+écrans à matrice passive|écran à matrice passive|N+NPNA+Conc:mp
+écrans électromagnétiques|écran électromagnétique|N+NA+Conc:mp
+écrin de||NDET+Dnom7
+écrit apologétique||N+NA:ms
+écrit dans le ciel||A+EAPC+z1:ms
+écrit dans le journal||A+EAPC+z1:ms
+écrit de concours||N+NDN+Conc:ms
+écrits dans le ciel|écrit dans le ciel|A+EAPC+z1:mp
+écriture agréable||N+NA+E01+z2:fs
+écriture anaglyptique||N+NA:fs
+écriture arabe||N+NA+z2:fs
+écriture audiovisuelle||N+NA+z2:fs
+écriture automatique||N+NA+z1:fs
+écriture blanche||N+NA:fs
+écriture bâtarde||N+NN:fs
+écriture chinoise||N+NA:fs
+écriture contrapuntique||N+NA:fs
+écriture coufique||N+NA:fs
+écriture cunéiforme||N+NA:fs
+écriture céleste||N+NA:fs
+écriture dramatique||N+NA:fs
+écriture démotique||N+NA:fs
+écriture grecque||N+NA:fs
+écriture hiéroglyphique||N+NA:fs
+écriture idéographique||N+NA:fs
+écriture irlandaise||N+NA:fs
+écriture majuscule||N+NA:fs
+écriture maladroite||N+NA+E01+z2:fs
+écriture manuscrite||N+NA:fs
+écriture mathématique||N+NA:fs
+écriture minuscule||N+NA:fs
+écriture moulée||N+NA:fs
+écriture musicale||N+NA+z2:fs
+écriture non-alphabétique||N+NXA:fs
+écriture penchée||N+NA+z1:fs
+écriture phonétique||N+NA:fs
+écriture phénicienne||N+NA:fs
+écriture pictographique||N+NA:fs
+écriture polyphonique||N+NA:fs
+écriture rabbinique||N+NA:fs
+écriture renversée||N+NA:fs
+écriture romanesque||N+NA+z2:fs
+écriture scripte||N+NN+z2:fs
+écriture sud-asiatique||N+NXA:fs
+écriture symbolique||N+NA:fs
+écriture wisigothique||N+NA:fs
+écritures arabes|écriture arabe|N+NA+z2:fp
+écritures automatiques|écriture automatique|N+NA+z1:fp
+écritures bancaires||N+NA+z2:fp
+écritures chinoises|écriture chinoise|N+NA:fp
+écritures coufiques|écriture coufique|N+NA:fp
+écritures de comparaison||N+NDN:fp
+écritures dégueulasses|écriture dégueulasse|N+NA+E01+z1:fp
+écritures gothiques|écriture gothique|N+NA:fp
+écritures hébraïques|écriture hébraïque|N+NA:fp
+écritures ioniques|écriture ionique|N+NA:fp
+écritures lombardiques|écriture lombardique|N+NA:fp
+écritures onciales|écriture onciale|N+NA:fp
+écritures privées||N+NA:fp
+écritures publiques||N+NA:fp
+écrivain d'art||N+NDN+Hum:ms
+écrivain de gauche||N+NDN+Hum:ms
+écrivain de théâtre||N+NDN+Hum:ms
+écrivain engagé||N+NA+Hum+z1:ms
+écrivain lithographe||N+NA+Hum:ms
+écrivain maudit||N+NA+Hum+z1:ms
+écrivain professionnel||N+NA+Hum:ms
+écrivain public||N+NA+Hum+z1:ms
+écrivain romantique||N+NA+Hum+z2:ms
+écrivain réaliste||N+NA+Hum+z2:ms
+écrivain à succès||N+NAN+Hum:ms
+écrivains engagés|écrivain engagé|N+NA+Hum+z1:mp
+écrivains maudits|écrivain maudit|N+NA+Hum+z1:mp
+écrivains publics|écrivain public|N+NA+Hum+z1:mp
+écrivains régionaux|écrivain régional|N+NA+Hum+z2:mp
+écrou de serrage||N+NDN+Conc:ms
+écrou extraditionnel||N+NA:ms
+écrou à chapeau||N+NAN+Conc:ms
+écroulements du bloc communiste|écroulement du bloc communiste|N+NPNA:mp
+écroulé de rire||A+EAPC+z1:ms
+écroulée de rire|écroulé de rire|A+EAPC+z1:fs
+écroulées de rire|écroulé de rire|A+EAPC+z1:fp
+écrous à oreilles|écrou à oreilles|N+NAN+Conc:mp
+écu d'or||N+NDN:ms
+écueil monétaire||N+NA+z2:ms
+écueils techniques|écueil technique|N+NA+z1:mp
+écuelle à couvercle||N+NAN+Conc:fs
+écuelles de soupe|écuelle de soupe|N+NDN+Conc:fp
+écume de mer||N+NDN+Conc:fs
+écumes printanières|écume printanière|N+NA:fp
+écumeuse littéraire|écumeur littéraire|N+NA+Hum:fs
+écumoires à friture|écumoire à friture|N+NAN+Conc:fp
+écurie de||NDET+Dnom7
+écuries automobiles|écurie automobile|N+NN+HumColl:fp
+écuries de|écurie de|NDET+Dnom7
+écus d'or|écu d'or|N+NDN:mp
+écusson embryonnaire||N+NA+Conc:ms
+écussons votifs|écusson votif|N+NA+Conc:mp
+écuyères du roi|écuyer du roi|N+NDN+Hum:fp
+édifice cultuel||N+NA+Conc:ms
+édifice culturel||N+NA+Conc:ms
+édifice en cloître||N+NPN+Conc:ms
+édifice gothique||N+NA+Conc:ms
+édifice majeur||N+NA+Conc:ms
+édifice public||N+NA+Conc+z1:ms
+édifice religieux||N+NA+Conc+z1:ms
+édifice social||N+NA:ms
+édifice volcanique||N+NA+Conc:ms
+édifices cristallins|édifice cristallin|N+NA+Conc:mp
+édifices cultuels|édifice cultuel|N+NA+Conc:mp
+édifices culturels|édifice culturel|N+NA+Conc:mp
+édifices de culte|édifice de culte|N+NDN+Conc:mp
+édifices gothiques|édifice gothique|N+NA+Conc:mp
+édifices plurimoléculaires|édifice plurimoléculaire|N+NA+Conc:mp
+édifices publics|édifice public|N+NA+Conc+z1:mp
+édifices religieux|édifice religieux|N+NA+Conc+z1:mp
+édifices sociaux|édifice social|N+NA:mp
+édile curule||N+NA+Hum:ms
+édile plébéien||N+NA+Hum:ms
+édiles municipaux|édile municipal|N+NA+Hum:mp
+édiles patriciens|édile patricien|N+NA+Hum:mp
+édit de Nantes||N+NDN:ms
+édit de grâce||N+NDN:ms
+édit de tolérance||N+NDN:ms
+édit royal||N+NA+z2:ms
+éditeur de chansons||N+NDN+Hum:ms
+éditeur de revues||N+NDN+Hum:ms
+éditeur responsable||N+NA+Hum:ms
+éditeurs de musique|éditeur de musique|N+NDN+Hum:mp
+éditeurs responsables|éditeur responsable|N+NA+Hum:mp
+édition augmentée||N+NA+z2:fs
+édition avec commentaire||N+NPN+z2:fs
+édition complète||N+NA+z1:fs
+édition corrigée||N+NA+z2:fs
+édition critique||N+NA+z1:fs
+édition de||NDET+Dnom9
+édition de poche||N+NDN+Conc:fs
+édition des|édition de|NDET+Dnom9
+édition dominicale||N+NA:fs
+édition elzévirienne||N+NA+Conc:fs
+édition littéraire||N+NA+z1:fs
+édition musicale||N+NA+z1:fs
+édition originale||N+NA+Conc+z1:fs
+édition phonographique||N+NA:fs
+édition pirate||N+NA+z1:fs
+édition princeps||N+NA+Conc:fs
+édition revue||N+NA+z2:fs
+édition revue et augmentée||N+NAPN+Conc:fs
+édition savante||N+NA+z1:fs
+édition scolaire||N+NA+z1:fs
+édition spéciale||N+NA+z1:fs
+édition électronique||N+NA+z2:fs
+éditions augmentées|édition augmentée|N+NA+z2:fp
+éditions avec commentaire|édition avec commentaire|N+NPN+z2:fp
+éditions complètes|édition complète|N+NA+z1:fp
+éditions corrigées|édition corrigée|N+NA+z2:fp
+éditions critiques|édition critique|N+NA+z1:fp
+éditions de|édition de|NDET+Dnom9
+éditions de poche|édition de poche|N+NDN+Conc:fp
+éditions des|édition de|NDET+Dnom9
+éditions dominicales|édition dominicale|N+NA:fp
+éditions elzéviriennes|édition elzévirienne|N+NA+Conc:fp
+éditions musicales|édition musicale|N+NA+z1:fp
+éditions originales|édition originale|N+NA+Conc+z1:fp
+éditions pirates|édition pirate|N+NA+z1:fp
+éditions revues et augmentées|édition revue et augmentée|N+NAPN+Conc:fp
+éditions scolaires|édition scolaire|N+NA+z1:fp
+éditions spéciales|édition spéciale|N+NA+z1:fp
+éditions électroniques|édition électronique|N+NA+z2:fp
+éditrices d'estampes|éditeur d'estampes|N+NDN+Hum:fp
+éditrices de progiciels|éditeur de progiciels|N+NDN+Hum:fp
+édits royaux|édit royal|N+NA+z2:mp
+édredon de plumes||N+NDN+Conc:ms
+éducateur spirituel||N+NA+Hum:ms
+éducateur sportif||N+NA+Hum+z1:ms
+éducateur spécialisé||N+NA+Hum+z1:ms
+éducateurs pénitentiaires|éducateur pénitentiaire|N+NA+Hum+z2:mp
+éducateurs sportifs|éducateur sportif|N+NA+Hum+z1:mp
+éducateurs spécialisés|éducateur spécialisé|N+NA+Hum+z1:mp
+éducation active||N+NA+z2:fs
+éducation alimentaire||N+NA+z1:fs
+éducation artistique||N+NA+z1:fs
+éducation civique||N+NA+z1:fs
+éducation des enfants||N+NDN:fs
+éducation diabétique||N+NA:fs
+éducation familiale||N+NA+z1:fs
+éducation fonctionnelle||N+NA:fs
+éducation morale||N+NA+z1:fs
+éducation musicale||N+NA+z1:fs
+éducation nationale||N+NA:fs
+éducation nouvelle||N+NA:fs
+éducation nutritionnelle||N+NA:fs
+éducation permanente||N+NA+z1:fs
+éducation physique||N+NA+z1:fs
+éducation physique et sportive||N+NAPN:fs
+éducation politique||N+NA+z2:fs
+éducation populaire||N+NA+z2:fs
+éducation professionnelle||N+NA:fs
+éducation religieuse||N+NA+z1:fs
+éducation routière||N+NA+z2:fs
+éducation sanitaire||N+NA:fs
+éducation sentimentale||N+NA+z2:fs
+éducation sexuelle||N+NA+z1:fs
+éducation spéciale||N+NA:fs
+éducation surveillée||N+NA+z1:fs
+éducations actives|éducation active|N+NA+z2:fp
+éducations civiques|éducation civique|N+NA+z1:fp
+éducations familiales|éducation familiale|N+NA+z1:fp
+éducations morales|éducation morale|N+NA+z1:fp
+éducations nouvelles|éducation nouvelle|N+NA:fp
+éducations religieuses|éducation religieuse|N+NA+z1:fp
+éducations sentimentales|éducation sentimentale|N+NA+z2:fp
+éducations spéciales|éducation spéciale|N+NA:fp
+éducations vocales|éducation vocale|N+NA:fp
+éducatrice spécialisée|éducateur spécialisé|N+NA+Hum+z1:fs
+éducatrices spécialisées|éducateur spécialisé|N+NA+Hum+z1:fp
+égalité civile||N+NA+z1:fs
+égalité des chances||N+NDN:fs
+égalité devant la mort||N+NPN+z1:fs
+égalité logique||N+NA:fs
+égalité politique||N+NA+z2:fs
+égalité raciale||N+NA+z1:fs
+égalité réelle||N+NA+z1:fs
+égalité sociale||N+NA+z1:fs
+égalité vectorielle||N+NA:fs
+égalités vectorielles|égalité vectorielle|N+NA:fp
+égaux devant la loi||A+EAPC+z1:mp
+églantier mystique||N+NA:ms
+église abbatiale||N+NA+Conc:fs
+église bouddhique||N+NA+Conc:fs
+église cathédrale||N+NN+Conc:fs
+église collégiale||N+NA+Conc:fs
+église de||NDET+Dnom7
+église de campagne||N+NDN+Conc:fs
+église gothique||N+NA+Conc+z1:fs
+église luthérienne||N+NA:fs
+église orthodoxe||N+NA:fs
+église paroissiale||N+NA+Conc:fs
+église romane||N+NA+Conc+z1:fs
+église sous le vocable de saint-Pierre||N+NX4:fs
+église uniate||N+NA+HumColl:fs
+église à bulbes||N+NAN+Conc:fs
+églises bouddhiques|église bouddhique|N+NA+Conc:fp
+églises collégiales|église collégiale|N+NA+Conc:fp
+églises de|église de|NDET+Dnom7
+églises de campagne|église de campagne|N+NDN+Conc:fp
+églises de paroisse|église de paroisse|N+NDN+Conc:fp
+églises des|église de|NDET+Dnom7
+églises gothiques|église gothique|N+NA+Conc+z1:fp
+églises luthériennes|église luthérienne|N+NA:fp
+églises orthodoxes|église orthodoxe|N+NA:fp
+églises paroissiales|église paroissiale|N+NA+Conc:fp
+églises romanes|église romane|N+NA+Conc+z1:fp
+églises succursales|église succursale|N+NA+Conc:fp
+églises uniates|église uniate|N+NA+HumColl:fp
+égouts collecteurs|égout collecteur|N+NA+Conc:mp
+égouttoir à couverts||N+NAN+Conc:ms
+égouttoir à vaisselle||N+NAN+Conc:ms
+égouttoirs à fromages|égouttoir à fromages|N+NAN+Conc:mp
+égrugeoir à engrenage||N+NAN+Conc:ms
+éjaculateur précoce||N+NA+Hum+z2:ms
+éjaculation précoce||N+NA+z2:fs
+éjaculation rétrograde||N+NA:fs
+éjection volcanique||N+NA+Conc:fs
+élaboration secondaire||N+NA:fs
+élan d'affection||N+NDN:ms
+élan de fraternité||N+NDN:ms
+élan de générosité||N+NDN:ms
+élan de l'esprit||N+NDN:ms
+élan de solidarité||N+NDN:ms
+élan de vitalité||N+NDN:ms
+élan patriotique||N+NA+z1:ms
+élan vital||N+NA+z1:ms
+élans d'enthousiasme|élan d'enthousiasme|N+NDN:mp
+élans lyriques|élan lyrique|N+NA+z2:mp
+élasticité des prix||N+NDN:fs
+électeur indirect||N+NA+Hum+z2:ms
+électeur inscrit||N+NA+Hum+z1:ms
+électeurs directs|électeur direct|N+NA+Hum+z2:mp
+électeurs inscrits|électeur inscrit|N+NA+Hum+z1:mp
+élection académique||N+NA:fs
+élection anticipée||N+NA+z1:fs
+élection cantonale||N+NA+z2:fs
+élection cantonale partielle||N+NAA:fs
+élection consulaire||N+NA:fs
+élection de Miss Monde||N+NPNPN:fs
+élection de Miss Univers||N+NPNPN:fs
+élection générale||N+NA:fs
+élection libre||N+NA+z2:fs
+élection locale||N+NA+z1:fs
+élection législative||N+NA+z1:fs
+élection législative partielle||N+NAA:fs
+élection municipale||N+NA+z1:fs
+élection municipale partielle||N+NAA:fs
+élection parlementaire||N+NA+z1:fs
+élection partielle||N+NA+z2:fs
+élection primaire||N+NA+z2:fs
+élection professionnelle||N+NA:fs
+élection présidentielle||N+NA+z1:fs
+élection présidentielle anticipée||N+NAA:fs
+élection régionale||N+NA:fs
+élection territoriale||N+NA:fs
+élections anticipées|élection anticipée|N+NA+z1:fp
+élections cantonales|élection cantonale|N+NA+z2:fp
+élections cantonales partielles|élection cantonale partielle|N+NAA:fp
+élections communales|élection communale|N+NA+z2:fp
+élections fédérales|élection fédérale|N+NA:fp
+élections générales|élection générale|N+NA:fp
+élections générales anticipées||N+NAA:fp
+élections libres|élection libre|N+NA+z2:fp
+élections locales|élection locale|N+NA+z1:fp
+élections législatives|élection législative|N+NA+z1:fp
+élections législatives anticipées|élection législative anticipée|N+NAA:fp
+élections législatives partielles|élection législative partielle|N+NAA:fp
+élections municipales|élection municipale|N+NA+z1:fp
+élections municipales partielles|élection municipale partielle|N+NAA:fp
+élections parlementaires|élection parlementaire|N+NA+z1:fp
+élections partielles|élection partielle|N+NA+z2:fp
+élections planétaires||N+NA:fp
+élections primaires|élection primaire|N+NA+z2:fp
+élections professionnelles|élection professionnelle|N+NA:fp
+élections provinciales|élection provinciale|N+NA:fp
+élections présidentielles|élection présidentielle|N+NA+z1:fp
+élections présidentielles anticipées|élection présidentielle anticipée|N+NAA:fp
+élections quinquennales|élection quinquennale|N+NA:fp
+élections régionales|élection régionale|N+NA:fp
+élections sénatoriales||N+NA+z2:fp
+élections sénatoriales partielles|élection sénatoriale partielle|N+NAA:fp
+électorat centriste||N+NA+E01+z2:ms
+électorat flottant||N+NA+HumColl+z1:ms
+électorats féminins|électorat féminin|N+NA+HumColl+z1:mp
+électorats syndicaux|électorat syndical|N+NA+HumColl+z2:mp
+électrice inscrite|électeur inscrit|N+NA+Hum+z1:fs
+électricien industriel||N+NA+Hum:ms
+électriciens industriels|électricien industriel|N+NA+Hum:mp
+électricité d'origine nucléaire||N+NPNA:fs
+électricité hydraulique||N+NA:fs
+électricité nucléaire||N+NA+z1:fs
+électricité positive||N+NA:fs
+électricité statique||N+NA+z1:fs
+électricité thermique||N+NA:fs
+électricités géothermiques|électricité géothermique|N+NA:fp
+électricités statiques|électricité statique|N+NA+z1:fp
+électrification rurale||N+NA:fs
+électriquement neutres|électriquement neutre|A+EPA+z1:mp:fp
+électrocardiographies intracardiaques|électrocardiographie intracardiaque|N+NA:fp
+électrode cutanée||N+NA+Conc:fs
+électrode de grille||N+NDN+Conc:fs
+électrode de soudage||N+NDN+Conc:fs
+électrode négative||N+NA+Conc:fs
+électrode à gouttes de mercure||N+NPNPN+Conc:fs
+électrodes d'entrée|électrode d'entrée|N+NDN+Conc:fp
+électrodes de polarité|électrode de polarité|N+NDN+Conc:fp
+électrodes de source|électrode de source|N+NDN+Conc:fp
+électrodynamique quantique||N+NA:fs
+électrologies médicales|électrologie médicale|N+NA:fp
+électrolyse de la soude||N+NDN:fs
+électromyostimulation faradique||N+NA:fs
+électromètre multicellulaire||N+NA+Conc:ms
+électron Auger||N+NN+Conc:ms
+électron d'énergie élevée||N+NPNA:ms
+électron gramme||N+NN:ms
+électron libre||N+NA+Conc+z1:ms
+électron négatif||N+NA+Conc+z2:ms
+électron relativiste||N+NA+Conc:ms
+électronique de défense||N+NDN:fs
+électronique de puissance||N+NDN:fs
+électronique domestique||N+NA:fs
+électronique grand public||N+NPAN:fs
+électronique militaire||N+NA:fs
+électronique professionnelle||N+NA:fs
+électronique submicronique||N+NA:fs
+électroniques domestiques|électronique domestique|N+NA:fp
+électroniques européennes|électronique européenne|N+NA:fp
+électroniques grand public|électronique grand public|N+NPAN:fp
+électroniques industrielles|électronique industrielle|N+NA:fp
+électroniques médicales|électronique médicale|N+NA:fp
+électrons de faible énergie|électron de faible énergie|N+NPAN+Conc:mp
+électrons négatifs|électron négatif|N+NA+Conc+z2:mp
+électrons relativistes|électron relativiste|N+NA+Conc:mp
+élevage au taquet||N+NAN:ms
+élevage bovin||N+NA+z2:ms
+élevage caprin||N+NA:ms
+élevage d'oies||N+NDN+AnlColl:ms
+élevage de bovins||N+NDN+AnlColl:ms
+élevage de chèvres||N+NDN+Conc:ms
+élevage de cochons||N+NDN+Conc:ms
+élevage de crocodiles||N+NDN+Conc:ms
+élevage de lapins||N+NDN+AnlColl:ms
+élevage de porcs||N+NDN+AnlColl:ms
+élevage de sangliers||N+NDN+Conc:ms
+élevage de vaches||N+NDN+AnlColl:ms
+élevage de visons||N+NDN+Conc:ms
+élevage en batterie||N+NPN+Conc+z1:ms
+élevage ovin||N+NA:ms
+élevage porcin||N+NA+z2:ms
+élevages caprins|élevage caprin|N+NA:mp
+élevages d'oies|élevage d'oies|N+NDN+AnlColl:mp
+élevages de chinchillas|élevage de chinchillas|N+NDN+Conc:mp
+élevages de crocodiles|élevage de crocodiles|N+NDN+Conc:mp
+élevages de porcs|élevage de porcs|N+NDN+AnlColl:mp
+élevages de poulets|élevage de poulets|N+NDN+AnlColl:mp
+élevages de sangliers|élevage de sangliers|N+NDN+Conc:mp
+élevages en batterie|élevage en batterie|N+NPN+Conc+z1:mp
+élevages industriels|élevage industriel|N+NA+z1:mp
+élevages ovins|élevage ovin|N+NA:mp
+élevages porcins|élevage porcin|N+NA+z2:mp
+éleveur de bétail||N+NDN+Hum:ms
+éleveur de chevaux||N+NDN+Hum:ms
+éleveur industriel||N+NA+Hum+z1:ms
+éleveurs de chevaux|éleveur de chevaux|N+NDN+Hum:mp
+éleveurs de poules pondeuses|éleveur de poules pondeuses|N+NPNA+Hum:mp
+éleveuses de chevaux|éleveur de chevaux|N+NDN+Hum:fp
+élevée dans l'hiérarchie|élevé dans l'hiérarchie|A+EAPC+z1:fs
+élimination nucléophile||N+NA:fs
+élimination physique||N+NA+z1:fs
+élimination péricyclique||N+NA:fs
+élimination électrophile||N+NA:fs
+éliminations physiques|élimination physique|N+NA+z1:fp
+éliminations urinaires|élimination urinaire|N+NA:fp
+élingue à pattes||N+NAN+Conc:fs
+élites intellectuelles|élite intellectuelle|N+NA+HumColl+z1:fp
+élixir de jouvence||N+NDN+Conc:ms
+élixir de vie||N+NDN:ms
+élixir parégorique||N+NA+Conc:ms
+éloge dithyrambique||N+NA+z1:ms
+éloge funèbre||N+NA+z1:ms
+éloigné de la réalité||A+EAPC+z1:ms
+éloignée de la réalité|éloigné de la réalité|A+EAPC+z1:fs
+éloignés de la réalité|éloigné de la réalité|A+EAPC+z1:mp
+éloquence académique||N+NA:fs
+éloquence militaire||N+NA:fs
+éloquence politique||N+NA+z2:fs
+éloquence révolutionnaire||N+NA:fs
+éloquences judiciaires|éloquence judiciaire|N+NA+z2:fp
+éloquences religieuses|éloquence religieuse|N+NA:fp
+élu au Conseil régional||N+NPNA+Hum:ms
+élu communiste||N+NA+Hum+z1:ms
+élu local||N+NA+Hum+z1:ms
+élu municipal||N+NA+Hum+z2:ms
+élu régional||N+NA+Hum+z2:ms
+élu vert||N+NA+Hum+z1:ms
+élue communale|élu communal|N+NA+Hum+z2:fs
+élue communiste|élu communiste|N+NA+Hum+z1:fs
+élue verte|élu vert|N+NA+Hum+z1:fs
+élues politiques|élu politique|N+NA+Hum+z1:fp
+élus au Conseil régional|élu au Conseil régional|N+NPNA+Hum:mp
+élus communaux|élu communal|N+NA+Hum+z2:mp
+élus communistes|élu communiste|N+NA+Hum+z1:mp
+élus locaux|élu local|N+NA+Hum+z1:mp
+élus municipaux|élu municipal|N+NA+Hum+z2:mp
+élus régionaux|élu régional|N+NA+Hum+z2:mp
+élus verts|élu vert|N+NA+Hum+z1:mp
+élève de seconde||N+NDN+Hum:ms:fs
+élève externe||N+NA+Hum+z1:ms:fs
+élève infirmière||N+NN+Hum+z2:fs
+élève mécanicienne|élève mécanicien|N+NN+Hum:fs
+élèves de seconde|élève de seconde|N+NDN+Hum:mp:fp
+élèves officiers|élève officier|N+NN+Hum+z2:mp:fp
+élégance féminine||N+NA+z2:fs
+élégance raffinée||N+NA+E01+z1:fs
+élégance vestimentaire||N+NA+z1:fs
+élégances raffinées|élégance raffinée|N+NA+E01+z1:fp
+élégantes jeunes femmes|élégante jeune femme|N+AAN+Hum:fp
+élégie morale||N+NA:fs
+élément aléatoire||N+NA+z1:ms
+élément avancé||N+NA:ms
+élément chromosomique||N+NA+Conc:ms
+élément de base||N+NDN:ms
+élément de comparaison||N+NDN:ms
+élément de décoration||N+NDN+Conc:ms
+élément de jugement||N+NDN:ms
+élément de réglage||N+NDN+Conc:ms
+élément de réponse||N+NDN:ms
+élément de solution||N+NDN:ms
+élément de suspension||N+NDN+Conc:ms
+élément de vérité||N+NDN:ms
+élément décoratif||N+NA+Conc+z1:ms
+élément déterminant||N+NA+E01+z1:ms
+élément essentiel||N+NA+z1:ms
+élément extralinguistique||N+NA:ms
+élément féminin||N+NA+HumColl+z1:ms
+élément halogène||N+NA+Conc:ms
+élément humain||N+NA+z1:ms
+élément indicateur||N+NA:ms
+élément liquide||N+NA+Conc+z2:ms
+élément masculin||N+NA+HumColl+z1:ms
+élément naturel||N+NA+z1:ms
+élément nouveau||N+NA+z1:ms
+élément radioactif||N+NA+Conc:ms
+élément somatique||N+NA:ms
+élément structurant||N+NA+z1:ms
+élément troublant||N+NA+z1:ms
+éléments anatomiques|élément anatomique|N+NA+Conc:mp
+éléments aéroportés||N+NA:mp
+éléments chimiques|élément chimique|N+NA+Conc+z2:mp
+éléments de bibliothèque|élément de bibliothèque|N+NDN+Conc:mp
+éléments de comparaison|élément de comparaison|N+NDN:mp
+éléments de décoration|élément de décoration|N+NDN+Conc:mp
+éléments de preuve|élément de preuve|N+NDN:mp
+éléments de réponse|élément de réponse|N+NDN:mp
+éléments digestifs|élément digestif|N+NA:mp
+éléments déterminants|élément déterminant|N+NA+E01+z1:mp
+éléments essentiels|élément essentiel|N+NA+z1:mp
+éléments explicites|élément explicite|N+NA:mp
+éléments imaginaires|élément imaginaire|N+NA:mp
+éléments liquides|élément liquide|N+NA+Conc+z2:mp
+éléments masculins|élément masculin|N+NA+HumColl+z1:mp
+éléments naturels|élément naturel|N+NA+z1:mp
+éléments nouveaux|élément nouveau|N+NA+z1:mp
+éléments préfabriqués||N+NA+Conc+z2:mp
+éléments périphériques|élément périphérique|N+NA:mp
+éléments radioactifs|élément radioactif|N+NA+Conc:mp
+éléments rétiniens||N+NA+Conc:mp
+éléments subversifs|élément subversif|N+NA+z1:mp
+éléments troublants|élément troublant|N+NA+z1:mp
+éléphants de mer|éléphant de mer|N+NDN+Anl:mp
+élévateurs dentaires|élévateur dentaire|N+NA+Conc:mp
+élévation au cube||N+NAN:fs
+élévation du niveau de vie||N+NPNPN:fs
+élévation à la gloire||N+NAN:fs
+émail cloisonné||N+NA+Conc:ms
+émail stannifère||N+NA+Conc:ms
+émanation thermale||N+NA:fs
+émanation toxique||N+NA+z1:fs
+émanations de gaz|émanation de gaz|N+NDN+Conc:fp
+émanations gazeuses|émanation gazeuse|N+NA:fp
+émanations toxiques|émanation toxique|N+NA+z1:fp
+émanations volcaniques|émanation volcanique|N+NA:fp
+émaux niellés|émail niellé|N+NA+Conc:mp
+émeraude de synthèse||N+NDN+Conc:fs
+émeraudes orientales|émeraude orientale|N+NA+Conc:fp
+émetteur basse fréquence||N+NXN:ms
+émetteur clandestin||N+NA+Conc+z1:ms
+émetteur haute fréquence||N+NXN:ms
+émetteur radio||N+NA+Conc+z1:ms
+émetteur ultrasonique||N+NA+Conc:ms
+émetteurs basse fréquence|émetteur basse fréquence|N+NXN:mp
+émetteurs haute fréquence|émetteur haute fréquence|N+NXN:mp
+émetteurs infrarouges|émetteur infrarouge|N+NA+Conc:mp
+émetteurs radio|émetteur radio|N+NA+Conc+z1:mp
+émeute estudiantine||N+NA:fs
+émeute paysanne||N+NA+z1:fs
+émeute populaire||N+NA+z1:fs
+émeute sanglante||N+NA+E01+z1:fs
+émeutes populaires|émeute populaire|N+NA+z1:fp
+émeutes raciales|émeute raciale|N+NA+z1:fp
+émigrations à l'étranger|émigration à l'étranger|N+NAN:fp
+éminence graisseuse||N+NA+Conc:fs
+éminence grise||N+NA+Hum+z1:fs
+éminence ilio-pectinée||N+NXA:fs
+éminence vermiculaire||N+NA:fs
+éminences grises|éminence grise|N+NA+Hum+z1:fp
+éminences thénars|éminence thénar|N+NN+Conc:fp
+émission animalière||N+NA:fs
+émission atmosphérique||N+NA:fs
+émission boursière||N+NA:fs
+émission culturelle||N+NA+z1:fs
+émission d'actions de société|émission d'action de société|N+NPNPN:fs
+émission d'information||N+NDN:fs
+émission d'obligations||N+NDN:fs
+émission de chèques||N+NDN:fs
+émission de gaz||N+NDN+Conc:fs
+émission de lave||N+NDN+Conc:fs
+émission de publicité||N+NDN:fs
+émission de radio||N+NDN:fs
+émission de rayons X||N+NPNPN:fs
+émission de titres||N+NDN:fs
+émission de télévision||N+NDN:fs
+émission de variétés||N+NDN:fs
+émission dominicale||N+NA+z1:fs
+émission en duplex||N+NPN:fs
+émission gazeuse||N+NA:fs
+émission hebdomadaire||N+NA+E01+z1:fs
+émission infrarouge||N+NA:fs
+émission littéraire||N+NA+z1:fs
+émission lumineuse||N+NA:fs
+émission mensuelle||N+NA+E01+z1:fs
+émission monétaire||N+NA+z2:fs
+émission musicale||N+NA+z1:fs
+émission obligataire||N+NA:fs
+émission philatélique||N+NA:fs
+émission politique||N+NA+z1:fs
+émission privée||N+NA:fs
+émission quotidienne||N+NA+E01+z1:fs
+émission radio||N+NN+z1:fs
+émission radioactive||N+NA:fs
+émission religieuse||N+NA+z1:fs
+émission scientifique||N+NA+z1:fs
+émission spéciale||N+NA+z1:fs
+émission télévisée||N+NA+z1:fs
+émission électrique||N+NA:fs
+émissions culturelles|émission culturelle|N+NA+z1:fp
+émissions d'actions nouvelles|émission d'actions nouvelles|N+NPNA:fp
+émissions de cheminées d'usine||N+NPNPN+Conc:fp
+émissions de gaz|émission de gaz|N+NDN+Conc:fp
+émissions de gaz carbonique|émission de gaz carbonique|N+NPNA:fp
+émissions de lumière|émission de lumière|N+NDN:fp
+émissions de radio|émission de radio|N+NDN:fp
+émissions de sperme|émission de sperme|N+NDN+Conc:fp
+émissions de télévision|émission de télévision|N+NDN:fp
+émissions haute fréquence|émission haute fréquence|N+NXN:fp
+émissions hebdomadaires|émission hebdomadaire|N+NA+E01+z1:fp
+émissions lasers|émission laser|N+NN:fp
+émissions mensuelles|émission mensuelle|N+NA+E01+z1:fp
+émissions musicales|émission musicale|N+NA+z1:fp
+émissions médicales|émission médicale|N+NA+z1:fp
+émissions obligataires|émission obligataire|N+NA:fp
+émissions phares|émission phare|N+NN:fp
+émissions politiques|émission politique|N+NA+z1:fp
+émissions polluantes|émission polluante|N+NA:fp
+émissions quotidiennes|émission quotidienne|N+NA+E01+z1:fp
+émissions radiophoniques|émission radiophonique|N+NA+z1:fp
+émissions scientifiques|émission scientifique|N+NA+z1:fp
+émissions sportives|émission sportive|N+NA+z1:fp
+émissions spéciales|émission spéciale|N+NA+z1:fp
+émissions stimulées de radiations|émission stimulée de radiations|N+NAPN:fp
+émissions théâtrales|émission théâtrale|N+NA+z1:fp
+émissions télévisées|émission télévisée|N+NA+z1:fp
+émissions vocaliques|émission vocalique|N+NA:fp
+émissions électromagnétiques|émission électromagnétique|N+NA:fp
+émotion forte||N+NA+z1:fs
+émotion religieuse||N+NA+z2:fs
+émotion vive||N+NA+E01+z1:fs
+émotions religieuses|émotion religieuse|N+NA+z2:fp
+émulations systèmes|émulation système|N+NN:fp
+émulsion d'huile||N+NDN+Conc:fs
+émulsions anioniques|émulsion anionique|N+NA+Conc:fp
+émulsions huileuses|émulsion huileuse|N+NA+Conc:fp
+énantiomère dextrogyre||N+NA:ms
+énantiomères lévogyres|énantiomère lévogyre|N+NA:mp
+énergie alternative||N+NA:fs
+énergie animale||N+NA:fs
+énergie atomique||N+NA+z1:fs
+énergie calorifique||N+NA:fs
+énergie cinétique||N+NA:fs
+énergie cinétique moyenne||N+NAA:fs
+énergie consommée||N+NA+z2:fs
+énergie conventionnelle||N+NA:fs
+énergie d'interaction||N+NDN:fs
+énergie de liaison||N+NDN:fs
+énergie de résonance||N+NDN:fs
+énergie dure||N+NA:fs
+énergie fossile||N+NA:fs
+énergie germinative||N+NA:fs
+énergie humaine||N+NA+z1:fs
+énergie hydraulique||N+NA:fs
+énergie hydro-électrique||N+NXA:fs
+énergie interne||N+NA:fs
+énergie libre totale||N+NAA:fs
+énergie marémotrice||N+NA:fs
+énergie mentale||N+NA:fs
+énergie mécanique||N+NA:fs
+énergie nucléaire||N+NA+z1:fs
+énergie peu commune||N+NXA:fs
+énergie potentielle||N+NA+z2:fs
+énergie primaire||N+NA:fs
+énergie pulsionnelle||N+NA:fs
+énergie sexuelle||N+NA+z2:fs
+énergie solaire||N+NA+z1:fs
+énergie thermale de la Terre||N+NAPN:fs
+énergie verte||N+NA:fs
+énergie électrique||N+NA+z1:fs
+énergie électronucléaire||N+NA:fs
+énergie éolienne||N+NA:fs
+énergies chimiques|énergie chimique|N+NA:fp
+énergies consommées|énergie consommée|N+NA+z2:fp
+énergies d'interaction|énergie d'interaction|N+NDN:fp
+énergies géothermiques|énergie géothermique|N+NA:fp
+énergies lumineuses|énergie lumineuse|N+NA:fp
+énergies naturelles|énergie naturelle|N+NA+z2:fp
+énergies nouvelles||N+NA+z1:fp
+énergies pulsionnelles|énergie pulsionnelle|N+NA:fp
+énergies renouvelables|énergie renouvelable|N+NA:fp
+énergies sexuelles|énergie sexuelle|N+NA+z2:fp
+énergies thermiques|énergie thermique|N+NA:fp
+énergies vibratoires|énergie vibratoire|N+NA:fp
+énergies électro-nucléaires|énergie électro-nucléaire|N+NXA:fp
+énergies éoliennes|énergie éolienne|N+NA:fp
+énigme biologique||N+NA:fs
+énigme policière||N+NA+z1:fs
+énigmes animales|énigme animale|N+NA:fp
+énigmes policières|énigme policière|N+NA+z1:fp
+énième dynastie||N+AN+HumColl:fs
+énième siècle||N+AN:ms
+énoncé minimal||N+NA:ms
+énoncé protocolaire||N+NA:ms
+énoncés minimaux|énoncé minimal|N+NA:mp
+énorme pas en avant||N+ANPN:ms
+énormes limousines|énorme limousine|N+AN+Conc:fp
+énumération de||NDET+Dnom14
+énumération de ses|énumération de|NDET+Dnom14
+énumération limitative||N+NA:fs
+énumérations de|énumération de|NDET+Dnom14
+énurésie diurne||N+NA:fs
+éolipile à rotation||N+NAN+Conc:ms
+épagneul breton||N+NA+Anl:ms
+épagneul japonais||N+NA+Anl:ms
+épagneul picard||N+NA+Anl:ms
+épagneules du Tibet|épagneul du Tibet|N+NDN+Anl:fp
+épagneuls bretons|épagneul breton|N+NA+Anl:mp
+épagneuls picards|épagneul picard|N+NA+Anl:mp
+épaisseur double||N+NA+E01+z1:fs
+épaisseur simple||N+NA+E01+z1:fs
+épaisseurs doubles|épaisseur double|N+NA+E01+z1:fp
+épaisseurs simples|épaisseur simple|N+NA+E01+z1:fp
+épanchement de bile||N+NDN+Conc:ms
+épanchement liquidien||N+NA+Conc:ms
+épanchement volcanique||N+NA+Conc:ms
+épanchements de sang|épanchement de sang|N+NDN+Conc:mp
+épanchements pleuraux|épanchement pleural|N+NA:mp
+épandage d'ordures||N+NDN:ms
+épandages de graviers|épandage de graviers|N+NDN:mp
+épargne excédentaire||N+NA:fs
+épargne liquide||N+NA:fs
+épargne nette||N+NA:fs
+épargne populaire||N+NA+z1:fs
+épargne privée||N+NA:fs
+épargne publique||N+NA+z2:fs
+épargne à court terme||N+NPAN:fs
+épargne à long terme||N+NPAN:fs
+épargnes boursières|épargne boursière|N+NA:fp
+épargnes forcées|épargne forcée|N+NA+z1:fp
+épargnes négatives|épargne négative|N+NA:fp
+épargnes publiques|épargne publique|N+NA+z2:fp
+épaule de chevreuil||N+NDN+Conc:fs
+épaule droite||N+NA+Conc+z1:fs
+épaule gauche||N+NA+Conc+z1:fs
+épaules carrées||N+NA+E01+z1:fp
+épaules d'agneau|épaule d'agneau|N+NDN+Conc:fp
+épaules de sanglier|épaule de sanglier|N+NDN+Conc:fp
+épaules larges||N+NA+A12:fp
+épaulette de mât||N+NDN+Conc:fs
+épaulés jetés|épaulé jeté|N+NA:mp
+épeire diadème||N+NN+Anl:fs
+éperon d'ancolie||N+NDN+Conc:ms
+éperon de vermeil||N+NDN:ms
+éperon rocheux||N+NA+Conc:ms
+éperon scléral||N+NA+Conc:ms
+éperons rocheux|éperon rocheux|N+NA+Conc:mp
+épervier à goujons||N+NAN+Conc:ms
+épi d'eau||N+NDN+Conc:ms
+épi de blé||N+NDN+Conc:ms
+épi de cheveux||N+NDN+Conc:ms
+épi de faîtage||N+NDN+Conc:ms
+épi de maïs||N+NDN+Conc:ms
+épi de seigle||N+NDN+Conc:ms
+épicerie fine||N+NA+Conc+z1:fs
+épiceries de|épicerie de|NDET+Dnom7
+épiceries de luxe|épicerie de luxe|N+NDN+Conc:fp
+épicycloïdes planes|épicycloïde plane|N+NA:fp
+épidémie de choléra||N+NDN:fs
+épidémie de grippe||N+NDN:fs
+épidémie de peste||N+NDN:fs
+épidémie de peste bovine||N+NPNA:fs
+épidémie de rougeole||N+NDN:fs
+épidémie de suicides||N+NDN:fs
+épidémie de typhus||N+NDN:fs
+épidémie de xénophobie||N+NDN:fs
+épidémies de choléra|épidémie de choléra|N+NDN:fp
+épidémies de variole|épidémie de variole|N+NDN:fp
+épidémiologie génétique||N+NA:fs
+épidémiologie moléculaire||N+NA:fs
+épidémiologies moléculaires|épidémiologie moléculaire|N+NA:fp
+épigrammes d'agneau|épigramme d'agneau|N+NDN+Conc:fp
+épilation à la cire||N+NAN:fs
+épilepsie bravais-jacksonienne||N+NXA:fs
+épilepsie temporale||N+NA:fs
+épilepsies temporales|épilepsie temporale|N+NA:fp
+épillet d'avoine||N+NDN+Conc:ms
+épilogue judiciaire||N+NA+z2:ms
+épimaques superbes|épimaque superbe|N+NA:mp
+épinards d'été||N+NDN+Conc:mp
+épinards des murailles|épinard des murailles|N+NDN+Conc:mp
+épine blanche||N+NA+Conc:fs
+épine d'été||N+NDN+Conc:fs
+épine de Judas||N+NDN+Anl:fs
+épine dorsale||N+NA+Conc+z2:fs
+épine du Christ||N+NDN+Conc:fs
+épine noire||N+NA+Conc:fs
+épines de Judas|épine de Judas|N+NDN+Anl:fp
+épines iliaques|épine iliaque|N+NA+Conc:fp
+épinette des Vosges||N+NDN:fs
+épinettes blanches|épinette blanche|N+NA+Conc:fp
+épingle de cravate||N+NDN+Conc:fs
+épingle de nourrice||N+NDN+Conc:fs
+épingle à chapeau||N+NAN+Conc:fs
+épingle à cheveux||N+NAN+Conc:fs
+épingle à nourrice||N+NAN+Conc:fs
+épingles de nourrice|épingle de nourrice|N+NDN+Conc:fp
+épingles à nourrice|épingle à nourrice|N+NAN+Conc:fp
+épis d'avoine|épi d'avoine|N+NDN+Conc:mp
+épis de blé|épi de blé|N+NDN+Conc:mp
+épis de maïs|épi de maïs|N+NDN+Conc:mp
+épis de riz|épi de riz|N+NDN+Conc:mp
+épiscopat français||N+NA+HumColl+z1:ms
+épisode circulatoire||N+NA:ms
+épisode malheureux||N+NA+z1:ms
+épisode pathologique||N+NA:ms
+épisodes bronchiques|épisode bronchique|N+NA:mp
+épisodes malheureux|épisode malheureux|N+NA+z1:mp
+épisodes pathologiques|épisode pathologique|N+NA:mp
+épisodes vasculaires|épisode vasculaire|N+NA:mp
+épithète homérique||N+NA:fs
+épithélioma glandulaire||N+NA:ms
+épithélioma térébrant||N+NA:ms
+épithéliomas perlés|épithélioma perlé|N+NA:mp
+épithélium germinal testiculaire||N+NAA+Conc:ms
+épithélium olfactif||N+NA+Conc:ms
+épithélium stratifié||N+NA+Conc:ms
+épithéliums pavimenteux|épithélium pavimenteux|N+NA+Conc:mp
+épizooties de charbon|épizootie de charbon|N+NDN:fp
+épluchures de légumes|épluchure de légumes|N+NDN+Conc:fp
+épluchures de pommes de terre|épluchure de pomme de terre|N+NPNPN+Conc:fp
+éponge calcaire||N+NA+Conc:fs
+éponge de toilette||N+NDN+Conc:fs
+éponge métallique||N+NA+Conc:fs
+éponge thermique||N+NA+Conc:fs
+éponges calcaires|éponge calcaire|N+NA+Conc:fp
+éponges de toilette|éponge de toilette|N+NDN+Conc:fp
+éponges métalliques|éponge métallique|N+NA+Conc:fp
+éponges thermiques|éponge thermique|N+NA+Conc:fp
+épopée homérique||N+NA:fs
+épopée napoléonienne||N+NA+z2:fs
+épopée spatiale||N+NA+z2:fs
+épopées homériques|épopée homérique|N+NA:fp
+épopées religieuses|épopée religieuse|N+NA+z2:fp
+époque actuelle||N+NA+z1:fs
+époque baroque||N+NA:fs
+époque byzantine||N+NA:fs
+époque carbonifère||N+NA:fs
+époque carolingienne||N+NA:fs
+époque classique||N+NA+z1:fs
+époque critique||N+NA:fs
+époque de||NDET+Dnom13
+époque de l'|époque de|NDET+Dnom13
+époque de la|époque de|NDET+Dnom13
+époque de sa|époque de|NDET+Dnom13
+époque féodale||N+NA+z1:fs
+époque glaciaire||N+NA+z1:fs
+époque hellénistique||N+NA:fs
+époque héroïque||N+NA+E01+z1:fs
+époque lointaine||N+NA+E01+z1:fs
+époque moderne||N+NA+z1:fs
+époque médiévale||N+NA+z1:fs
+époque mérovingienne||N+NA:fs
+époque précolombienne||N+NA+z2:fs
+époque reculée||N+NA+E01+z1:fs
+époque romaine||N+NA+z2:fs
+époque romantique||N+NA+z2:fs
+époque révolue||N+NA+E01+z1:fs
+époque révolutionnaire||N+NA+z1:fs
+époque triste||N+NA+E01+z1:fs
+époques alexandrines|époque alexandrine|N+NA:fp
+époques carbonifères|époque carbonifère|N+NA:fp
+époques de|époque de|NDET+Dnom13
+époques de la|époque de|NDET+Dnom13
+époques géologiques|époque géologique|N+NA:fp
+époques incroyables|époque incroyable|N+NA+E01+z1:fp
+époques médiévales|époque médiévale|N+NA+z1:fp
+époques précolombiennes|époque précolombienne|N+NA+z2:fp
+époques reculées|époque reculée|N+NA+E01+z1:fp
+époques romaines|époque romaine|N+NA+z2:fp
+époques révolutionnaires|époque révolutionnaire|N+NA+z1:fp
+épouse délaissée||N+NA+Hum+z1:fs
+épouses délaissées|épouse délaissée|N+NA+Hum+z1:fp
+époux aimants|époux aimant|N+NA+Hum+z1:mp
+époux modèle||N+NA+Hum+z1:ms
+époux volage||N+NA+E01+Hum+z1:ms
+épreuve athlétique||N+NA+z2:fs
+épreuve contact||N+NN:fs
+épreuve d'admission||N+NDN:fs
+épreuve d'anoxémie||N+NDN:fs
+épreuve d'espagnol||N+NDN:fs
+épreuve d'examen||N+NDN:fs
+épreuve d'imprimerie||N+NDN+Conc:fs
+épreuve d'italien||N+NDN:fs
+épreuve d'étanchéité||N+NDN:fs
+épreuve de biologie||N+NDN:fs
+épreuve de concours||N+NDN:fs
+épreuve de force||N+NDN:fs
+épreuve de français||N+NDN:fs
+épreuve de l'acide hippurique||N+NPNA:fs
+épreuve de lecture||N+NDN+Conc:fs
+épreuve de mathématiques||N+NDN:fs
+épreuve de rattrapage||N+NDN:fs
+épreuve de réalité||N+NDN:fs
+épreuve de saut en longueur||N+NPNPN:fs
+épreuve de ski||N+NDN:fs
+épreuve de sélection||N+NDN:fs
+épreuve de tir||N+NDN:fs
+épreuve de vitesse||N+NDN:fs
+épreuve des faits||N+NDN:fs
+épreuve du feu||N+NDN:fs
+épreuve individuelle||N+NA+z1:fs
+épreuve initiatique||N+NA+z2:fs
+épreuve minute||N+NN:fs
+épreuve nautique||N+NA:fs
+épreuve olympique||N+NA+z1:fs
+épreuve orale||N+NA+z1:fs
+épreuve par contact||N+NPN:fs
+épreuve physique||N+NA+z1:fs
+épreuve positive||N+NA+Conc:fs
+épreuve professionnelle||N+NA+z2:fs
+épreuve présélective||N+NA+z2:fs
+épreuve sportive||N+NA+z1:fs
+épreuve spéciale||N+NA+z2:fs
+épreuve sur route||N+NPN+z1:fs
+épreuve vestibulaire||N+NA:fs
+épreuve à outrance||N+NAN:fs
+épreuve écrite||N+NA+z1:fs
+épreuve éliminatoire||N+NA+z1:fs
+épreuves athlétiques|épreuve athlétique|N+NA+z2:fp
+épreuves d'étanchéité|épreuve d'étanchéité|N+NDN:fp
+épreuves de biologie|épreuve de biologie|N+NDN:fp
+épreuves de classement multiple|épreuve de classement multiple|N+NPNA:fp
+épreuves de force|épreuve de force|N+NDN:fp
+épreuves de l'acide hippurique|épreuve de l'acide hippurique|N+NPNA:fp
+épreuves de lecture|épreuve de lecture|N+NDN+Conc:fp
+épreuves de qualification|épreuve de qualification|N+NDN:fp
+épreuves de rattrapage|épreuve de rattrapage|N+NDN:fp
+épreuves de saut en longueur|épreuve de saut en longueur|N+NPNPN:fp
+épreuves de ski|épreuve de ski|N+NDN:fp
+épreuves de sélection|épreuve de sélection|N+NDN:fp
+épreuves de tir|épreuve de tir|N+NDN:fp
+épreuves de vitesse|épreuve de vitesse|N+NDN:fp
+épreuves individuelles|épreuve individuelle|N+NA+z1:fp
+épreuves initiatiques|épreuve initiatique|N+NA+z2:fp
+épreuves judiciaires|épreuve judiciaire|N+NA:fp
+épreuves motocyclistes|épreuve motocycliste|N+NA:fp
+épreuves négatives|épreuve négative|N+NA+Conc:fp
+épreuves physiques|épreuve physique|N+NA+z1:fp
+épreuves sportives|épreuve sportive|N+NA+z1:fp
+épreuves spéciales|épreuve spéciale|N+NA+z2:fp
+épreuves urodynamiques|épreuve urodynamique|N+NA:fp
+épreuves écrites|épreuve écrite|N+NA+z1:fp
+épris de grand air||A+EAPC+z1:ms:mp
+épris de justice||A+EAPC+z1:ms:mp
+épris de liberté||A+EAPC+z1:ms:mp
+épris de paix||A+EAPC+z1:ms:mp
+épris de vérité||A+EAPC+z1:ms:mp
+éprise de vérité|épris de vérité|A+EAPC+z1:fs
+éprises de liberté|épris de liberté|A+EAPC+z1:fp
+éprises de paix|épris de paix|A+EAPC+z1:fp
+éprouvette d'artificier||N+NDN+Conc:fs
+éprouvette à cuvette||N+NAN+Conc:fs
+éprouvé par l'âge||A+EAPC+z1:ms
+éprouvés par l'âge|éprouvé par l'âge|A+EAPC+z1:mp
+épurateur d'eau||N+NDN+Conc:ms
+épurateurs d'eau|épurateur d'eau|N+NDN+Conc:mp
+épuration biologique||N+NA:fs
+épurations biologiques|épuration biologique|N+NA:fp
+épures de charpente|épure de charpente|N+NDN+Conc:fp
+épée de chevet||N+NDN+Conc:fs
+épée en sautoir||N+NPN:fs
+épées hautes|épée haute|N+NA+Conc:fp
+épître dédicatoire||N+NA:fs
+épître liminaire||N+NA:fs
+épîtres dédicatoires|épître dédicatoire|N+NA:fp
+équarrissage à la scie||N+NAN:ms
+équateur céleste||N+NA:ms
+équateur géomagnétique||N+NA:ms
+équateur météorologique||N+NA:ms
+équateurs célestes|équateur céleste|N+NA:mp
+équateurs thermiques|équateur thermique|N+NA:mp
+équation annuelle||N+NA:fs
+équation bicarrée||N+NA:fs
+équation canonique||N+NA:fs
+équation chimique||N+NA:fs
+équation cubique||N+NA:fs
+équation de London||N+NDN:fs
+équation de Van der Waals||N+NX4:fs
+équation de degré trois||N+NPNA:fs
+équation différentielle||N+NA+z2:fs
+équation fonctionnelle||N+NA:fs
+équation incompatible||N+NA:fs
+équation intégrale||N+NA:fs
+équation irréductible||N+NA:fs
+équation métrique||N+NA:fs
+équation numérique||N+NA:fs
+équation personnelle||N+NA+z2:fs
+équation polaire||N+NA:fs
+équation rationnelle||N+NA:fs
+équation réduite||N+NA:fs
+équation stochastique||N+NA:fs
+équation thermochimique||N+NA:fs
+équation vectorielle||N+NA:fs
+équations annuelles|équation annuelle|N+NA:fp
+équations bicarrées|équation bicarrée|N+NA:fp
+équations canoniques|équation canonique|N+NA:fp
+équations cubiques|équation cubique|N+NA:fp
+équations de Maxwell||N+NDN:fp
+équations de degré trois|équation de degré trois|N+NPNA:fp
+équations en coordonnées bipolaires|équation en coordonnées bipolaires|N+NPNA:fp
+équations fonctionnelles|équation fonctionnelle|N+NA:fp
+équations incompatibles|équation incompatible|N+NA:fp
+équations intégrales|équation intégrale|N+NA:fp
+équations irréductibles|équation irréductible|N+NA:fp
+équations métriques|équation métrique|N+NA:fp
+équations numériques|équation numérique|N+NA:fp
+équations polaires|équation polaire|N+NA:fp
+équations rationnelles|équation rationnelle|N+NA:fp
+équations réduites|équation réduite|N+NA:fp
+équations simultanées||N+NA:fp
+équations trigonométriques|équation trigonométrique|N+NA:fp
+équerrage gras||N+NA:ms
+équerrages maigres|équerrage maigre|N+NA:mp
+équerre double||N+NA+Conc:fs
+équerre optique||N+NA+Conc:fs
+équerre à onglet||N+NAN+Conc:fs
+équerres optiques|équerre optique|N+NA+Conc:fp
+équerres à onglet|équerre à onglet|N+NAN+Conc:fp
+équilibrage automatique||N+NA:ms
+équilibre acido-basique||N+NXA:ms
+équilibre alimentaire||N+NA+z1:ms
+équilibre budgétaire||N+NA+z1:ms
+équilibre commercial||N+NA+z1:ms
+équilibre culturel||N+NA+z2:ms
+équilibre de la terreur||N+NDN:ms
+équilibre des corps flottants||N+NPNA:ms
+équilibre des pouvoirs||N+NDN:ms
+équilibre européen||N+NA+z1:ms
+équilibre financier||N+NA+z1:ms
+équilibre général||N+NA+z1:ms
+équilibre hydroélectrolytique||N+NA:ms
+équilibre instable||N+NA+z1:ms
+équilibre international||N+NA+z2:ms
+équilibre mental||N+NA+z1:ms
+équilibre mondial||N+NA+z2:ms
+équilibre monétaire international||N+NAA:ms
+équilibre métastable||N+NA:ms
+équilibre naturel||N+NA+z1:ms
+équilibre neutre||N+NA:ms
+équilibre nucléaire||N+NA+z2:ms
+équilibre optimal||N+NA+z2:ms
+équilibre physique||N+NA+z2:ms
+équilibre politique||N+NA+z2:ms
+équilibre précaire||N+NA+E01:ms
+équilibre psychique||N+NA+z1:ms
+équilibre psychologique||N+NA+z1:ms
+équilibre radiatif||N+NA:ms
+équilibre social||N+NA+z1:ms
+équilibre stable||N+NA+z1:ms
+équilibre temporaire||N+NA:ms
+équilibre thermodynamique||N+NA:ms
+équilibre écologique||N+NA+z1:ms
+équilibre économique||N+NA+z1:ms
+équilibres biologiques|équilibre biologique|N+NA+z2:mp
+équilibres budgétaires|équilibre budgétaire|N+NA+z1:mp
+équilibres commerciaux|équilibre commercial|N+NA+z1:mp
+équilibres financiers|équilibre financier|N+NA+z1:mp
+équilibres hormonaux|équilibre hormonal|N+NA+z2:mp
+équilibres indifférents|équilibre indifférent|N+NA:mp
+équilibres intellectuels|équilibre intellectuel|N+NA:mp
+équilibres mondiaux|équilibre mondial|N+NA+z2:mp
+équilibres naturels|équilibre naturel|N+NA+z1:mp
+équilibres nutritionnels|équilibre nutritionnel|N+NA:mp
+équilibres planétaires|équilibre planétaire|N+NA+z2:mp
+équilibres politiques|équilibre politique|N+NA+z2:mp
+équilibres précaires|équilibre précaire|N+NA+E01:mp
+équilibres sociaux|équilibre social|N+NA+z1:mp
+équilibres écologiques|équilibre écologique|N+NA+z1:mp
+équilibres économiques|équilibre économique|N+NA+z1:mp
+équinoxe de printemps||N+NDN:ms
+équipage aérien||N+NA+HumColl+z1:ms
+équipage de||NDET+Dnom10
+équipage de chasse||N+NDN+HumColl:ms
+équipage de lunette||N+NDN+Conc:ms
+équipage de pompe||N+NDN+Conc:ms
+équipage des|équipage de|NDET+Dnom10
+équipages aériens|équipage aérien|N+NA+HumColl+z1:mp
+équipages de|équipage de|NDET+Dnom10
+équipages de lunette|équipage de lunette|N+NDN+Conc:mp
+équipages des|équipage de|NDET+Dnom10
+équipages navigants|équipage navigant|N+NA+HumColl+z2:mp
+équipe adverse||N+NA+HumColl+z1:fs
+équipe amateur||N+NA+HumColl+z2:fs
+équipe chirurgicale||N+NA+HumColl+z1:fs
+équipe d'aviron||N+NDN+HumColl:fs
+équipe d'experts||N+NDN+HumColl:fs
+équipe d'ouvriers||N+NDN+HumColl:fs
+équipe de||NDET+Dnom10
+équipe de battue||N+NDN+HumColl:fs
+équipe de cantonniers||N+NDN+HumColl:fs
+équipe de chercheurs||N+NDN+HumColl:fs
+équipe de collaborateurs||N+NDN+HumColl:fs
+équipe de dactylos||N+NDN+HumColl:fs
+équipe de foot||N+NDN+HumColl:fs
+équipe de football||N+NDN+HumColl:fs
+équipe de hockey||N+NDN+HumColl:fs
+équipe de journalistes||N+NDN+HumColl:fs
+équipe de juniors||N+NDN+HumColl:fs
+équipe de management||N+NDN+HumColl:fs
+équipe de minimes||N+NDN+HumColl:fs
+équipe de nuit||N+NDN+HumColl:fs
+équipe de production||N+NDN+HumColl:fs
+équipe de professionnels||N+NDN+HumColl:fs
+équipe de recherche||N+NDN+HumColl:fs
+équipe de recherches|équipe de recherche|N+NDN+HumColl:fs
+équipe de relais||N+NDN+HumColl:fs
+équipe de rugby||N+NDN+HumColl:fs
+équipe de saut||N+NDN+HumColl:fs
+équipe de spécialistes||N+NDN+HumColl:fs
+équipe de travail||N+NDN+HumColl:fs
+équipe de télévision||N+NDN+HumColl:fs
+équipe des|équipe de|NDET+Dnom10
+équipe dirigeante||N+NA+HumColl+z1:fs
+équipe gouvernementale||N+NA+HumColl+z1:fs
+équipe hospitalière||N+NA+HumColl+z2:fs
+équipe junior||N+NA+HumColl+z1:fs
+équipe minime||N+NA+HumColl+z2:fs
+équipe mixte||N+NA+HumColl+z2:fs
+équipe municipale||N+NA+HumColl+z2:fs
+équipe médicale||N+NA+HumColl+z1:fs
+équipe médico-chirurgicale||N+NXA+HumColl:fs
+équipe nationale||N+NA+HumColl+z1:fs
+équipe nationale d'handball||N+NAPN+HumColl:fs
+équipe nationale de football||N+NAPN+HumColl:fs
+équipe nationale de natation||N+NAPN+HumColl:fs
+équipe olympique||N+NA+HumColl+z1:fs
+équipe pastorale||N+NA+HumColl:fs
+équipe professionnelle||N+NA+HumColl+z1:fs
+équipe pédagogique||N+NA+HumColl+z1:fs
+équipe rédactionnelle||N+NA+HumColl:fs
+équipe scientifique||N+NA+HumColl+z1:fs
+équipe soignante||N+NA+HumColl:fs
+équipe sportive||N+NA+HumColl+z1:fs
+équipe économique||N+NA+HumColl+z2:fs
+équipe éditoriale||N+NA+HumColl+z1:fs
+équipe éducative||N+NA+HumColl+z2:fs
+équipement agricole||N+NA+Conc:ms
+équipement audiovisuel||N+NA+Conc+z1:ms
+équipement automobile||N+NA+Conc:ms
+équipement civil||N+NA+Conc:ms
+équipement collectif||N+NA+Conc+z1:ms
+équipement commercial||N+NA+Conc:ms
+équipement d'apparat||N+NDN+Conc:ms
+équipement de bord||N+NDN+Conc:ms
+équipement de chasse||N+NDN+Conc:ms
+équipement de pêche||N+NDN+Conc:ms
+équipement désuet||N+NA+Conc+z2:ms
+équipement ferroviaire||N+NA+Conc:ms
+équipement hospitalier||N+NA+Conc+z1:ms
+équipement hôtelier||N+NA+Conc+z1:ms
+équipement industriel||N+NA+Conc:ms
+équipement lourd||N+NA+Conc+z1:ms
+équipement léger||N+NA+Conc+z1:ms
+équipement militaire||N+NA+Conc:ms
+équipement médical||N+NA+Conc+z2:ms
+équipement ménager||N+NA+Conc+z1:ms
+équipement neige||N+NN+Conc+z2:ms
+équipement nucléaire||N+NA+Conc:ms
+équipement public||N+NA+Conc+z2:ms
+équipement robotique||N+NA+Conc:ms
+équipement scolaire||N+NA+Conc+z2:ms
+équipement scénique||N+NA+Conc:ms
+équipement sportif||N+NA+Conc+z1:ms
+équipement touristique||N+NA+Conc:ms
+équipement électrique||N+NA+Conc:ms
+équipements agricoles|équipement agricole|N+NA+Conc:mp
+équipements antiémeute|équipement antiémeute|N+NA:mp
+équipements audiovisuels|équipement audiovisuel|N+NA+Conc+z1:mp
+équipements automobiles|équipement automobile|N+NA+Conc:mp
+équipements civils|équipement civil|N+NA+Conc:mp
+équipements collectifs|équipement collectif|N+NA+Conc+z1:mp
+équipements commerciaux|équipement commercial|N+NA+Conc:mp
+équipements de bord|équipement de bord|N+NDN+Conc:mp
+équipements de protection|équipement de protection|N+NDN+Conc:mp
+équipements de pêche|équipement de pêche|N+NDN+Conc:mp
+équipements de sécurité|équipement de sécurité|N+NDN+Conc:mp
+équipements désuets|équipement désuet|N+NA+Conc+z2:mp
+équipements industriels|équipement industriel|N+NA+Conc:mp
+équipements informatiques|équipement informatique|N+NA+Conc+z1:mp
+équipements lourds|équipement lourd|N+NA+Conc+z1:mp
+équipements légers|équipement léger|N+NA+Conc+z1:mp
+équipements militaires|équipement militaire|N+NA+Conc:mp
+équipements médicaux|équipement médical|N+NA+Conc+z2:mp
+équipements ménagers|équipement ménager|N+NA+Conc+z1:mp
+équipements neige|équipement neige|N+NN+Conc+z2:mp
+équipements nucléaires|équipement nucléaire|N+NA+Conc:mp
+équipements publics|équipement public|N+NA+Conc+z2:mp
+équipements pédagogiques|équipement pédagogique|N+NA+Conc:mp
+équipements robotiques|équipement robotique|N+NA+Conc:mp
+équipements scientifiques|équipement scientifique|N+NA+Conc:mp
+équipements scolaires|équipement scolaire|N+NA+Conc+z2:mp
+équipements sociaux|équipement social|N+NA+Conc:mp
+équipements sportifs|équipement sportif|N+NA+Conc+z1:mp
+équipements téléphoniques|équipement téléphonique|N+NA+Conc+z2:mp
+équipements électriques|équipement électrique|N+NA+Conc:mp
+équipes amateurs|équipe amateur|N+NA+HumColl+z2:fp
+équipes biomédicales|équipe biomédicale|N+NA+HumColl:fp
+équipes chirurgicales|équipe chirurgicale|N+NA+HumColl+z1:fp
+équipes d'exploitation|équipe d'exploitation|N+NDN+HumColl:fp
+équipes d'hommes et de femmes remarquables|équipe d'hommes et de femmes remarquable|N+NX4+HumColl:fp
+équipes de|équipe de|NDET+Dnom10
+équipes de cadets|équipe de cadets|N+NDN+HumColl:fp
+équipes de chercheurs|équipe de chercheurs|N+NDN+HumColl:fp
+équipes de collaborateurs|équipe de collaborateurs|N+NDN+HumColl:fp
+équipes de femmes et d'hommes remarquables|équipe de femmes et d'hommes remarquable|N+NX4+HumColl:fp
+équipes de football|équipe de football|N+NDN+HumColl:fp
+équipes de hockey|équipe de hockey|N+NDN+HumColl:fp
+équipes de jour|équipe de jour|N+NDN+HumColl:fp
+équipes de journalistes|équipe de journalistes|N+NDN+HumColl:fp
+équipes de management|équipe de management|N+NDN+HumColl:fp
+équipes de nuit|équipe de nuit|N+NDN+HumColl:fp
+équipes de production|équipe de production|N+NDN+HumColl:fp
+équipes de professionnels|équipe de professionnels|N+NDN+HumColl:fp
+équipes de recherche|équipe de recherche|N+NDN+HumColl:fp
+équipes de relais|équipe de relais|N+NDN+HumColl:fp
+équipes de saut|équipe de saut|N+NDN+HumColl:fp
+équipes de secours|équipe de secours|N+NDN+HumColl:fp
+équipes de spécialistes|équipe de spécialistes|N+NDN+HumColl:fp
+équipes de travail|équipe de travail|N+NDN+HumColl:fp
+équipes de télévision|équipe de télévision|N+NDN+HumColl:fp
+équipes dirigeantes|équipe dirigeante|N+NA+HumColl+z1:fp
+équipes du matin|équipe du matin|N+NDN+HumColl:fp
+équipes hospitalières|équipe hospitalière|N+NA+HumColl+z2:fp
+équipes mixtes|équipe mixte|N+NA+HumColl+z2:fp
+équipes municipales|équipe municipale|N+NA+HumColl+z2:fp
+équipes médicales|équipe médicale|N+NA+HumColl+z1:fp
+équipes médico-chirurgicales|équipe médico-chirurgicale|N+NXA+HumColl:fp
+équipes nationales|équipe nationale|N+NA+HumColl+z1:fp
+équipes nationales de basket|équipe nationale de basket|N+NAPN+HumColl:fp
+équipes olympiques|équipe olympique|N+NA+HumColl+z1:fp
+équipes professionnelles|équipe professionnelle|N+NA+HumColl+z1:fp
+équipes pédagogiques|équipe pédagogique|N+NA+HumColl+z1:fp
+équipes soignantes|équipe soignante|N+NA+HumColl:fp
+équipes sportives|équipe sportive|N+NA+HumColl+z1:fp
+équipes thérapeutiques|équipe thérapeutique|N+NA+HumColl+z2:fp
+équipes universitaires|équipe universitaire|N+NA+HumColl+z1:fp
+équipes volantes||N+NA+HumColl+z2:fp
+équipes éducatives|équipe éducative|N+NA+HumColl+z2:fp
+équitation de cirque||N+NDN:fs
+équitation de loisir||N+NDN:fs
+équitation savante||N+NA:fs
+équité sociale||N+NA:fs
+équivalent chimique||N+NA:ms
+érable négondo||N+NN+Conc:ms
+érable sycomore||N+NN+Conc:ms
+érables sycomores|érable sycomore|N+NN+Conc:mp
+éradication de la polyomyélite||N+NDN:fs
+érection canonique||N+NA:fs
+érections canoniques|érection canonique|N+NA:fp
+éristales gluants|éristale gluant|N+NA+Conc:mp
+érosion atmosphérique||N+NA+z1:fs
+érosion cutanée||N+NA:fs
+érosion dentaire||N+NA:fs
+érosion hydrique||N+NA:fs
+érosion marine||N+NA:fs
+érosion monétaire||N+NA:fs
+érosion mécanique||N+NA:fs
+érosion régressive||N+NA:fs
+érosions aréolaires|érosion aréolaire|N+NA:fp
+érosions glaciaires|érosion glaciaire|N+NA+z2:fp
+érosions littorales|érosion littorale|N+NA:fp
+érosions monétaires|érosion monétaire|N+NA:fp
+érosions pluviales|érosion pluviale|N+NA:fp
+érotisme anal||N+NA+z2:ms
+érotisme urétral||N+NA:ms
+érotismes vaginaux|érotisme vaginal|N+NA+z2:mp
+érudits livresques|érudit livresque|N+NA+Hum:mp
+éruption cutanée intense||N+NAA:fs
+éruption de bulles||N+NDN+Conc:fs
+éruption de joie||N+NDN:fs
+éruption de pustules||N+NDN:fs
+éruption de sang||N+NDN:fs
+éruption dentaire||N+NA:fs
+éruption exanthématique||N+NA:fs
+éruption plinienne||N+NA:fs
+éruption solaire||N+NA+z2:fs
+éruption vaccinale||N+NA:fs
+éruption volcanique||N+NA+z1:fs
+éruption vésiculeuse||N+NA:fs
+éruptions abortives|éruption abortive|N+NA:fp
+éruptions cutanées|éruption cutanée|N+NA+z1:fp
+éruptions de lave|éruption de lave|N+NDN+Conc:fp
+éruptions dermatologiques|éruption dermatologique|N+NA:fp
+éruptions fissurales|éruption fissurale|N+NA:fp
+éruptions herpétiques muqueuses|éruption herpétique muqueuse|N+NAA:fp
+éruptions solaires|éruption solaire|N+NA+z2:fp
+éruptions volcaniques|éruption volcanique|N+NA+z1:fp
+érythème fessier||N+NA+z2:ms
+érythème noueux||N+NA:ms
+érythème prémycosique||N+NA:ms
+érythèmes internes|érythème interne|N+NA:mp
+érythèmes pudiques|érythème pudique|N+NA:mp
+étable à pourceau||N+NAN+Conc:fs
+établi de ferblantier||N+NDN+Conc:ms
+établi des|établi de|NDET+Dnom8
+établis de|établi de|NDET+Dnom8
+établissement agricole||N+NA+Conc:ms
+établissement bancaire||N+NA+Conc+z2:ms
+établissement climatique||N+NA+Conc:ms
+établissement d'enseignement supérieur||N+NPNA+Conc:ms
+établissement d'hospitalisation public||N+NPNA+Conc:ms
+établissement de bains||N+NDN+Conc:ms
+établissement de crédit||N+NDN+Conc:ms
+établissement de relations diplomatiques||N+NPNA:ms
+établissement financier||N+NA+Conc:ms
+établissement gériatrique||N+NA+Conc:ms
+établissement hospitalier||N+NA+Conc+z1:ms
+établissement héliomarin||N+NA:ms
+établissement hôtelier||N+NA+Conc+z1:ms
+établissement privé||N+NA+Conc+z1:ms
+établissement psychiatrique privé||N+NAA+Conc:ms
+établissement public||N+NA+Conc+z1:ms
+établissement public à caractère administratif||N+NX4+HumColl:ms
+établissement pénitentiaire||N+NA+Conc+z2:ms
+établissement régional||N+NA+Conc+z2:ms
+établissement scolaire||N+NA+Conc+z1:ms
+établissement scolaire pour filles||N+NAPN+Conc:ms
+établissement spécialisé||N+NA+Conc+z1:ms
+établissement thermal||N+NA+Conc+z2:ms
+établissement universitaire||N+NA+Conc+z1:ms
+établissements agricoles|établissement agricole|N+NA+Conc:mp
+établissements artisanaux|établissement artisanal|N+NA+Conc:mp
+établissements bancaires|établissement bancaire|N+NA+Conc+z2:mp
+établissements d'enseignement|établissement d'enseignement|N+NDN+Conc:mp
+établissements d'éducation professionnelle|établissement d'éducation professionnelle|N+NPNA+Conc:mp
+établissements de bains|établissement de bains|N+NDN+Conc:mp
+établissements de conseil familial|établissement de conseil familial|N+NPNA+Conc:mp
+établissements de crédit|établissement de crédit|N+NDN+Conc:mp
+établissements de culte|établissement de culte|N+NDN+Conc:mp
+établissements de jeu|établissement de jeu|N+NDN+Conc:mp
+établissements de prostitution|établissement de prostitution|N+NDN+Conc:mp
+établissements de rééducation|établissement de rééducation|N+NDN+HumColl:mp
+établissements de santé|établissement de santé|N+NDN+Conc:mp
+établissements de soins|établissement de soins|N+NDN+HumColl:mp
+établissements financiers|établissement financier|N+NA+Conc:mp
+établissements flottants|établissement flottant|N+NA+Conc:mp
+établissements gestionnaires|établissement gestionnaire|N+NA+Conc:mp
+établissements hospitaliers|établissement hospitalier|N+NA+Conc+z1:mp
+établissements humains|établissement humain|N+NA+Conc:mp
+établissements hôteliers|établissement hôtelier|N+NA+Conc+z1:mp
+établissements industriels|établissement industriel|N+NA+Conc+z1:mp
+établissements privés|établissement privé|N+NA+Conc+z1:mp
+établissements psychiatriques|établissement psychiatrique|N+NA+Conc+z2:mp
+établissements publics|établissement public|N+NA+Conc+z1:mp
+établissements publics d'enseignement agricole|établissement public d'enseignement agricole|N+NX4+Conc:mp
+établissements pénitentiaires|établissement pénitentiaire|N+NA+Conc+z2:mp
+établissements religieux|établissement religieux|N+NA+Conc+z1:mp
+établissements sanitaires|établissement sanitaire|N+NA+Conc:mp
+établissements scientifiques|établissement scientifique|N+NA+Conc+z2:mp
+établissements scolaires|établissement scolaire|N+NA+Conc+z1:mp
+établissements scolaires pour filles|établissement scolaire pour filles|N+NAPN+Conc:mp
+établissements spécialisés|établissement spécialisé|N+NA+Conc+z1:mp
+établissements stables|établissement stable|N+NA:mp
+établissements techniques|établissement technique|N+NA+Conc+z2:mp
+établissements thermaux|établissement thermal|N+NA+Conc+z2:mp
+établissements universitaires|établissement universitaire|N+NA+Conc+z1:mp
+étage abdominal||N+NA:ms
+étage climatique||N+NA:ms
+étage d'exploitation||N+NDN+Conc:ms
+étage de cage||N+NDN+Conc:ms
+étage de compression||N+NDN+Conc:ms
+étage diaphragmatique||N+NA:ms
+étage géologique||N+NA:ms
+étage inférieur||N+NA+Conc+z1:ms
+étage intermédiaire||N+NA+z2:ms
+étage mélangeur||N+NA:ms
+étage noble||N+NA+Conc+z1:ms
+étage orbital||N+NA:ms
+étage subalpin||N+NA:ms
+étage supérieur||N+NA+Conc+z1:ms
+étagement de cultures||N+NDN:ms
+étagements végétaux|étagement végétal|N+NA:mp
+étages amplificateurs opérationnels|étage amplificateur opérationnel|N+NAA+Conc:mp
+étages d'amplification|étage d'amplification|N+NDN+Conc:mp
+étages d'énergie|étage d'énergie|N+NDN+Conc:mp
+étages dominés|étage dominé|N+NA:mp
+étages inférieurs|étage inférieur|N+NA+Conc+z1:mp
+étages montagnards|étage montagnard|N+NA:mp
+étages nobles|étage noble|N+NA+Conc+z1:mp
+étages respiratoires|étage respiratoire|N+NA:mp
+étages supérieurs|étage supérieur|N+NA+Conc+z1:mp
+étagère du|étagère de|NDET+Dnom8
+étagère à mégots||N+NAN+Conc:fs
+étagères de|étagère de|NDET+Dnom8
+étagères à vaisselle|étagère à vaisselle|N+NAN+Conc:fp
+étal forain||N+NA+Conc:ms
+étalage de luxe||N+NDN:ms
+étalages du|étalage de|NDET+Dnom8
+étale de jusant||N+NDN:fs
+étalon de capacité||N+NDN:ms
+étalon de longueur||N+NDN:ms
+étalon de pression||N+NDN:ms
+étalon de volume||N+NDN:ms
+étalon légal||N+NA:ms
+étalon monétaire||N+NA+z1:ms
+étalon métrique||N+NA:ms
+étalon or||N+NN+z2:ms
+étalons légaux|étalon légal|N+NA:mp
+étals de boucher|étal de boucher|N+NDN+Conc:mp
+étamage industriel||N+NA:ms
+étamine libre||N+NA+Conc:fs
+étamines libres|étamine libre|N+NA+Conc:fp
+étampes de forge|étampe de forge|N+NDN+Conc:fp
+étang salé||N+NA+Conc:ms
+étangs artificiels|étang artificiel|N+NA+Conc:mp
+étangs salés|étang salé|N+NA+Conc:mp
+étant donné||PREP+Prépconjs+1
+étant donné que|étant donné|CONJS+1
+étape contre la montre||N+NPN:fs
+étape de la connaissance||N+NDN:fs
+étape de montagne||N+NDN:fs
+étape décisive||N+NA+E01+z1:fs
+étape finale||N+NA:fs
+étapes contre la montre|étape contre la montre|N+NPN:fp
+étapes de ravitaillement|étape de ravitaillement|N+NDN:fp
+étapes décisives|étape décisive|N+NA+E01+z1:fp
+état accréditaire||N+NA:ms
+état alarmant||N+NA+E01+z1:ms
+état alcoolique||N+NA:ms
+état amorphe||N+NA+z1:ms
+état atomique||N+NA:ms
+état cataleptique||N+NA+z1:ms
+état civil||N+NA+z1:ms
+état clinique||N+NA+z1:ms
+état comateux||N+NA+z1:ms
+état comitial||N+NA:ms
+état comparatif||N+NA:ms
+état condensé de la matière||N+NAPN:ms
+état cristallisé||N+NA:ms
+état critique||N+NA+E01+z1:ms
+état crépusculaire||N+NA:ms
+état d'esprit||N+NDN:ms
+état d'excitation||N+NDN:ms
+état d'identité||N+NDN:ms
+état d'innocence||N+NDN:ms
+état d'urgence||N+NDN:ms
+état d'épuisement||N+NDN:ms
+état de catalepsie||N+NDN:ms
+état de cause||N+NDN:ms
+état de charme||N+NDN:ms
+état de choc||N+NDN:ms
+état de chose||N+NDN:ms
+état de coma||N+NDN:ms
+état de comptes||N+NDN:ms
+état de conscience||N+NDN:ms
+état de conservation||N+NDN:ms
+état de crise||N+NDN:ms
+état de droit||N+NDN+Conc:ms
+état de décomposition||N+NDN:ms
+état de défense||N+NDN:ms
+état de dégradation||N+NDN:ms
+état de démence||N+NDN:ms
+état de dépendance||N+NDN:ms
+état de dépendance économique||N+NPNA:ms
+état de faiblesse||N+NDN:ms
+état de fait||N+NDN:ms
+état de fatigue||N+NDN:ms
+état de fossile||N+NDN:ms
+état de grâce||N+NDN:ms
+état de guerre||N+NDN:ms
+état de la matière||N+NDN:ms
+état de lieux||N+NDN+Conc:ms
+état de maison||N+NDN:ms
+état de manque||N+NDN:ms
+état de nature||N+NDN:ms
+état de paiement||N+NDN+Conc:ms
+état de santé||N+NDN:ms
+état de services||N+NDN+Conc:ms
+état de siège||N+NDN:ms
+état de veille||N+NDN:ms
+état des lieux||N+NDN+Conc:ms
+état dépressif||N+NA+z1:ms
+état désespéré||N+NA+E01+z1:ms
+état estimatif||N+NA:ms
+état fondamental||N+NA:ms
+état frontalier||N+NA+Conc+z1:ms
+état frère||N+NN+HumColl:ms
+état grabataire||N+NA+z2:ms
+état grave||N+NA+E01+z1:ms
+état général||N+NA+z1:ms
+état hygrométrique||N+NA:ms
+état hypnotique||N+NA:ms
+état impartial||N+NA+HumColl:ms
+état isomérique||N+NA:ms
+état libre||N+NA+z1:ms
+état liquide||N+NA:ms
+état minimum||N+NN:ms
+état mésomorphe||N+NA:ms
+état naturel||N+NA+z1:ms
+état nauséeux||N+NA+z2:ms
+état normal||N+NA+z1:ms
+état nématique||N+NA:ms
+état paroxystique||N+NA:ms
+état patron||N+NN+HumColl+z2:ms
+état physique||N+NA+z1:ms
+état primitif||N+NA+HumColl:ms
+état providence||N+NN+HumColl+z1:ms
+état présent||N+NA+z1:ms
+état psychique||N+NA:ms
+état pétrolier||N+NA:ms
+état quantique||N+NA:ms
+état sanitaire||N+NA:ms
+état sauvage||N+NA+z2:ms
+état second||N+NA+z1:ms
+état solide||N+NA:ms
+état stationnaire||N+NA+E01+z1:ms
+état statistique||N+NA+Conc:ms
+état typhoïde||N+NA:ms
+état vitreux||N+NA:ms
+état végétatif||N+NA:ms
+état-major de crise||N+NAPN+HumColl:ms
+états accréditants|état accréditant|N+NA:mp
+états associés||N+NA+HumColl+z2:mp
+états cataleptiques|état cataleptique|N+NA+z1:mp
+états civils|état civil|N+NA+z1:mp
+états condensés de la matière|état condensé de la matière|N+NAPN:mp
+états cristallisés|état cristallisé|N+NA:mp
+états crépusculaires|état crépusculaire|N+NA:mp
+états d'urgence|état d'urgence|N+NDN:mp
+états d'ébriété|état d'ébriété|N+NDN:mp
+états de charge|état de charge|N+NDN:mp
+états de choc|état de choc|N+NDN:mp
+états de coma|état de coma|N+NDN:mp
+états de droit|état de droit|N+NDN+Conc:mp
+états de guerre|état de guerre|N+NDN:mp
+états de latence condescendante|état de latence condescendante|N+NPNA:mp
+états de manque|état de manque|N+NDN:mp
+états de rêve|état de rêve|N+NDN:mp
+états de service||N+NDN:mp
+états de services|état de services|N+NDN+Conc:mp
+états de veille|état de veille|N+NDN:mp
+états déficitaires|état déficitaire|N+NA+z2:mp
+états dépressifs|état dépressif|N+NA+z1:mp
+états foetaux|état foetal|N+NA:mp
+états frontaliers|état frontalier|N+NA+Conc+z1:mp
+états gazeux|état gazeux|N+NA:mp
+états grippaux|état grippal|N+NA+z2:mp
+états hygrométriques|état hygrométrique|N+NA:mp
+états impartiaux|état impartial|N+NA+HumColl:mp
+états libres|état libre|N+NA+z1:mp
+états liquides|état liquide|N+NA:mp
+états majors des Armées|état major des Armées|N+NPNPN+HumColl:mp
+états microscopiques|état microscopique|N+NA:mp
+états minima|état minimum|N+NN:mp
+états mécaniques|état mécanique|N+NA:mp
+états naturels|état naturel|N+NA+z1:mp
+états normaux|état normal|N+NA+z1:mp
+états paraplégiques|état paraplégique|N+NA:mp
+états pathologiques|état pathologique|N+NA:mp
+états protégés|état protégé|N+NA+z2:mp
+états présents|état présent|N+NA+z1:mp
+états psychiques|état psychique|N+NA:mp
+états puerpéraux|état puerpéral|N+NA:mp
+états pétroliers|état pétrolier|N+NA:mp
+états quantiques libres|état quantique libre|N+NAA:mp
+états récapitulatifs|état récapitulatif|N+NA:mp
+états scientifiques|état scientifique|N+NA+HumColl:mp
+états smectiques|état smectique|N+NA:mp
+états solides|état solide|N+NA:mp
+états stationnaires|état stationnaire|N+NA+E01+z1:mp
+états virtuels|état virtuel|N+NA:mp
+états épileptiques|état épileptique|N+NA:mp
+étau polonais||N+NA+Conc:ms
+étaux limeurs|étau limeur|N+NA+Conc:mp
+éteignoir à cierges||N+NAN+Conc:ms
+étendard de la révolte||N+NDN:ms
+étendard de soie||N+NDN+Conc:ms
+étendoir de blanchisseuse||N+NDN+Conc:ms
+étendue agricole||N+NA+Conc+z2:fs
+étendue de sable||N+NDN+Conc:fs
+étendue de terrain||N+NDN+Conc:fs
+étendue marine||N+NA+Conc+z2:fs
+étendues d'eau|étendue d'eau|N+NDN+Conc:fp
+étendues intelligibles|étendue intelligible|N+NA:fp
+étendus sans bouger|étendu sans bouger|A+EAPC+z1:mp
+éternel féminin||N+AN+Abst:ms
+éternel insatisfait||N+AN+Hum:ms
+éternel jeune homme||N+AAN+Hum:ms
+éternel recommencement||N+AN:ms
+éternel retour||N+AN:ms
+éternelles inquiètes|éternel inquiet|N+AN+Hum:fp
+éternels insatisfaits|éternel insatisfait|N+AN+Hum:mp
+éternels retours|éternel retour|N+AN:mp
+éther aromatique||N+NA+Conc:ms
+éther cellulosique||N+NA+Conc:ms
+éther nitrique||N+NA+Conc:ms
+éther oxyde||N+NN+Conc:ms
+éther sulfurique||N+NA+Conc:ms
+éthers anhydres|éther anhydre|N+NA+Conc:mp
+éthers carbamiques|éther carbamique|N+NA+Conc:mp
+éthers vinyliques|éther vinylique|N+NA+Conc:mp
+éthique biomédicale||N+NA:fs
+éthique médicale||N+NA+z2:fs
+éthique professionnelle||N+NA+z2:fs
+éthiques biologiques|éthique biologique|N+NA:fp
+étincelle de raison||N+NDN:fs
+étincelle de vie||N+NDN:fs
+étincelle divine||N+NA:fs
+étincelles divines|étincelle divine|N+NA:fp
+étiologie malformative||N+NA:fs
+étiologies psychiatriques|étiologie psychiatrique|N+NA:fp
+étiquette auto-collante||N+NXA+Conc:fs
+étiquette de corps||N+NDN+Conc:fs
+étiquette de qualité||N+NDN+Conc:fs
+étiquette gommée||N+NA:fs
+étiquette politique||N+NA+z1:fs
+étiquette syndicale||N+NA:fs
+étiquettes autocollantes|étiquette autocollante|N+NA+z2:fp
+étiquettes de garantie|étiquette de garantie|N+NDN+Conc:fp
+étiquettes de qualité|étiquette de qualité|N+NDN+Conc:fp
+étiquettes politiques|étiquette politique|N+NA+z1:fp
+étirement de lassitude||N+NDN:ms
+étoffe brochée||N+NA+Conc+z2:fs
+étoffe cloquée||N+NA+Conc:fs
+étoffe de laine||N+NDN+Conc:fs
+étoffe façonnée||N+NA+Conc:fs
+étoffe veloutée||N+NA+Conc:fs
+étoffe à côtes||N+NAN+Conc:fs
+étoffe à ramages||N+NAN+Conc:fs
+étoffes brodées|étoffe brodée|N+NA+Conc+z2:fp
+étoffes de laine|étoffe de laine|N+NDN+Conc:fp
+étoffes façonnées|étoffe façonnée|N+NA+Conc:fp
+étoffes veloutées|étoffe veloutée|N+NA+Conc:fp
+étoffes à ramages|étoffe à ramages|N+NAN+Conc:fp
+étoile circumpolaire||N+NA+Conc:fs
+étoile d'eau||N+NDN+Anl:fs
+étoile de David||N+NDN:fs
+étoile de mer||N+NDN+Anl:fs
+étoile du berger||N+NDN:fs
+étoile du soir||N+NDN:fs
+étoile errante||N+NA+Conc:fs
+étoile filante||N+NA+Conc+z1:fs
+étoile fixe||N+NA+Conc:fs
+étoile géante||N+NA+Conc:fs
+étoile jaune||N+NA+Conc+z1:fs
+étoile jeune||N+NA+Conc:fs
+étoile mobile||N+NA+Conc:fs
+étoile montante||N+NA+Hum+z1:fs
+étoile polaire||N+NA:fs
+étoile rouge||N+NA+Conc+z2:fs
+étoile à cinq branches||N+NPAN:fs
+étoile à neutrons||N+NAN+Conc:fs
+étoile âgée||N+NA+Conc:fs
+étoilements de rues|étoilement de rues|N+NDN+Conc:mp
+étoiles bleues|étoile bleue|N+NA+Conc:fp
+étoiles d'argent|étoile d'argent|N+NDN+Conc:fp
+étoiles de cinéma|étoile de cinéma|N+NDN+Hum:fp
+étoiles doubles|étoile double|N+NA+Conc:fp
+étoiles filantes|étoile filante|N+NA+Conc+z1:fp
+étoiles gamma|étoile gamma|N+NN+Conc:fp
+étoiles jaunes|étoile jaune|N+NA+Conc+z1:fp
+étoiles montantes|étoile montante|N+NA+Hum+z1:fp
+étoiles naines|étoile naine|N+NA+Conc:fp
+étoiles radioélectriques|étoile radioélectrique|N+NA+Conc:fp
+étoiles rouges|étoile rouge|N+NA+Conc+z2:fp
+étoiles variables|étoile variable|N+NA+Conc:fp
+étole de renard||N+NDN+Conc:fs
+étole pastorale||N+NA+Conc:fs
+étoles sacerdotales|étole sacerdotale|N+NA+Conc:fp
+étonnantes de vérité|étonnant de vérité|A+EAPC+z1:fp
+étouffoir à charbon||N+NAN+Conc:ms
+étoupe noire||N+NA+Conc:fs
+étoupille à friction||N+NAN+Conc:fs
+étourderies de jeunesse|étourderie de jeunesse|N+NDN:fp
+étourneau unicolore||N+NA+Conc:ms
+étrange histoire||N+AN:fs
+étrangement calme||A+EPA+z1:ms:fs
+étrangement calmes|étrangement calme|A+EPA+z1:mp:fp
+étreinte amoureuse||N+NA+z1:fs
+étreintes amoureuses|étreinte amoureuse|N+NA+z1:fp
+étrier d'argent||N+NDN:ms
+étriers compensés|étrier compensé|N+NA+Conc:mp
+étroite surveillance||N+AN:fs
+étroites surveillances|étroite surveillance|N+AN:fp
+étroitesse de sentiments||N+NDN:fs
+étron de chien||N+NDN+Conc:ms
+étude anatomique||N+NA:fs
+étude approfondie||N+NA+z1:fs
+étude astrologique||N+NA+z2:fs
+étude balistique||N+NA:fs
+étude clinique||N+NA+z2:fs
+étude critique||N+NA+z1:fs
+étude d'architecte||N+NDN+Conc:fs
+étude d'impact||N+NDN:fs
+étude de besoins||N+NDN:fs
+étude de cas||N+NDN:fs
+étude de cheval||N+NDN:fs
+étude de faisabilité||N+NDN:fs
+étude de marché||N+NDN:fs
+étude de moeurs||N+NDN:fs
+étude de sûreté||N+NDN:fs
+étude de terrain||N+NDN:fs
+étude du matin||N+NDN:fs
+étude empirique||N+NA+z2:fs
+étude exhaustive||N+NA+z2:fs
+étude historique||N+NA+z2:fs
+étude iconographique||N+NA:fs
+étude littéraire||N+NA+z2:fs
+étude notariale||N+NA+HumColl:fs
+étude pharmacologique||N+NA:fs
+étude préalable||N+NA+z1:fs
+étude prévisionnelle||N+NA+z2:fs
+étude psychanalytique||N+NA:fs
+étude pétrolière||N+NA:fs
+étude qualitative||N+NA:fs
+étude scientifique||N+NA+z1:fs
+étude statistique||N+NA+z1:fs
+étude surveillée||N+NA+z2:fs
+étude thématique||N+NA:fs
+étude zootechnique||N+NA:fs
+étude économétrique||N+NA:fs
+étude épidémiologique||N+NA+z2:fs
+études approfondies|étude approfondie|N+NA+z1:fp
+études artistiques|étude artistique|N+NA+z2:fp
+études classiques||N+NA+z1:fp
+études cliniques|étude clinique|N+NA+z2:fp
+études commerciales||N+NA+z1:fp
+études complémentaires|étude complémentaire|N+NA+z1:fp
+études critiques|étude critique|N+NA+z1:fp
+études d'avoué|étude d'avoué|N+NDN+Conc:fp
+études de biologie||N+NDN:fp
+études de cas|étude de cas|N+NDN:fp
+études de chimie||N+NDN:fp
+études de droit||N+NDN:fp
+études de faisabilité|étude de faisabilité|N+NDN:fp
+études de lettres||N+NDN:fp
+études de maths||N+NDN:fp
+études de médecin||N+NDN:fp
+études de médecine||N+NDN:fp
+études de pharmacie||N+NDN:fp
+études de sciences||N+NDN:fp
+études doctorales||N+NA+z2:fp
+études empiriques|étude empirique|N+NA+z2:fp
+études exhaustives|étude exhaustive|N+NA+z2:fp
+études expérimentales|étude expérimentale|N+NA+z2:fp
+études géologiques|étude géologique|N+NA:fp
+études historiques|étude historique|N+NA+z2:fp
+études juridiques||N+NA:fp
+études littéraires|étude littéraire|N+NA+z2:fp
+études littéraires||N+NA+z2:fp
+études musicales||N+NA+z1:fp
+études médicales||N+NA+z1:fp
+études notariales|étude notariale|N+NA+HumColl:fp
+études primaires||N+NA:fp
+études qualitatives|étude qualitative|N+NA:fp
+études quantitatives|étude quantitative|N+NA:fp
+études scientifiques|étude scientifique|N+NA+z1:fp
+études scientifiques||N+NA+z1:fp
+études secondaires||N+NA+z1:fp
+études statistiques|étude statistique|N+NA+z1:fp
+études supérieures||N+NA+z1:fp
+études surveillées|étude surveillée|N+NA+z2:fp
+études sérologiques|étude sérologique|N+NA:fp
+études théologiques||N+NA+z2:fp
+études théosophiques||N+NA:fp
+études universitaires||N+NA+z1:fp
+études vétérinaires|étude vétérinaire|N+NA+HumColl+Abst:fp
+études vétérinaires||N+NA:fp
+études zoologiques||N+NA:fp
+étudiant boursier||N+NA+Hum+z1:ms
+étudiant de droit||N+NDN+Hum:ms
+étudiant de mathématiques||N+NDN+Hum:ms
+étudiant de premier cycle||N+NPAN+Hum:ms
+étudiant de troisième cycle||N+NPAN+Hum:ms
+étudiant en droit||N+NPN+Hum:ms
+étudiant en lettres||N+NPN+Hum+z1:ms
+étudiant en médecine||N+NPN+Hum:ms
+étudiant en médecine||N+NPN+Hum+z1:ms
+étudiant en pharmacie||N+NPN+Hum:ms
+étudiant en sciences||N+NPN+Hum+z1:ms
+étudiant libre||N+NA+Hum+z2:ms
+étudiante de biologie|étudiant de biologie|N+NDN+Hum:fs
+étudiante de médecine|étudiant de médecine|N+NDN+Hum:fs
+étudiante de sciences|étudiant de sciences|N+NDN+Hum:fs
+étudiante de troisième cycle|étudiant de troisième cycle|N+NPAN+Hum:fs
+étudiante en droit|étudiant en droit|N+NPN+Hum:fs
+étudiante en médecine|étudiant en médecine|N+NPN+Hum:fs
+étudiante en médecine|étudiant en médecine|N+NPN+Hum+z1:fs
+étudiante en sciences|étudiant en sciences|N+NPN+Hum+z1:fs
+étudiante talmudique|étudiant talmudique|N+NA+Hum:fs
+étudiantes boursières|étudiant boursier|N+NA+Hum+z1:fp
+étudiantes de chimie|étudiant de chimie|N+NDN+Hum:fp
+étudiantes de droit|étudiant de droit|N+NDN+Hum:fp
+étudiantes de maths|étudiant de maths|N+NDN+Hum:fp
+étudiantes en droit|étudiant en droit|N+NPN+Hum+z1:fp
+étudiantes en odontologie|étudiant en odontologie|N+NPN+Hum+z2:fp
+étudiantes islamistes|étudiant islamiste|N+NA+Hum+z2:fp
+étudiants boursiers|étudiant boursier|N+NA+Hum+z1:mp
+étudiants de mathématiques|étudiant de mathématiques|N+NDN+Hum:mp
+étudiants de sciences|étudiant de sciences|N+NDN+Hum:mp
+étudiants de troisième cycle|étudiant de troisième cycle|N+NPAN+Hum:mp
+étudiants en droit|étudiant en droit|N+NPN+Hum:mp
+étudiants en médecine|étudiant en médecine|N+NPN+Hum:mp
+étudiants en médecine|étudiant en médecine|N+NPN+Hum+z1:mp
+étudiants en pharmacie|étudiant en pharmacie|N+NPN+Hum+z1:mp
+étudiants en sciences|étudiant en sciences|N+NPN+Hum+z1:mp
+étudiants islamistes|étudiant islamiste|N+NA+Hum+z2:mp
+étudiants libres|étudiant libre|N+NA+Hum+z2:mp
+étudié pour||A+EAPC+z1:ms
+étudiée pour|étudié pour|A+EAPC+z1:fs
+étudiées pour|étudié pour|A+EAPC+z1:fp
+étudiés pour|étudié pour|A+EAPC+z1:mp
+étui d'ébène||N+NDN+Conc:ms
+étui de cuir||N+NDN+Conc:ms
+étui de plastic||N+NDN+Conc:ms
+étui phallique||N+NA+Conc:ms
+étui pénien||N+NA+Conc:ms
+étui à aiguilles||N+NAN+Conc:ms
+étui à bijoux||N+NAN+Conc:ms
+étui à cigares||N+NAN+Conc:ms
+étui à flacons||N+NAN+Conc:ms
+étui à jumelles||N+NAN+Conc:ms
+étui à lunettes||N+NAN+Conc:ms
+étui à ongles|étui à ongle|N+NAN+Conc:ms
+étui à violon||N+NAN+Conc:ms
+étuis de métal|étui de métal|N+NDN+Conc:mp
+étuis médullaires|étui médullaire|N+NA+Conc:mp
+étuis à aiguilles|étui à aiguilles|N+NAN+Conc:mp
+étuis à fusil|étui à fusil|N+NAN+Conc:mp
+étuis à ongle|étui à ongle|N+NAN+Conc:mp
+étuis à revolver|étui à revolver|N+NAN+Conc:mp
+étuvages de pigeons|étuvage de pigeons|N+NDN+Conc:mp
+étuve à désinfection||N+NAN+Conc:fs
+étuve à stérilisation||N+NAN+Conc:fs
+étuves à bordages|étuve à bordages|N+NAN+Conc:fp
+étuves à incubation|étuve à incubation|N+NAN+Conc:fp
+étymologie germanique||N+NA:fs
+étymologie latine||N+NA+z2:fs
+étymologies grecques|étymologie grecque|N+NA+z2:fp
+étymologies populaires|étymologie populaire|N+NA:fp
+été austral||N+NA:ms
+été brûlant||N+NA+E01+z2:ms
+été chaud||N+NA+z1:ms
+été comme hiver||ADV+PCONJ+z1
+été de l'âge||N+NDN:ms
+été indien||N+NA+z2:ms
+été pluvieux||N+NA+E01+z1:ms
+été pourri||N+NA+E01+z1:ms
+été torride||N+NA+E01+z2:ms
+étés australs|été austral|N+NA:mp
+étés chauds|été chaud|N+NA+z1:mp
+étés pluvieux|été pluvieux|N+NA+E01+z1:mp
+évacuation alvine||N+NA:fs
+évacuation des blessés||N+NDN:fs
+évacuation forcée||N+NA+z1:fs
+évacuation sanitaire||N+NA:fs
+évacuations forcées|évacuation forcée|N+NA+z1:fp
+évacuations sanitaires|évacuation sanitaire|N+NA:fp
+évadé de guerre||N+NDN+Hum:ms
+évadé de prison||N+NDN+Hum:ms
+évadée de prison|évadé de prison|N+NDN+Hum:fs
+évadées de prison|évadé de prison|N+NDN+Hum:fp
+évadés de guerre|évadé de guerre|N+NDN+Hum:mp
+évadés de prison|évadé de prison|N+NDN+Hum:mp
+évaluation cadastrale||N+NA:fs
+évaluation financière||N+NA:fs
+évaluation financière de l'entreprise||N+NAPN:fs
+évaluation forfaitaire||N+NA+E01:fs
+évaluation non destructive||N+NXA:fs
+évaluation qualitative||N+NA:fs
+évaluation spatiale||N+NA:fs
+évaluations financières de l'entreprise|évaluation financière de l'entreprise|N+NAPN:fp
+évaluations non destructives|évaluation non destructive|N+NXA:fp
+évaluations qualitatives|évaluation qualitative|N+NA:fp
+évaluations spatiales|évaluation spatiale|N+NA:fp
+évaporation potentielle||N+NA:fs
+évapotranspiration maximale||N+NA:fs
+évasion de capitaux||N+NDN:fs
+évasion fiscale||N+NA+z2:fs
+éveil biologique||N+NA:ms
+éveil géographique||N+NA:ms
+éveil scientifique||N+NA+z2:ms
+éveils esthétiques|éveil esthétique|N+NA+z2:mp
+éventail de||NDET+Dnom10
+éventail de leurs|éventail de|NDET+Dnom10
+éventail de plumes||N+NDN+Conc:ms
+éventail des|éventail de|NDET+Dnom10
+éventail politique||N+NA+z1:ms
+éventails alimentaires|éventail alimentaire|N+NA:mp
+éventails politiques|éventail politique|N+NA+z1:mp
+éventualité imprévue||N+NA:fs
+éviction scolaire||N+NA:fs
+évidence apodictique||N+NA:fs
+évidence immédiate||N+NA:fs
+évidence sensible||N+NA:fs
+évidences immédiates|évidence immédiate|N+NA:fp
+évier de grès||N+NDN+Conc:ms
+évier en inox||N+NPN+Conc:ms
+éviers de grès|évier de grès|N+NDN+Conc:mp
+éviers en inox|évier en inox|N+NPN+Conc+z1:mp
+évocation historique||N+NA+z1:fs
+évolution animale||N+NA+z2:fs
+évolution biologique||N+NA+z2:fs
+évolution cancéreuse||N+NA:fs
+évolution dans le temps||N+NPN+z1:fs
+évolution de la vie animale||N+NPNA:fs
+évolution des connaissances||N+NDN:fs
+évolution des esprits||N+NDN:fs
+évolution des espèces||N+NDN:fs
+évolution des marchés||N+NDN:fs
+évolution des mentalités||N+NDN:fs
+évolution du marché||N+NDN:fs
+évolution démographique||N+NA+z1:fs
+évolution historique||N+NA+z1:fs
+évolution humaine||N+NA+z1:fs
+évolution libidinale||N+NA:fs
+évolution onychogène||N+NA:fs
+évolution parallèle||N+NA:fs
+évolution phonétique||N+NA:fs
+évolution scientifique||N+NA+z2:fs
+évolution sociologique||N+NA:fs
+évolution séculaire||N+NA:fs
+évolution sémantique||N+NA:fs
+évolution technologique||N+NA:fs
+évolution temporelle||N+NA:fs
+évolution économique||N+NA+z1:fs
+évolutions dans le temps|évolution dans le temps|N+NPN+z1:fp
+évolutions de la vie végétale|évolution de la vie végétale|N+NPNA:fp
+évolutions historiques|évolution historique|N+NA+z1:fp
+évolutions onychogènes|évolution onychogène|N+NA:fp
+évolutions phonétiques|évolution phonétique|N+NA:fp
+évolutions technologiques|évolution technologique|N+NA:fp
+évolutions temporelles|évolution temporelle|N+NA:fp
+évolutions économiques|évolution économique|N+NA+z1:fp
+évènement massue||N+NN+z2:ms
+événement biblique||N+NA:ms
+événement de l'année||N+NDN:ms
+événement de la rentrée||N+NDN:ms
+événement de la semaine||N+NDN:ms
+événement de la soirée||N+NDN:ms
+événement diplomatique||N+NA:ms
+événement fortuit||N+NA+z1:ms
+événement grave||N+NA+E01+z1:ms
+événement heureux||N+NA+E01+z1:ms
+événement hippique||N+NA:ms
+événement historique||N+NA+z1:ms
+événement important||N+NA+z1:ms
+événement inattendu||N+NA+z1:ms
+événement majeur||N+NA:ms
+événement malheureux||N+NA+E01+z1:ms
+événement marquant||N+NA+z1:ms
+événement militaire||N+NA+z2:ms
+événement musical||N+NA+z2:ms
+événement philatélique||N+NA:ms
+événement politique||N+NA+z1:ms
+événement prévisible||N+NA+z2:ms
+événement sportif||N+NA+z2:ms
+événement sportif du week-end||N+NX4:fs
+événement stochastique||N+NA:ms
+événement théâtral||N+NA+z2:ms
+événements de force majeure|événement de force majeure|N+NPNA:mp
+événements de la rentrée|événement de la rentrée|N+NDN:mp
+événements graves|événement grave|N+NA+E01+z1:mp
+événements géologiques|événement géologique|N+NA:mp
+événements historiques|événement historique|N+NA+z1:mp
+événements inattendus|événement inattendu|N+NA+z1:mp
+événements indépendants|événement indépendant|N+NA:mp
+événements majeurs|événement majeur|N+NA:mp
+événements malheureux|événement malheureux|N+NA+E01+z1:mp
+événements marquants|événement marquant|N+NA+z1:mp
+événements musicaux|événement musical|N+NA+z2:mp
+événements politiques|événement politique|N+NA+z1:mp
+événements rares|événement rare|N+NA+z1:mp
+événements sportifs|événement sportif|N+NA+z2:mp
+événements tectoniques|événement tectonique|N+NA:mp
+événements théâtraux|événement théâtral|N+NA+z2:mp
+évêque anglican||N+NA+Hum+z2:ms
+évêque autocéphale||N+NA+Hum:ms
+évêque auxiliaire||N+NA+Hum:ms
+évêque coadjuteur||N+NA+Hum:ms
+évêque concordataire||N+NA+Hum:ms
+évêque in partibus||N+NPN+Hum:ms
+évêque résidentiel||N+NA+Hum:ms
+évêque titulaire||N+NA+Hum:ms
+évêques anglicans|évêque anglican|N+NA+Hum+z2:mp
+évêques autocéphales|évêque autocéphale|N+NA+Hum:mp
+évêques concordataires|évêque concordataire|N+NA+Hum:mp
+évêques résidentiels|évêque résidentiel|N+NA+Hum:mp
+évêques titulaires|évêque titulaire|N+NA+Hum:mp
+être animé||N+NA+z1:ms
+être cher||N+NA+Hum+z1:ms
+être de chair||N+NDN+Hum:ms
+être de chair et de sang||N+NPNPN+Hum:ms
+être désincarné||N+NA+Hum+z2:ms
+être humain||N+NA+Hum+z1:ms
+être immortel||N+NA+Hum+z1:ms
+être logique||N+NA+Hum:ms
+être raisonnable||N+NA+Hum+z1:ms
+être sans défense||N+NPN+Hum:ms
+être suprême||N+NA+Hum+z2:ms
+être supérieur||N+NA+Hum+z1:ms
+être vertueux||N+NA+Hum+E01+z2:ms
+être vivant||N+NA+z1:ms
+êtres animés|être animé|N+NA+z1:mp
+êtres chers|être cher|N+NA+Hum+z1:mp
+êtres de chair et de sang|être de chair et de sang|N+NPNPN+Hum:mp
+êtres désincarnés|être désincarné|N+NA+Hum+z2:mp
+êtres humains|être humain|N+NA+Hum+z1:mp
+êtres logiques|être logique|N+NA+Hum:mp
+êtres vivants|être vivant|N+NA+z1:mp
+île Maurice||N+NN+Conc+z1:fs
+île Saint-Louis||N+NXN+Conc:fs
+île artificielle||N+NA+Conc+z2:fs
+île battue par les vents||N+NAPN+Conc:fs
+île côtière||N+NA+Conc:fs
+île d'Oléron||N+NDN+Conc:fs
+île de Bali||N+NDN+Conc:fs
+île de Beauté||N+NDN+Conc:fs
+île de Bornéo||N+NDN+Conc:fs
+île de Chypre||N+NDN+Conc:fs
+île de Crète||N+NDN+Conc:fs
+île de France||N+NDN:fs
+île de Java||N+NDN+Conc:fs
+île de Madère||N+NDN+Conc:fs
+île de Pâques||N+NDN+Conc:fs
+île de Rhodes||N+NDN+Conc:fs
+île de Ré||N+NDN+Conc:fs
+île de Sainte-Hélène||N+NPAN+Conc:fs
+île de Sumatra||N+NDN+Conc:fs
+île de Taïwan||N+NDN+Conc:fs
+île de Tobago||N+NDN+Conc:fs
+île de la Barbade||N+NDN+Conc:fs
+île de la Cité||N+NDN+Conc:fs
+île de la Guadeloupe||N+NDN+Conc:fs
+île de la Réunion||N+NDN+Conc:fs
+île de la Tortue||N+NDN+Conc:fs
+île de la Trinité||N+NDN+Conc:fs
+île du Diable||N+NDN+Conc:fs
+île déserte||N+NA+Conc+z1:fs
+île flottante||N+NA+Conc+z2:fs
+îles Aléoutiennes||N+NN+Conc+Conc:fp
+îles Australes||N+NA+Conc:fp
+îles Bahamas||N+NN+Conc+z1:fp
+îles Baléares||N+NN+Conc+z1:fp
+îles Britanniques||N+NA+Conc:fp
+îles Canaries||N+NN+Conc+z1:fp
+îles Caïmans||N+NN+Conc:fp
+îles Comores||N+NN+Conc+z2:fp
+îles Eoliennes||N+NN+Conc:fp
+îles Fortunées||N+NN+Conc:fp
+îles Féroé||N+NN+Conc:fp
+îles Galapagos||N+NN+Conc+z1:fp
+îles Glorieuses||N+NN+Conc:fp
+îles Hawaï||N+NN+Conc+z1:fp
+îles Ioniennes||N+NN+Conc:fp
+îles Kouriles||N+NN+Conc:fp
+îles Maldives||N+NN+Conc+z1:fp
+îles Malouines||N+NN+Conc:fp
+îles Marquises||N+NN+Conc+z1:fp
+îles Shetland||N+NN+Conc:fp
+îles Vierges||N+NN+Conc:fp
+îles anglo-normandes||N+NXA+Conc:fp
+îles artificielles|île artificielle|N+NA+Conc+z2:fp
+îles de la Sonde||N+NDN+Conc:fp
+îles désertes|île déserte|N+NA+Conc+z1:fp
+îles madréporiques|île madréporique|N+NA+Conc:fp
+îles sous le Vent||N+NDN+Conc:fp
+îlot de résistance||N+NDN+HumColl:ms
+îlot nucléaire||N+NA+Conc:ms
+îlots directionnels|îlot directionnel|N+NA+Conc:mp
