@@ -1,8 +1,8 @@
 # Format des entrées de la version éditable du dictionnaire DELA
 ## Format général
-Les formes flèchies sont représentées par la syntaxe suivante:
+Les entrées du dictionnaire sont représentées par la syntaxe suivante:
 
-`mot séparateur [lemme] séparateur catégorie[+sous_classe ...][:flexion ...]`
+`forme flèchie séparateur [forme non flèchie] séparateur catégorie[+sous_classe ...][:flexion ...]`
 
 où :
 * *mot* peut être une entrée composée (avec espaces)
@@ -85,3 +85,8 @@ Les autres temps peuvent être construits à partir de ceux-ci...
 
 ### Pronoms
 On trouve les formes 1s, 1p, 2s, 2p, 3s, 3p, 3ms, 3mp, 3fs et 3fp, explicitées par ce qui précède.
+
+## Sources
+Je n'ai pas trouvé de spécifications du format DELA, mais l'observation et certaines sources permettent tout de même d'en comprendre partiellement la structure :
+* [Un système de dictionnaires électroniques pour les mots simples du français](https://www.persee.fr/doc/lfr_0023-8368_1990_num_87_1_6323)
+* [Documentation des logiciels GramLab > Gramlab IDEling > C - Créer des ressources linguistiques > 5. Manipuler les dictionnaires](https://sites.google.com/site/gramlabdocumentation/gramlab-ide/creer-et-maintenir-des-grammaires/creer-et-utiliser-des-dictionnaires) pour la syntaxe de premier niveau des variantes flèchies (DELAF) et non flèchies (DELAS) d'un dictionnaire DELA.
