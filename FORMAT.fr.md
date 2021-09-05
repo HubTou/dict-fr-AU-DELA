@@ -2,19 +2,22 @@
 ## Format général
 Les entrées du dictionnaire sont représentées par la syntaxe suivante:
 
-`forme flèchie séparateur [forme non flèchie] séparateur catégorie[+sous_classe ...][:flexion ...]`
+`entrée séparateur [lemme] séparateur catégorie[+sous_classe ...][:flexion ...]`
 
 où :
-* *mot* peut être une entrée composée (avec espaces)
-* *séparateur* est le caractère *tube* ("|")
-* *lemme* est la forme non flèchie du mot (mot non accordé, verbe non conjugué, etc.), présente seulement quand elle est différente du *mot*
+* *entrée* est la forme fléchie, c'est-à-dire potentiellement accordée ou conjuguée, d'un mot ou d'une entrée composée (mots séparés par des espaces)
+* *séparateur* est dans cette version le caractère *tube* ("|"), mais dans le format d'origine une virgule (",") puis un point (".")
+* *lemme* est la forme canonique, non fléchie, de l'entrée, c'est-à-dire non accordée ou conjuguée, généralement absente quand elle est identique à celle-ci
+* *catégorie* est la classe grammaticale de l'entrée (cf. valeurs exhaustives observées ci-dessous), par exemple A pour un adjectif, V pour un verbe...
+* *+sous_classe* est un ensemble de codes donnant des informations grammaticales et sémantiques (facultatif, valeurs multiples possibles où le caractère "+" s'interprète comme un ET logique, liste ouverte)
+* *:flexion* est un ensemble de codes flexionnels (facultatif, valeurs multiples possibles où le caractère ":" s'interprète comme un OU logique)
 
 ## Codification des catégories
 Code|Occurrences uniques|Description
 ---|---|---
-V|464.181|Verbes avec formes conjuguées
+V|464.181|Verbes avec formes fléchies (conjuguées)
 N|236.110|noms communs ou propres, simples ou composés
-A|74.865|Adjectifs avec formes accordées
+A|74.865|Adjectifs avec formes fléchies (accordées)
 ADV|7.655|Adverbes
 PREP|3.408|Prépositions
 NDET|2.773|?
@@ -43,8 +46,16 @@ Catégorie|Code|Description
 ---|---|--- 
 DET|Dnum|Déterminants numéraux
 N|NPropre|Noms propres
-\*|z1|Mais qu'est-ce donc ???
-\*|z2|Mais qu'est-ce donc ???
+A|d|Indique que l'adjectif se place à droite du nom
+
+### Registres de langue
+Cette information est facultative.
+
+Catégorie|Code|Description 
+---|---|--- 
+\*|z1|langage courant
+\*|z2|langage spécialisé
+\*|z3|langage très spécialisé ou technique
 
 ## Codification des flexions
 ### Genre et nombre
@@ -87,6 +98,7 @@ Les autres temps peuvent être construits à partir de ceux-ci...
 On trouve les formes 1s, 1p, 2s, 2p, 3s, 3p, 3ms, 3mp, 3fs et 3fp, explicitées par ce qui précède.
 
 ## Sources
-Je n'ai pas trouvé de spécifications du format DELA, mais l'observation et certaines sources permettent tout de même d'en comprendre partiellement la structure :
-* [Un système de dictionnaires électroniques pour les mots simples du français](https://www.persee.fr/doc/lfr_0023-8368_1990_num_87_1_6323)
-* [Documentation des logiciels GramLab > Gramlab IDEling > C - Créer des ressources linguistiques > 5. Manipuler les dictionnaires](https://sites.google.com/site/gramlabdocumentation/gramlab-ide/creer-et-maintenir-des-grammaires/creer-et-utiliser-des-dictionnaires) pour la syntaxe de premier niveau des variantes flèchies (DELAF) et non flèchies (DELAS) d'un dictionnaire DELA.
+Je n'ai pas trouvé de spécifications officielles ou complètes du format DELA, mais l'observation et certaines sources permettent tout de même d'en comprendre partiellement la structure :
+* [Utilisation des entrées adverbiales du DELA issues des tables du Lexique-Grammaire du français](https://hal.archives-ouvertes.fr/hal-01443984/) par Elsa Tolone, Stavroula Voyatzi, Claude Martineau : pour une description correcte d'une entrée du DELAF
+* [Un système de dictionnaires électroniques pour les mots simples du français](https://www.persee.fr/doc/lfr_0023-8368_1990_num_87_1_6323) : semble correspondre à des versions antérieures à ce qui est diffusé aujourd'hui
+* [Documentation des logiciels GramLab > Gramlab IDEling > C - Créer des ressources linguistiques > 5. Manipuler les dictionnaires](https://sites.google.com/site/gramlabdocumentation/gramlab-ide/creer-et-maintenir-des-grammaires/creer-et-utiliser-des-dictionnaires) : pour la syntaxe de premier niveau des variantes fléchies (DELAF) et non (DELAS) d'un dictionnaire DELA.
