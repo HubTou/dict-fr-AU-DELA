@@ -2,15 +2,19 @@
 ## Format général
 Les entrées du dictionnaire sont représentées par la syntaxe suivante:
 
-`entrée séparateur [lemme] séparateur catégorie[+sous_classe ...][:flexion ...]`
+`entrée séparateur [lemme] séparateur catégorie[+sous_classe ...][:flexion ...] séparateur commentaire`
 
 où :
 * *entrée* est la forme fléchie, c'est-à-dire potentiellement accordée ou conjuguée, d'un mot ou d'une entrée composée (mots séparés par des espaces)
-* *séparateur* est dans cette version le caractère *tube* ("|"), mais dans le format d'origine une virgule (",") puis un point (".")
+* *séparateur* est dans cette version le caractère *tube* ("|"), mais dans le format d'origine une virgule (",") puis un point ("."), puis une barre oblique ("/")
 * *lemme* est la forme canonique, non fléchie, de l'entrée, c'est-à-dire non accordée ou conjuguée, généralement absente quand elle est identique à celle-ci
 * *catégorie* est la classe grammaticale de l'entrée (cf. valeurs exhaustives observées ci-dessous), par exemple A pour un adjectif, V pour un verbe...
 * *+sous_classe* est un ensemble de codes donnant des informations grammaticales et sémantiques (facultatif, valeurs multiples possibles où le caractère "+" s'interprète comme un ET logique, liste ouverte)
 * *:flexion* est un ensemble de codes flexionnels (facultatif, valeurs multiples possibles où le caractère ":" s'interprète comme un OU logique)
+* *commentaire*: est un texte libre
+
+Notre version ne nécessite pas de précautions particulières pour l'emploi des caractères virgule et point, mais le caractère "tube" ("|") est interdit.
+Dans la version d'origine les caractères virgule, point et tiret sont "échappés" avec une barre onlique inversée ("\\").
 
 ## Codification des catégories
 Code|Occurrences uniques|Description
