@@ -86,6 +86,7 @@ fp|féminin pluriel
 fs|féminin singulier
 mp|masculin pluriel
 ms|masculin singulier
+n|neutre
 
 ### Conjugaisons
 Les flexions sont représentées par la syntaxe suivante:
@@ -120,7 +121,7 @@ On trouve les formes 1s, 1p, 2s, 2p, 3s, 3p, 3ms, 3mp, 3fs et 3fp, explicitées 
 
 ## Sources
 Je n'ai pas trouvé de spécifications officielles ou complètes du format DELA, mais l'observation et certaines sources permettent tout de même d'en comprendre globalement la structure :
-* [Manuel d'utilisation d'Unitex - Unitex/GramLab](https://unitexgramlab.org/releases/3.1/man/Unitex-GramLab-3.1-usermanual-fr.pdf) pages 43-48 : la description la plus complète trouvée
+* [Manuel d'utilisation d'Unitex v3.3 - Unitex/GramLab](https://unitexgramlab.org/releases/3.3/man/Unitex-GramLab-3.3-usermanual-fr.pdf) pages 43-48 : la description la plus complète trouvée !
 * [Utilisation des entrées adverbiales du DELA issues des tables du Lexique-Grammaire du français](https://hal.archives-ouvertes.fr/hal-01443984/) par Elsa Tolone, Stavroula Voyatzi, Claude Martineau : pour une description correcte d'une entrée du DELAF
 * [Un système de dictionnaires électroniques pour les mots simples du français](https://www.persee.fr/doc/lfr_0023-8368_1990_num_87_1_6323) : semble correspondre à des versions antérieures à ce qui est diffusé aujourd'hui
 * [Documentation des logiciels GramLab > Gramlab IDEling > C - Créer des ressources linguistiques > 5. Manipuler les dictionnaires](https://sites.google.com/site/gramlabdocumentation/gramlab-ide/creer-et-maintenir-des-grammaires/creer-et-utiliser-des-dictionnaires) : pour la syntaxe de premier niveau des variantes fléchies (DELAF) et non (DELAS) d'un dictionnaire DELA.
