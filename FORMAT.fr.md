@@ -16,9 +16,9 @@ où :
 * *commentaire*: est un texte libre (facultatif)
 
 Notre version ne nécessite pas de précautions particulières pour l'emploi des caractères virgule et point, mais le caractère "tube" ("|") est interdit.
-Dans la version d'origine les caractères virgule, point et tiret sont "échappés" avec une barre onlique inversée ("\\").
+Dans la version d'origine les caractères virgule, point et tiret sont "échappés" avec une barre oblique inversée ("\\").
 
-## Codification des catégories
+## Codification des catégories grammaticales
 Code|Occurrences uniques|Description
 ---|---|---
 A|74.865|Adjectifs
@@ -32,7 +32,7 @@ PREP|3.408|Prépositions
 PRO|105|Pronoms
 V|464.181|Verbes
 
-### Autres catégories rencontrées
+### Autres catégories grammaticales rencontrées
 Code|Occurrences uniques|Description
 ---|---|---
 NDET|2.773|?
@@ -48,15 +48,26 @@ PREPADJ|6|Adjectifs démonstratifs ?
 PREPPRO|6|Pronoms relatifs ?
 PREPDET|4|Articles (in)définis ?
 
-## Codification des sous-classes
-Tout ça reste assez mystérieux.
-Voici ce que j'ai retenu :
+## Codification des sous-classes sémantiques
+Voici quelques codes usuels :
 
 Catégorie|Code|Description 
 ---|---|--- 
+A|d|Indique que l'adjectif se place à droite du nom
 DET|Dnum|Déterminants numéraux
 N|NPropre|Noms propres
-A|d|Indique que l'adjectif se place à droite du nom
+N|Abst|Abstrait (ex: bon goût)
+N|Conc|Concret (ex: abbaye)
+N|ConcColl|Concret collectif (ex: décombres)
+N|Hum|Humain (ex: diplomate)
+N|HumColl|Humain collectif (ex: vieille garde)
+N|Anl|Animal (ex: cheval)
+N|AnlColl|Animal collectif (ex: troupeau)
+V|t|Verbe transitif (ex: foudroyer)
+V|i|Verbe intransitif (ex: fraterniser)
+V|en|Particule pré-verbale obligatoire (ex: en imposer)
+V|se|Verbe pronominal (ex: se marier)
+V|ne|Verbe à négation obligatoire (ex: ne pas cesser de)
 
 ### Registres de langue
 Cette information est facultative.
@@ -109,6 +120,7 @@ On trouve les formes 1s, 1p, 2s, 2p, 3s, 3p, 3ms, 3mp, 3fs et 3fp, explicitées 
 
 ## Sources
 Je n'ai pas trouvé de spécifications officielles ou complètes du format DELA, mais l'observation et certaines sources permettent tout de même d'en comprendre partiellement la structure :
+* [Manuel d'utilisation d'Unitex - Unitex/GramLab](https://unitexgramlab.org/releases/3.1/man/Unitex-GramLab-3.1-usermanual-fr.pdf) pages 43-48 : la description la plus complète trouvée
 * [Utilisation des entrées adverbiales du DELA issues des tables du Lexique-Grammaire du français](https://hal.archives-ouvertes.fr/hal-01443984/) par Elsa Tolone, Stavroula Voyatzi, Claude Martineau : pour une description correcte d'une entrée du DELAF
 * [Un système de dictionnaires électroniques pour les mots simples du français](https://www.persee.fr/doc/lfr_0023-8368_1990_num_87_1_6323) : semble correspondre à des versions antérieures à ce qui est diffusé aujourd'hui
 * [Documentation des logiciels GramLab > Gramlab IDEling > C - Créer des ressources linguistiques > 5. Manipuler les dictionnaires](https://sites.google.com/site/gramlabdocumentation/gramlab-ide/creer-et-maintenir-des-grammaires/creer-et-utiliser-des-dictionnaires) : pour la syntaxe de premier niveau des variantes fléchies (DELAF) et non (DELAS) d'un dictionnaire DELA.
