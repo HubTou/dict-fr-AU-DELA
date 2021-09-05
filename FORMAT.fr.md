@@ -4,6 +4,8 @@ Les entrées du dictionnaire sont représentées par la syntaxe suivante:
 
 `entrée séparateur [lemme] séparateur catégorie[+sous_classe ...][:flexion ...] séparateur commentaire`
 
+`/commentaire`
+
 où :
 * *entrée* est la forme fléchie, c'est-à-dire potentiellement accordée ou conjuguée, d'un mot ou d'une entrée composée (mots séparés par des espaces)
 * *séparateur* est dans cette version le caractère *tube* ("|"), mais dans le format d'origine une virgule (",") puis un point ("."), puis une barre oblique ("/"). Le troisième séparateur est facultatif
@@ -19,24 +21,28 @@ Dans la version d'origine les caractères virgule, point et tiret sont "échapp�
 ## Codification des catégories
 Code|Occurrences uniques|Description
 ---|---|---
-V|464.181|Verbes avec formes fléchies (conjuguées)
-N|236.110|noms communs ou propres, simples ou composés
-A|74.865|Adjectifs avec formes fléchies (accordées)
+A|74.865|Adjectifs
 ADV|7.655|Adverbes
+CONJC|10|Conjonctions de coordination
+CONJS|219|Conjonctions de subordination
+DET|276|Déterminants
+INTJ|207|Interjections
+N|236.110|noms
 PREP|3.408|Prépositions
+PRO|105|Pronoms
+V|464.181|Verbes
+
+### Autres catégories rencontrées
+Code|Occurrences uniques|Description
+---|---|---
 NDET|2.773|?
 GN|952|Locutions nominales
 PFX|863|Préfixes
-DET|276|Déterminants (dont nombres en toutes lettres)
-CONJS|219|Conjonctions de subordination
-INTJ|207|Interjections
 X|139|Mots d'origine étrangère ? Différence avec XI ?
 GNP|133|Autres locutions nominales ? Différence avec GNPX ?
 GNPX|131|Autres locutions nominales ? Différence avec GNP ?
-PRO|105|Pronoms. Différence avec PRON ?
 PRON|47|Pronoms avec formes accordées. Différence avec PRO ?
 PCDN3|20|Locutions prépositives ?
-CONJC|10|Conjonctions de coordination
 XI|10|Mots d'origine étrangère ? Différence avec X ?
 PREPADJ|6|Adjectifs démonstratifs ?
 PREPPRO|6|Pronoms relatifs ?
