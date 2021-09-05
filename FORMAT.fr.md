@@ -119,7 +119,7 @@ Les autres temps peuvent être construits à partir de ceux-ci...
 On trouve les formes 1s, 1p, 2s, 2p, 3s, 3p, 3ms, 3mp, 3fs et 3fp, explicitées par ce qui précède.
 
 ## Sources
-Je n'ai pas trouvé de spécifications officielles ou complètes du format DELA, mais l'observation et certaines sources permettent tout de même d'en comprendre partiellement la structure :
+Je n'ai pas trouvé de spécifications officielles ou complètes du format DELA, mais l'observation et certaines sources permettent tout de même d'en comprendre globalement la structure :
 * [Manuel d'utilisation d'Unitex - Unitex/GramLab](https://unitexgramlab.org/releases/3.1/man/Unitex-GramLab-3.1-usermanual-fr.pdf) pages 43-48 : la description la plus complète trouvée
 * [Utilisation des entrées adverbiales du DELA issues des tables du Lexique-Grammaire du français](https://hal.archives-ouvertes.fr/hal-01443984/) par Elsa Tolone, Stavroula Voyatzi, Claude Martineau : pour une description correcte d'une entrée du DELAF
 * [Un système de dictionnaires électroniques pour les mots simples du français](https://www.persee.fr/doc/lfr_0023-8368_1990_num_87_1_6323) : semble correspondre à des versions antérieures à ce qui est diffusé aujourd'hui
