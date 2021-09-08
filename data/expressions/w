@@ -1,0 +1,47 @@
+w majuscule||N+NA:ms
+w minuscules|w minuscule|N+NA+z1:mp
+wagon à couchettes||N+NAN+Conc:ms
+wagon couvert||N+NA+Conc:ms
+wagon de marchandises||N+NDN+Conc:ms
+wagon de métro||N+NDN+Conc:ms
+wagon de première classe||N+NPAN+Conc:ms
+wagon de première||N+NDN+Conc:ms
+wagon de queue||N+NDN+Conc:ms
+wagon de||NDET+Dnom7
+wagon non fumeur||N+NXN+Conc:ms
+wagon plombé||N+NA+Conc+z1:ms
+wagon pullman||N+NN+Conc+z2:ms
+wagon railroute||N+NA+Conc:ms
+wagonnet à bascule||N+NAN+Conc:ms
+wagons à bestiaux|wagon à bestiaux|N+NAN+Conc:mp
+wagons à couchettes|wagon à couchettes|N+NAN+Conc:mp
+wagons complets|wagon complet|N+NA+Conc+z1:mp
+wagons de marchandises|wagon de marchandises|N+NDN+Conc:mp
+wagons de seconde|wagon de seconde|N+NDN+Conc:mp
+wagons de|wagon de|NDET+Dnom7
+wagons du|wagon de|NDET+Dnom7
+wagons frigorifiques|wagon frigorifique|N+NA+Conc+z2:mp
+wagons isothermes|wagon isotherme|N+NA+Conc:mp
+wagons plats|wagon plat|N+NA+Conc:mp
+wagons plombés|wagon plombé|N+NA+Conc+z1:mp
+warrant agricole||N+NA:ms
+warrant pétrolier||N+NA:ms
+warrants industriels|warrant industriel|N+NA:mp
+wattmètre composé||N+NA+Conc:ms
+wattmètres compensés|wattmètre compensé|N+NA+Conc:mp
+week-end à la campagne||N+ANPN:ms
+week-end à la plage||N+ANPN:ms
+week-end de trois jours||N+NX4:ms
+week-end meurtrier||N+NXA:ms
+week-end pascal||N+NXA:ms
+week-end prolongé||N+NXA:ms
+week-ends à la campagne|week-end à la campagne|N+ANPN:mp
+week-ends à la plage|week-end à la plage|N+ANPN:mp
+week-ends meurtriers|week-end meurtrier|N+NPNA:mp
+western italien||N+NA+z2:ms
+whiskies de seigle|whisky de seigle|N+NDN+Conc:mp
+whiskies écossais|whisky écossais|N+NA+Conc+z2:mp
+whisky de seigle||N+NDN+Conc:ms
+whisky écossais||N+NA+Conc+z2:ms
+whiskys de seigle|whisky de seigle|N+NDN+Conc:mp
+wulfénite du Maroc||N+NDN+Conc:fs
