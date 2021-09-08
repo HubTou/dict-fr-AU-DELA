@@ -4,6 +4,7 @@
 # Author: Hubert Tournier
 
 TMPFILE=${TMP}/formats.$$
+MAX_LINES=10000
 
 Convert()
 # From UTF-16 encoding with MS-DOS end of lines to UTF-8 & Unix EOL.
@@ -27,10 +28,12 @@ UnEscape()
 }
 
 ExplodeOnField1()
+# Some starting letters have more than several K lines associated.
+# We split these ones into multiple files.
 {
     rm -rf $1
     mkdir -p $1
-    awk -vDIRECTORY=$1 '
+    awk -vDIRECTORY=$1 -vMAX_LINES=${MAX_LINES} '
         {
             first_letter = substr($0,0,1)
             if (first_letter !~ /[A-Za-z]/)
@@ -41,19 +44,24 @@ ExplodeOnField1()
             {
                 first_letter = tolower(first_letter)
             }
-            file = DIRECTORY "/" first_letter
+            lines[first_letter] += 1
+            if ((lines[first_letter] % MAX_LINES) == 0)
+            {
+                parts[first_letter] = (1 + (lines[first_letter] / MAX_LINES)) ""
+            }
+            file = DIRECTORY "/" first_letter parts[first_letter]
             print $0 >> file
         }
     '
 }
 
 ExplodeOnField2()
-# Some starting letters have more than 20K lines associated.
+# Some starting letters have more than several K lines associated.
 # We split these ones into multiple files.
 {
     rm -rf $1
     mkdir -p $1
-    awk -vDIRECTORY=$1 '
+    awk -vDIRECTORY=$1 -vMAX_LINES=${MAX_LINES} '
         BEGIN {
             FS = "|"
         }
@@ -72,9 +80,9 @@ ExplodeOnField2()
                 first_letter = tolower(first_letter)
             }
             lines[first_letter] += 1
-            if ((lines[first_letter] % 20000) == 0)
+            if ((lines[first_letter] % MAX_LINES) == 0)
             {
-                parts[first_letter] = (1 + (lines[first_letter] / 20000)) ""
+                parts[first_letter] = (1 + (lines[first_letter] / MAX_LINES)) ""
             }
             file = DIRECTORY "/" first_letter parts[first_letter]
             print $0 >> file
@@ -97,12 +105,12 @@ main()
 
     # proper nouns extraction:
     echo "Extracting proper nouns"
-    cat ${TMPFILE}.0 | grep "+NPropre" | ExplodeOnField1 noms
+    cat ${TMPFILE}.0 | grep "+NPropre" | sort | ExplodeOnField1 noms
     cat ${TMPFILE}.0 | grep -v "+NPropre" > ${TMPFILE}.1
 
     # compound words extraction:
     echo "Extracting composed words"
-    cat ${TMPFILE}.1 | grep " " | ExplodeOnField1 expressions
+    cat ${TMPFILE}.1 | grep " " | sort | ExplodeOnField1 expressions
     cat ${TMPFILE}.1 | grep -v " " > ${TMPFILE}.2
 
     # verbs extraction:
@@ -111,7 +119,13 @@ main()
 
     # words left:
     echo "Extracting words"
-    cat ${TMPFILE}.2 | grep -v "|V" | ExplodeOnField1 mots
+    cat ${TMPFILE}.2 | grep -v "|V" | sort | ExplodeOnField1 mots
+
+    for PATHNAME in expressions/*2 verbes/*2 mots/*2
+    do
+        PREFIX=`echo "${PATHNAME}" | sed "s/2$//"`
+        mv ${PREFIX} ${PREFIX}1
+    done
 }
 
 main
