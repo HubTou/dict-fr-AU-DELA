@@ -1770,7 +1770,6 @@ bas-côtés|bas-côté|N+AN+Conc:mp
 Bas-Empire||N+AN+HumColl:ms
 bas-fonds||N+AN+HumColl:mp
 bas-fonds|bas-fond|N+AN+Conc:mp
-bas-fonds|bas-fond|N+AN+Conc:mp
 bas-foyers|bas-foyer|N+AN+Conc:mp
 bas-jointées|bas-jointé|A+EPA+z1:fp
 bas-mâts|bas-mât|N+AN+Conc:mp
@@ -1779,7 +1778,6 @@ bas-parcs|bas-parc|N+AN+Conc:mp
 bas-ports|bas-port|N+AN+Conc:mp
 bas-relief||N+AN+Conc:ms
 bas-reliefs|bas-relief|N+AN+Conc:mp
-Bas-Rhin||N+AN:ms
 Bas-Rhin||N+AN:ms
 bas-ventre||N+AN:ms
 bas-ventres|bas-ventre|N+AN:mp
@@ -4086,7 +4084,6 @@ biélorusses|biélorusse|A+z2:mp:fp
 Biélorusses|Biélorusse|N+z2:mp:fp
 bien-aimé||A+XA:ms
 bien-aimé||N+XN+Hum:ms
-bien-aimé||N+XN+Hum:ms
 bien-aimée|bien-aimé|A+XA:fs
 bien-aimée|bien-aimé|N+XN+Hum:fs
 bien-aimée|bien-aimé|N+XN+Hum+z1:fs
@@ -4104,7 +4101,6 @@ bien-jugés|bien-jugé|N+XN+z2:mp
 bien-pensant||A+XA:ms
 bien-pensant||N+XN+Hum:ms
 bien-pensante|bien-pensant|A+XA:fs
-bien-pensante|bien-pensant|N+XN+Hum:fs
 bien-pensante|bien-pensant|N+XN+Hum:fs
 bien-pensantes|bien-pensant|A+XA:fp
 bien-pensantes|bien-pensant|N+XN+Hum:fp

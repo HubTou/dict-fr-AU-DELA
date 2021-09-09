@@ -240,7 +240,6 @@ valeur de référence||N+NDN:fs
 valeur de remplacement||N+NDN:fs
 valeur de symbole||GN+A1+z1
 valeur de symbole||N+NDN:fs
-valeur de symbole||N+NDN:fs
 valeur disponible||N+NA:fs
 valeur dominante||N+NA+z2:fs
 valeur douteuse||N+NA+z2:fs
@@ -1189,7 +1188,6 @@ verrues plantaires|verrue plantaire|N+NA+Conc+z2:fp
 verrues séniles|verrue sénile|N+NA+Conc:fp
 vers à soie||N+NAN:ms:mp
 vers à soie|ver à soie|N+NAN+Conc:mp
-vers à soie|ver à soie|N+NAN+Conc:mp
 vers acatalectiques|vers acatalectique|N+NA:mp
 vers acéphale||N+NA:ms
 vers adoniens|vers adonien|N+NA:mp
@@ -1626,7 +1624,6 @@ vie de quartier||N+NDN:fs
 vie de renoncement||N+NDN:fs
 vie de tous les jours||N+NDN:fs
 vie de tous les jours||N+NPNPN:fs
-vie de tous les jours||N+NPNPN:fs
 vie des autres||N+NDN:fs
 vie difficile||N+NA+E01+z1:fs
 vie domestique||N+NA+z1:fs
@@ -1718,7 +1715,6 @@ vie urbaine||N+NA+z2:fs
 vie végétale||N+NA:fs
 vie végétative||N+NA+z1:fs
 vieil armagnac||N+AN:ms
-vieil homme||N+AN:ms
 vieil homme||N+AN:ms
 vieil homme||N+AN+Hum:ms
 vieil instituteur||N+AN+Hum:ms

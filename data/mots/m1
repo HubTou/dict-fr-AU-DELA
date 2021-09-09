@@ -7857,7 +7857,6 @@ micro-économique|microéconomique|A+XA:ms:fs
 micro-gravité|microgravité|N+XN:fs
 micro-informatique||A+XA:ms:fs
 micro-informatique||N+XN:fs
-micro-informatique||N+XN:fs
 micro-injection||N+XN:fs
 micro-instruction||N+XN+z1:fs
 micro-instruments|micro-instrument|N+XN+Conc:mp
@@ -7865,7 +7864,6 @@ micro-irrigation||N+XN:fs
 micro-modules|micromodule|N+XN+Conc:mp
 micro-onde||N+XN:fs
 micro-onde||N+XN+Conc:ms
-micro-ondes|micro-onde|N+XN:fp
 micro-ondes|micro-onde|N+XN:fp
 micro-ondes|micro-onde|N+XN+Conc:mp
 micro-ondes|micro-onde|N+XN+Conc+z1:mp
@@ -8810,7 +8808,6 @@ mille-feuille|millefeuille|N+AN+Conc:fs
 mille-feuille|millefeuille|N+AN+Conc:ms
 mille-feuilles||N+AN+Conc:fp
 mille-feuilles|millefeuille|N+AN+Conc:fp
-mille-feuilles|millefeuille|N+AN+Conc:mp
 mille-feuilles|millefeuille|N+AN+Conc:mp
 mille-fleurs||N+AN+Conc:fs:fp
 mille-pattes||N+AN+Anl:ms:mp

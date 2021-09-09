@@ -580,14 +580,11 @@ saint-amour||N+AN+Conc:ms
 saint-benoît||N+AN+Conc:ms
 saint-bernard||N+AN+Anl+Hum:ms:mp
 saint-cyrien||N+AN+Hum:ms
-saint-cyrien||N+AN+Hum:ms
 saint-cyrienne|saint-cyrien|N+AN+Hum:fs
-saint-cyriens|saint-cyrien|N+AN+Hum:mp
 saint-cyriens|saint-cyrien|N+AN+Hum:mp
 saint-émilion||N+AN:fs
 Saint-Empire||N+AN:ms
 saint-esprit||N+AN+Conc:ms
-Saint-Esprit||N+AN+Hum:ms
 Saint-Esprit||N+AN+Hum:ms
 saint-estèphe||N+AN:fs
 saint-frusquin||N+AN+Conc:ms
@@ -604,12 +601,10 @@ saint-nectaire||N+AN+Conc:ms
 Saint-Office||N+AN+HumColl:ms
 saint-péray||N+AN:fs
 Saint-Père||N+AN+Hum:ms
-Saint-Père||N+AN+Hum:ms
 saint-pierre||N+AN+Anl:ms
 saint-Pourcin||N+AN:fs
 Saint-Sépulcre||N+AN:ms
 saint-sépulcre||N+AN+Conc:ms
-Saint-Siège||N+AN+HumColl:ms
 Saint-Siège||N+AN+HumColl:ms
 saint-simonien||N+AN+Hum:ms
 saint-simonienne|saint-simonien|N+AN+Hum:fs
@@ -618,7 +613,6 @@ saint-simonisme||N+AN:ms
 saint-sulpiceries|saint-sulpicerie|N+AN:fp
 saint-sulpicien||N+AN+Hum:ms
 saint-sulpicienne|saint-sulpicien|N+AN+Hum:fs
-Saint-Sylvestre||N+AN:fs
 Saint-Sylvestre||N+AN:fs
 saint-synode||N+AN+HumColl:ms
 saint||A+z1:ms
@@ -4166,7 +4160,6 @@ seime||N:fs
 seimes|seime|N:fp
 sein||N+z1:ms
 Seine-et-Marne||N+NCN+Conc:fs
-Seine-et-Marne||N+NCN+Conc:fs
 seine||N:fs
 seines|seine|N:fp
 seineur||A:ms
@@ -4614,7 +4607,6 @@ semi-nasale|semi-nasal|A+XA:fs
 semi-nasaux|semi-nasal|A+EPA+z1:mp
 semi-nomade||N+XN+Hum:ms:fs
 semi-nomades|semi-nomade|A+XA:mp:fp
-semi-nomades|semi-nomade|N+XN+Hum:mp:fp
 semi-nomades|semi-nomade|N+XN+Hum:mp:fp
 semi-nomadisme||N+XN:ms
 semi-normes|semi-norme|N+XN:fp
@@ -7728,7 +7720,6 @@ sociablement||ADV+z2
 sociables|sociable|A+z1:mp:fp
 social-démocrate||A+EPA+z1:ms:fs
 social-démocrate||N+AN+Hum:ms
-social-démocrate||N+AN+Hum:ms
 social-démocrates|social-démocrate|A+EPA+z1:mp:fp
 social-démocratie||N+AN:fs
 social-révolutionnaire||N+AN+Hum:ms
@@ -7769,7 +7760,6 @@ sociatrie||N:fs
 sociatries|sociatrie|N:fp
 sociaux-chrétiens||N+AN+HumColl:mp
 sociaux-démocrates||N+AN+HumColl:mp
-sociaux-démocrates|social-démocrate|N+AN+Hum:mp
 sociaux-démocrates|social-démocrate|N+AN+Hum:mp
 sociaux|social|A+z1:mp
 sociétaire||A+z2:ms:fs
@@ -9305,7 +9295,6 @@ sous-développé||N+PN+Hum:ms
 sous-développé||N+PN+Hum+z1:ms
 sous-développée|sous-développé|A+EPA+z1:fs
 sous-développée|sous-développé|N+PN+Hum:fs
-sous-développée|sous-développé|N+PN+Hum:fs
 sous-développées|sous-développé|A+EPA+z1:fp
 sous-développées|sous-développé|N+PN+Hum+z1:fp
 sous-développement||N+PN:ms
@@ -9333,7 +9322,6 @@ sous-emplois|sous-emploi|N+PN+z1:mp
 sous-ensemble||N+PN+z1:ms
 sous-ensembles|sous-ensemble|N+PN+z1:mp
 sous-entendu||A+EPA+z1:ms
-sous-entendu||N+PN:ms
 sous-entendu||N+PN:ms
 sous-entendue|sous-entendu|A+EPA+z1:fs
 sous-entendues|sous-entendu|A+EPA+z1:fp
@@ -9391,7 +9379,6 @@ sous-joints|sous-joint|N+PN+Conc:mp:fp
 sous-lacustre||A+EPA+z1:ms:fs
 sous-lieutenances|sous-lieutenance|N+PN:fp
 sous-lieutenant||N+PN:ms
-sous-lieutenant||N+PN:ms
 sous-lieutenant||N+PN+Hum+z1:ms
 sous-ligneuse|sous-ligneux|A+EPA+z1:fs
 sous-liminaire||A+EPA+z1:ms:fs
@@ -9410,7 +9397,6 @@ sous-marines|sous-marin|A+EPA+z1:fp
 sous-marinier||N+PN+Hum:ms
 sous-mariniers|sous-marinier|N+PN+Hum:mp
 sous-marins|sous-marin|A+EPA+z1:mp
-sous-marins|sous-marin|N+PN+Conc:mp
 sous-marins|sous-marin|N+PN+Conc:mp
 sous-marque||N+PN:fs
 sous-marques|sous-marque|N+PN:fp

@@ -1543,7 +1543,6 @@ grain de riz||N+NDN+Conc:ms
 grain de sable||N+NDN+Conc:ms
 grain de sel||N+NDN+Abst:ms
 grain de sel||N+NDN+Conc:ms
-grain de sel||N+NDN+Conc:ms
 grain de semence||N+NDN+Conc:ms
 grain de tabac||N+NDN+Conc:ms
 grain de||NDET+Dnom5
@@ -1621,8 +1620,6 @@ grand âge||N+AN:ms
 grand aigle||N+AN+Conc:ms
 grand air||GN+A1+z1
 grand air||N+AN:ms
-grand air||N+AN:ms
-grand air||N+AN+Abst:ms
 grand air||N+AN+Abst:ms
 grand amiral||N+AN+Hum:ms
 grand amour||N+AN+Hum:ms
@@ -1875,7 +1872,6 @@ grande école d'ingénieurs||N+ANPN:fs
 grande école de commerce||N+ANPN:fs
 grande école||N+AN+Conc:fs
 grande école||N+AN+HumColl:fs
-grande école||N+AN+HumColl:fs
 Grande Encyclopédie||N+AN:fs
 grande entreprise||N+AN+HumColl:fs
 grande famille||N+AN+HumColl:fs
@@ -1962,16 +1958,13 @@ grandes eaux||N+AN:fp
 grandes écoles de commerce|grande école de commerce|N+ANPN:fp
 grandes écoles||N+AN:fp
 grandes écoles|grande école|N+AN+Conc:fp
-grandes écoles|grande école|N+AN+Conc:fp
 grandes entreprises|grande entreprise|N+AN+HumColl:fp
 grandes familles||N+AN+HumColl:fp
-grandes familles|grande famille|N+AN+HumColl:fp
 grandes familles|grande famille|N+AN+HumColl:fp
 grandes feudataires|grand feudataire|N+AN+Hum:fp
 grandes figures|grande figure|N+AN+Hum:fp
 grandes filles|grande fille|N+AN+Hum:fp
 grandes fortunes||N+AN+HumColl:fp
-grandes fortunes|grande fortune|N+AN+Hum+Abst:fp
 grandes fortunes|grande fortune|N+AN+Hum+Abst:fp
 grandes fresques|grande fresque|N+AN:fp
 grandes gagnantes|grand gagnant|N+AN+Hum:fp
@@ -1983,13 +1976,11 @@ grandes invalides de guerre|grand invalide de guerre|N+ANPN+Hum:fp
 grandes libertés d'expression|grande liberté d'expression|N+ANPN:fp
 grandes lignes||N+AN:fp
 grandes lignes|grande ligne|N+AN+Conc:fp
-grandes lignes|grande ligne|N+AN+Conc:fp
 grandes littératures|grande littérature|N+AN:fp
 grandes mangeuses|grand mangeur|N+AN+Hum:fp
 grandes manifestations|grande manifestation|N+AN:fp
 grandes manoeuvres||N+AN:fp
 grandes marées||N+AN:fp
-grandes marées|grande marée|N+AN:fp
 grandes marées|grande marée|N+AN:fp
 grandes marques|grande marque|N+AN:fp
 grandes migrations du mois d'août||N+NX4:fp
@@ -2021,7 +2012,6 @@ grandes vacances||N+AN:fp
 grandes valeurs|grande valeur|N+AN:fp
 grandes véneries|grande vénerie|N+AN:fp
 grandes villes||N+AN+HumColl:fp
-grandes villes|grande ville|N+AN+Conc:fp
 grandes villes|grande ville|N+AN+Conc:fp
 grandes virtuosités|grande virtuosité|N+AN:fp
 grandes vitesses|grande vitesse|N+AN:fp
@@ -2544,7 +2534,6 @@ gros sel||N+AN:ms
 gros sou||N+AN:ms
 gros sous||N+AN:mp
 gros sous|gros sou|N+AN:mp
-gros sous|gros sou|N+AN:mp
 gros sur la conscience||GN+A1P2+z1
 gros sur la patate||GN+A1P2+z1
 gros sur le coeur||GN+A1P2+z1
@@ -2556,11 +2545,9 @@ gros tirages|gros tirage|N+AN:mp
 gros titre||N+AN:ms
 gros titres||N+AN:mp
 gros titres|gros titre|N+AN:mp
-gros titres|gros titre|N+AN:mp
 gros travail||N+AN:ms
 gros travailleur||N+AN+Hum:ms
 gros travaux||N+AN:mp
-gros travaux|gros travail|N+AN:mp
 gros travaux|gros travail|N+AN:mp
 groseille rouge||N+NA+Conc:fs
 groseilles à maquereau||N+NAN:fp

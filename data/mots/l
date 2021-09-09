@@ -5325,7 +5325,6 @@ lointaines|lointain|A+z1:fp
 lointains|lointain|A+z1:mp
 lointains|lointain|N+z1:mp
 Loir-et-Cher||N+NCN+Conc:ms
-Loir-et-Cher||N+NCN+Conc:ms
 loir||N+z2:ms
 loirs|loir|N+z2:mp
 lois-cadres|loi-cadre|N+NN+z2:fp
@@ -5687,7 +5686,6 @@ losangique||A:ms:fs
 losangiques|losangique|A:mp:fp
 loseyite||N:fs
 loseyites|loseyite|N:fp
-Lot-et-Garonne||N+NCN+Conc:ms
 Lot-et-Garonne||N+NCN+Conc:ms
 lot||N+z1:ms
 lote||N:fs

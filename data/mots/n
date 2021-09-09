@@ -1437,7 +1437,6 @@ néo-libéral|néolibéral|A+XA:ms
 néo-libéral|néolibéral|N+XN+Hum+z1:ms
 néo-libérale|néolibéral|A+XA:fs
 néo-libérale|néolibéral|N+XN+Hum:fs
-néo-libérale|néolibéral|N+XN+Hum:fs
 néo-libérales|néolibéral|A+XA:fp
 néo-libérales|néolibéral|N+XN+Hum:fp
 néo-libéralisme|néolibéralisme|N+XN+z1:ms
@@ -1461,7 +1460,6 @@ néo-nazies|néonazi|A+XA:fp
 néo-nazies|néonazi|N+XN+Hum+z1:fp
 néo-nazis|néo-nazi|A+EPA+z1:mp
 néo-nazis|néonazi|A+XA:mp
-néo-nazis|néonazi|N+XN+Hum:mp
 néo-nazis|néonazi|N+XN+Hum:mp
 néo-nazisme|néonazisme|N+XN+z1:ms
 néo-nazismes|néonazisme|N+XN+z1:mp
@@ -1490,7 +1488,6 @@ néo-romantisme|néoromantisme|N+XN:ms
 néo-syriaque|néosyriaque|N+XN:ms
 néo-thomisme|néothomisme|N+XN:ms
 néo-zélandais||A+XA:ms:mp
-Néo-Zélandais||N+XN+Hum:ms:mp
 Néo-Zélandais||N+XN+Hum:ms:mp
 néo-zélandaise|néo-zélandais|A+XA:fs
 Néo-Zélandaise|Néo-Zélandais|N+XN+Hum+z1:fs
@@ -3862,7 +3859,6 @@ non-animé||A+XA:ms
 non-animées|non-animé|A+XA:fp
 non-animés|non-animé|A+XA:mp
 non-animés|non-animé|N+XN:mp
-non-animés|non-animé|N+XN:mp
 non-appartenance||N+XN:fs
 non-assistance||N+XN:fs
 non-assistance||N+XN+z1:fs
@@ -3932,7 +3928,6 @@ non-initié||A+XA:ms
 non-initié||N+XN+Hum:ms
 non-initiées|non-initié|A+XA:fp
 non-initiés|non-initié|A+XA:mp
-non-initiés|non-initié|N+XN+Hum:mp
 non-initiés|non-initié|N+XN+Hum:mp
 non-inscription||N+XN:fs
 non-inscrit||A+XA:ms
@@ -4711,7 +4706,6 @@ noyés|noyé|A+z1:mp
 noyés|noyé|N+z1:mp
 nozigues||N:mp
 nu-pieds||A+EAPC+z1:ms:fs:mp:fp
-nu-pieds||N+AN+Conc:ms:mp
 nu-pieds||N+AN+Conc:ms:mp
 nu-tête||A+EAPC+z1:ms:fs:mp:fp
 nu||A+z1:ms
