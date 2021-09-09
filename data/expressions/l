@@ -1619,8 +1619,7 @@ les jours et les heures||GN+NCN:mp
 les jours fériés||ADV+PCA+z1
 les larmes aux yeux||GN+A1P2+z1
 les Lettres et les Sciences||GN+NCN:mp
-les leurs||PRO:fp
-les leurs||PRO:mp
+les leurs||PRO:fp:mp
 les leurs|le leur|PRON+Poss3p+z1:mp:fp
 les mains dans la graisse||GN+A1P2+z1
 les mains dans le cambouis||GN+A1P2+z1
@@ -1635,8 +1634,7 @@ les militaires et les civils||GN+NCN+HumColl:mp
 les minutes et les secondes||GN+NCN:fp
 les mois et les années||GN+NCN:mp
 les moyens||GN+A1+z1
-les nôtres||PRO:fp
-les nôtres||PRO:mp
+les nôtres||PRO:fp:mp
 les nuages et la pluie||GN+NCN+Conc:mp
 les ordures et les déchets||GN+NCN+Conc:mp
 les parents et les amis||GN+NCN+HumColl:mp

@@ -1453,11 +1453,9 @@ utraquismes|utraquisme|N:mp
 utraquiste||N:ms:fs
 utraquistes|utraquiste|N:mp:fp
 utriculaire||A:ms:fs
-utriculaire||N:fs
-utriculaire||N:ms
+utriculaire||N:fs:ms
 utriculaires|utriculaire|A:mp:fp
-utriculaires|utriculaire|N:fp
-utriculaires|utriculaire|N:mp
+utriculaires|utriculaire|N:fp:mp
 utriculé||A:ms
 utricule||N:ms
 utriculée|utriculé|A:fs
@@ -1505,10 +1503,8 @@ uvulectomies|uvulectomie|N:fp
 uvules|uvule|N:fp
 uvulite||N:fs
 uvulites|uvulite|N:fp
-uxoricide||N:ms
-uxoricide||N:ms:fs
-uxoricides|uxoricide|N:mp
-uxoricides|uxoricide|N:mp:fp
+uxoricide||N:fs:ms
+uxoricides|uxoricide|N:fp:mp
 uxorilocal||A:ms
 uxorilocale|uxorilocal|A:fs
 uxorilocales|uxorilocal|A:fp

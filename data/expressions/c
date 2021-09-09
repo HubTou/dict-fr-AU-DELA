@@ -5278,8 +5278,7 @@ cheveux frisés||N+NA+E01+z1:mp
 cheveux gominés||N+NA+z1:mp
 cheveux gominés||N+NA+z2:mp
 cheveux gras||N+NA+E01+z1:ms:mp
-cheveux gris||N+NA+E01+z1:ms
-cheveux gris||N+NA+E01+z1:ms:mp
+cheveux gris||N+NA+E01+z1:mp:ms
 cheveux grisonnants||N+NA+E01+z1:mp
 cheveux hirsutes||N+NA+E01+z1:mp
 cheveux hirsutes||N+NA+E01+z2:mp
@@ -5293,8 +5292,7 @@ cheveux platinés||N+NA+Conc+z2:mp
 cheveux raides||N+NA+E01+z1:mp
 cheveux ras||N+NA+E01+z1:mp
 cheveux répandus||N+NA+E01+z2:mp
-cheveux roux||N+NA+E01+z1:ms
-cheveux roux||N+NA+E01+z1:ms:mp
+cheveux roux||N+NA+E01+z1:mp:ms
 cheveux souples||N+NA+E01+z1:mp
 cheveux taillés en brosse||N+NAPN:mp
 cheville d'amarrage||N+NDN+Conc:fs
