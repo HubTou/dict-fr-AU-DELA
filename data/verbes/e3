@@ -1432,7 +1432,6 @@ entre|entrer|V+z1:P1s:P3s:S1s:S3s:Y2s
 entrez|entrer|V+z1:P2p:Y2p
 entres|entrer|V+z1:P2s:S2s
 entrent|entrer|V+z1:P3p:S3p
-entre|entrer|V+z1:P3s:S3s
 entrassions|entrer|V+z1:T1p
 entrasse|entrer|V+z1:T1s
 entrassiez|entrer|V+z1:T2p
@@ -2066,14 +2065,13 @@ envahissiez|envahir|V+z1:I2p:S2p:T2p
 envahissaient|envahir|V+z1:I3p
 envahissait|envahir|V+z1:I3s
 envahîmes|envahir|V+z1:J1p
+envahis|envahir|V+z1:J1s:J2s:Kmp:P1s:P2s:Y2s
 envahîtes|envahir|V+z1:J2p
 envahirent|envahir|V+z1:J3p
 envahies|envahir|V+z1:Kfp
 envahie|envahir|V+z1:Kfs
-envahis|envahir|V+z1:Kmp:P1s:P2s:J1s:J2s:Y2s
 envahi|envahir|V+z1:Kms
 envahissons|envahir|V+z1:P1p:Y1p
-envahis|envahir|V+z1:P1s:P2s:J1s:J2s:Y2s
 envahissez|envahir|V+z1:P2p:Y2p
 envahissent|envahir|V+z1:P3p:S3p:T3p
 envahit|envahir|V+z1:P3s:J3s

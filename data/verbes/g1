@@ -2940,7 +2940,6 @@ gaze|gazer|V+z1:P1s:P3s:S1s:S3s:Y2s
 gazez|gazer|V+z1:P2p:Y2p
 gazes|gazer|V+z1:P2s:S2s
 gazent|gazer|V+z1:P3p:S3p
-gaze|gazer|V+z1:P3s:S3s
 gazassions|gazer|V+z1:T1p
 gazasse|gazer|V+z1:T1s
 gazassiez|gazer|V+z1:T2p
@@ -3242,7 +3241,6 @@ gèle|geler|V+z1:P1s:P3s:S1s:S3s:Y2s
 gelez|geler|V+z1:P2p:Y2p
 gèles|geler|V+z1:P2s:S2s
 gèlent|geler|V+z1:P3p:S3p
-gèle|geler|V+z1:P3s:S3s
 gelassions|geler|V+z1:T1p
 gelasse|geler|V+z1:T1s
 gelassiez|geler|V+z1:T2p
@@ -3433,14 +3431,13 @@ gémissiez|gémir|V+z1:I2p:S2p:T2p
 gémissaient|gémir|V+z1:I3p
 gémissait|gémir|V+z1:I3s
 gémîmes|gémir|V+z1:J1p
+gémis|gémir|V+z1:J1s:J2s:Kmp:P1s:P2s:Y2s
 gémîtes|gémir|V+z1:J2p
 gémirent|gémir|V+z1:J3p
 gémies|gémir|V+z1:Kfp
 gémie|gémir|V+z1:Kfs
-gémis|gémir|V+z1:Kmp:P1s:P2s:J1s:J2s:Y2s
 gémi|gémir|V+z1:Kms
 gémissons|gémir|V+z1:P1p:Y1p
-gémis|gémir|V+z1:P1s:P2s:J1s:J2s:Y2s
 gémissez|gémir|V+z1:P2p:Y2p
 gémissent|gémir|V+z1:P3p:S3p:T3p
 gémit|gémir|V+z1:P3s:J3s
@@ -4638,7 +4635,6 @@ givre|givrer|V+z1:P1s:P3s:S1s:S3s:Y2s
 givrez|givrer|V+z1:P2p:Y2p
 givres|givrer|V+z1:P2s:S2s
 givrent|givrer|V+z1:P3p:S3p
-givre|givrer|V+z1:P3s:S3s
 givrassions|givrer|V+z1:T1p
 givrasse|givrer|V+z1:T1s
 givrassiez|givrer|V+z1:T2p
@@ -7746,14 +7742,13 @@ grandissiez|grandir|V+z1:I2p:S2p:T2p
 grandissaient|grandir|V+z1:I3p
 grandissait|grandir|V+z1:I3s
 grandîmes|grandir|V+z1:J1p
+grandis|grandir|V+z1:J1s:J2s:Kmp:P1s:P2s:Y2s
 grandîtes|grandir|V+z1:J2p
 grandirent|grandir|V+z1:J3p
 grandies|grandir|V+z1:Kfp
 grandie|grandir|V+z1:Kfs
-grandis|grandir|V+z1:Kmp:P1s:P2s:J1s:J2s:Y2s
 grandi|grandir|V+z1:Kms
 grandissons|grandir|V+z1:P1p:Y1p
-grandis|grandir|V+z1:P1s:P2s:J1s:J2s:Y2s
 grandissez|grandir|V+z1:P2p:Y2p
 grandissent|grandir|V+z1:P3p:S3p:T3p
 grandit|grandir|V+z1:P3s:J3s
@@ -8611,14 +8606,13 @@ gravissiez|gravir|V+z1:I2p:S2p:T2p
 gravissaient|gravir|V+z1:I3p
 gravissait|gravir|V+z1:I3s
 gravîmes|gravir|V+z1:J1p
+gravis|gravir|V+z1:J1s:J2s:Kmp:P1s:P2s:Y2s
 gravîtes|gravir|V+z1:J2p
 gravirent|gravir|V+z1:J3p
 gravies|gravir|V+z1:Kfp
 gravie|gravir|V+z1:Kfs
-gravis|gravir|V+z1:Kmp:P1s:P2s:J1s:J2s:Y2s
 gravi|gravir|V+z1:Kms
 gravissons|gravir|V+z1:P1p:Y1p
-gravis|gravir|V+z1:P1s:P2s:J1s:J2s:Y2s
 gravissez|gravir|V+z1:P2p:Y2p
 gravissent|gravir|V+z1:P3p:S3p:T3p
 gravit|gravir|V+z1:P3s:J3s
@@ -8934,7 +8928,6 @@ grêle|grêler|V+z1:P1s:P3s:S1s:S3s:Y2s
 grêlez|grêler|V+z1:P2p:Y2p
 grêles|grêler|V+z1:P2s:S2s
 grêlent|grêler|V+z1:P3p:S3p
-grêle|grêler|V+z1:P3s:S3s
 grêlassions|grêler|V+z1:T1p
 grêlasse|grêler|V+z1:T1s
 grêlassiez|grêler|V+z1:T2p
@@ -9347,7 +9340,6 @@ grésille|grésiller|V+z1:P1s:P3s:S1s:S3s:Y2s
 grésillez|grésiller|V+z1:P2p:Y2p
 grésilles|grésiller|V+z1:P2s:S2s
 grésillent|grésiller|V+z1:P3p:S3p
-grésille|grésiller|V+z1:P3s:S3s
 grésillassions|grésiller|V+z1:T1p
 grésillasse|grésiller|V+z1:T1s
 grésillassiez|grésiller|V+z1:T2p

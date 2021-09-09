@@ -4083,14 +4083,13 @@ nourrissiez|nourrir|V+z1:I2p:S2p:T2p
 nourrissaient|nourrir|V+z1:I3p
 nourrissait|nourrir|V+z1:I3s
 nourrîmes|nourrir|V+z1:J1p
+nourris|nourrir|V+z1:J1s:J2s:Kmp:P1s:P2s:Y2s
 nourrîtes|nourrir|V+z1:J2p
 nourrirent|nourrir|V+z1:J3p
 nourries|nourrir|V+z1:Kfp
 nourrie|nourrir|V+z1:Kfs
-nourris|nourrir|V+z1:Kmp:P1s:P2s:J1s:J2s:Y2s
 nourri|nourrir|V+z1:Kms
 nourrissons|nourrir|V+z1:P1p:Y1p
-nourris|nourrir|V+z1:P1s:P2s:J1s:J2s:Y2s
 nourrissez|nourrir|V+z1:P2p:Y2p
 nourrissent|nourrir|V+z1:P3p:S3p:T3p
 nourrit|nourrir|V+z1:P3s:J3s

@@ -646,7 +646,6 @@ change|changer|V+z1:P1s:P3s:S1s:S3s:Y2s
 changez|changer|V+z1:P2p:Y2p
 changes|changer|V+z1:P2s:S2s
 changent|changer|V+z1:P3p:S3p
-change|changer|V+z1:P3s:S3s
 changeassions|changer|V+z1:T1p
 changeasse|changer|V+z1:T1s
 changeassiez|changer|V+z1:T2p
@@ -2344,7 +2343,6 @@ chauffe|chauffer|V+z1:P1s:P3s:S1s:S3s:Y2s
 chauffez|chauffer|V+z1:P2p:Y2p
 chauffes|chauffer|V+z1:P2s:S2s
 chauffent|chauffer|V+z1:P3p:S3p
-chauffe|chauffer|V+z1:P3s:S3s
 chauffassions|chauffer|V+z1:T1p
 chauffasse|chauffer|V+z1:T1s
 chauffassiez|chauffer|V+z1:T2p
@@ -3610,7 +3608,6 @@ chie|chier|V+z1:P1s:P3s:S1s:S3s:Y2s
 chiez|chier|V+z1:P2p:Y2p
 chies|chier|V+z1:P2s:S2s
 chient|chier|V+z1:P3p:S3p
-chie|chier|V+z1:P3s:S3s
 chiassions|chier|V+z1:T1p
 chiasse|chier|V+z1:T1s
 chiassiez|chier|V+z1:T2p
@@ -4616,14 +4613,13 @@ choisissiez|choisir|V+z1:I2p:S2p:T2p
 choisissaient|choisir|V+z1:I3p
 choisissait|choisir|V+z1:I3s
 choisîmes|choisir|V+z1:J1p
+choisis|choisir|V+z1:J1s:J2s:Kmp:P1s:P2s:Y2s
 choisîtes|choisir|V+z1:J2p
 choisirent|choisir|V+z1:J3p
 choisies|choisir|V+z1:Kfp
 choisie|choisir|V+z1:Kfs
-choisis|choisir|V+z1:Kmp:P1s:P2s:J1s:J2s:Y2s
 choisi|choisir|V+z1:Kms
 choisissons|choisir|V+z1:P1p:Y1p
-choisis|choisir|V+z1:P1s:P2s:J1s:J2s:Y2s
 choisissez|choisir|V+z1:P2p:Y2p
 choisissent|choisir|V+z1:P3p:S3p:T3p
 choisit|choisir|V+z1:P3s:J3s

@@ -784,7 +784,6 @@ conviennent|convenir|V+z1:P3p:S3p
 convient|convenir|V+z1:P3s
 convienne|convenir|V+z1:S1s:S3s
 conviennes|convenir|V+z1:S2s
-convienne|convenir|V+z1:S3s
 convinssions|convenir|V+z1:T1p
 convinsse|convenir|V+z1:T1s
 convinssiez|convenir|V+z1:T2p
@@ -5053,13 +5052,12 @@ couriez|courir|V+z1:I2p:S2p
 couraient|courir|V+z1:I3p
 courait|courir|V+z1:I3s
 courûmes|courir|V+z1:J1p
-courus|courir|V+z1:J1s:J2s
+courus|courir|V+z1:J1s:J2s:Kmp
 courûtes|courir|V+z1:J2p
 coururent|courir|V+z1:J3p
 courut|courir|V+z1:J3s
 courues|courir|V+z1:Kfp
 courue|courir|V+z1:Kfs
-courus|courir|V+z1:Kmp:J1s:J2s
 couru|courir|V+z1:Kms
 courons|courir|V+z1:P1p:Y1p
 cours|courir|V+z1:P1s:P2s:Y2s
@@ -6560,7 +6558,6 @@ craquette|craqueter|V+z2:P1s:P3s:S1s:S3s:Y2s
 craquetez|craqueter|V+z2:P2p:Y2p
 craquettes|craqueter|V+z2:P2s:S2s
 craquettent|craqueter|V+z2:P3p:S3p
-craquette|craqueter|V+z2:P3s:S3s
 craquetassions|craqueter|V+z2:T1p
 craquetasse|craqueter|V+z2:T1s
 craquetassiez|craqueter|V+z2:T2p
@@ -8351,13 +8348,12 @@ croyiez|croire|V+z1:I2p:S2p
 croyaient|croire|V+z1:I3p
 croyait|croire|V+z1:I3s
 crûmes|croire|V+z1:J1p
-crus|croire|V+z1:J1s:J2s
+crus|croire|V+z1:J1s:J2s:Kmp
 crûtes|croire|V+z1:J2p
 crurent|croire|V+z1:J3p
 crut|croire|V+z1:J3s
 crues|croire|V+z1:Kfp
 crue|croire|V+z1:Kfs
-crus|croire|V+z1:Kmp:J1s:J2s
 cru|croire|V+z1:Kms
 croyons|croire|V+z1:P1p:Y1p
 crois|croire|V+z1:P1s:P2s:Y2s

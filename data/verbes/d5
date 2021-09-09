@@ -2102,13 +2102,12 @@ désappreniez|désapprendre|V+z2:I2p:S2p
 désapprenaient|désapprendre|V+z2:I3p
 désapprenait|désapprendre|V+z2:I3s
 désapprîmes|désapprendre|V+z2:J1p
+désappris|désapprendre|V+z2:J1s:J2s:Kmp:Kms
 désapprîtes|désapprendre|V+z2:J2p
 désapprirent|désapprendre|V+z2:J3p
 désapprit|désapprendre|V+z2:J3s
 désapprises|désapprendre|V+z2:Kfp
 désapprise|désapprendre|V+z2:Kfs
-désappris|désapprendre|V+z2:Kms:J1s:J2s
-désappris|désapprendre|V+z2:Kms:Kmp:J1s:J2s
 désapprenons|désapprendre|V+z2:P1p:Y1p
 désapprends|désapprendre|V+z2:P1s:P2s:Y2s
 désapprenez|désapprendre|V+z2:P2p:Y2p
@@ -3595,7 +3594,6 @@ descendent|descendre|V+z1:P3p:S3p
 descend|descendre|V+z1:P3s
 descende|descendre|V+z1:S1s:S3s
 descendes|descendre|V+z1:S2s
-descende|descendre|V+z1:S3s
 descendissions|descendre|V+z1:T1p
 descendisse|descendre|V+z1:T1s
 descendissiez|descendre|V+z1:T2p

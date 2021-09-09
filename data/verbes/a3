@@ -2002,7 +2002,6 @@ arrive|arriver|V+z1:P1s:P3s:S1s:S3s:Y2s
 arrivez|arriver|V+z1:P2p:Y2p
 arrives|arriver|V+z1:P2s:S2s
 arrivent|arriver|V+z1:P3p:S3p
-arrive|arriver|V+z1:P3s:S3s
 arrivassions|arriver|V+z1:T1p
 arrivasse|arriver|V+z1:T1s
 arrivassiez|arriver|V+z1:T2p
@@ -5093,14 +5092,13 @@ atterrissiez|atterrir|V+z1:I2p:S2p:T2p
 atterrissaient|atterrir|V+z1:I3p
 atterrissait|atterrir|V+z1:I3s
 atterrîmes|atterrir|V+z1:J1p
+atterris|atterrir|V+z1:J1s:J2s:Kmp:P1s:P2s:Y2s
 atterrîtes|atterrir|V+z1:J2p
 atterrirent|atterrir|V+z1:J3p
 atterries|atterrir|V+z1:Kfp
 atterrie|atterrir|V+z1:Kfs
-atterris|atterrir|V+z1:Kmp:P1s:P2s:J1s:J2s:Y2s
 atterri|atterrir|V+z1:Kms
 atterrissons|atterrir|V+z1:P1p:Y1p
-atterris|atterrir|V+z1:P1s:P2s:J1s:J2s:Y2s
 atterrissez|atterrir|V+z1:P2p:Y2p
 atterrissent|atterrir|V+z1:P3p:S3p:T3p
 atterrit|atterrir|V+z1:P3s:J3s

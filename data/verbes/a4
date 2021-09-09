@@ -1684,13 +1684,12 @@ aviez|avoir|V+z1:I2p
 avaient|avoir|V+z1:I3p
 avait|avoir|V+z1:I3s
 eûmes|avoir|V+z1:J1p
-eus|avoir|V+z1:J1s:J2s
+eus|avoir|V+z1:J1s:J2s:Kmp
 eûtes|avoir|V+z1:J2p
 eurent|avoir|V+z1:J3p
 eut|avoir|V+z1:J3s
 eues|avoir|V+z1:Kfp
 eue|avoir|V+z1:Kfs
-eus|avoir|V+z1:Kmp:J1s:J2s
 eu|avoir|V+z1:Kms
 avons|avoir|V+z1:P1p
 ai|avoir|V+z1:P1s

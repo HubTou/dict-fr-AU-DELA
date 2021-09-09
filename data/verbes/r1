@@ -5913,14 +5913,13 @@ rajeunissiez|rajeunir|V+z1:I2p:S2p:T2p
 rajeunissaient|rajeunir|V+z1:I3p
 rajeunissait|rajeunir|V+z1:I3s
 rajeunîmes|rajeunir|V+z1:J1p
+rajeunis|rajeunir|V+z1:J1s:J2s:Kmp:P1s:P2s:Y2s
 rajeunîtes|rajeunir|V+z1:J2p
 rajeunirent|rajeunir|V+z1:J3p
 rajeunies|rajeunir|V+z1:Kfp
 rajeunie|rajeunir|V+z1:Kfs
-rajeunis|rajeunir|V+z1:Kmp:P1s:P2s:J1s:J2s:Y2s
 rajeuni|rajeunir|V+z1:Kms
 rajeunissons|rajeunir|V+z1:P1p:Y1p
-rajeunis|rajeunir|V+z1:P1s:P2s:J1s:J2s:Y2s
 rajeunissez|rajeunir|V+z1:P2p:Y2p
 rajeunissent|rajeunir|V+z1:P3p:S3p:T3p
 rajeunit|rajeunir|V+z1:P3s:J3s
@@ -9164,7 +9163,6 @@ rate|rater|V+z1:P1s:P3s:S1s:S3s:Y2s
 ratez|rater|V+z1:P2p:Y2p
 rates|rater|V+z1:P2s:S2s
 ratent|rater|V+z1:P3p:S3p
-rate|rater|V+z1:P3s:S3s
 ratassions|rater|V+z1:T1p
 ratasse|rater|V+z1:T1s
 ratassiez|rater|V+z1:T2p

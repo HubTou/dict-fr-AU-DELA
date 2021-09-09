@@ -318,7 +318,6 @@ jaillissent|jaillir|V+z1:P3p:S3p:T3p
 jaillit|jaillir|V+z1:P3s:J3s
 jaillisse|jaillir|V+z1:S1s:S3s:T1s
 jaillisses|jaillir|V+z1:S2s:T2s
-jaillisse|jaillir|V+z1:S3s
 jaillît|jaillir|V+z1:T3s
 jalonnerions|jalonner|V+z1:C1p
 jalonnerais|jalonner|V+z1:C1s:C2s
@@ -978,14 +977,13 @@ jaunissiez|jaunir|V+z1:I2p:S2p:T2p
 jaunissaient|jaunir|V+z1:I3p
 jaunissait|jaunir|V+z1:I3s
 jaunîmes|jaunir|V+z1:J1p
+jaunis|jaunir|V+z1:J1s:J2s:Kmp:P1s:P2s:Y2s
 jaunîtes|jaunir|V+z1:J2p
 jaunirent|jaunir|V+z1:J3p
 jaunies|jaunir|V+z1:Kfp
 jaunie|jaunir|V+z1:Kfs
-jaunis|jaunir|V+z1:Kmp:P1s:P2s:J1s:J2s:Y2s
 jauni|jaunir|V+z1:Kms
 jaunissons|jaunir|V+z1:P1p:Y1p
-jaunis|jaunir|V+z1:P1s:P2s:J1s:J2s:Y2s
 jaunissez|jaunir|V+z1:P2p:Y2p
 jaunissent|jaunir|V+z1:P3p:S3p:T3p
 jaunit|jaunir|V+z1:P3s:J3s

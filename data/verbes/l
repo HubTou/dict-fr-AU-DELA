@@ -1159,7 +1159,6 @@ lancequine|lancequiner|V:P1s:P3s:S1s:S3s:Y2s
 lancequinez|lancequiner|V:P2p:Y2p
 lancequines|lancequiner|V:P2s:S2s
 lancequinent|lancequiner|V:P3p:S3p
-lancequine|lancequiner|V:P3s:S3s
 lancequinassions|lancequiner|V:T1p
 lancequinasse|lancequiner|V:T1s
 lancequinassiez|lancequiner|V:T2p
@@ -1412,14 +1411,13 @@ languissiez|languir|V+z1:I2p:S2p:T2p
 languissaient|languir|V+z1:I3p
 languissait|languir|V+z1:I3s
 languîmes|languir|V+z1:J1p
+languis|languir|V+z1:J1s:J2s:Kmp:P1s:P2s:Y2s
 languîtes|languir|V+z1:J2p
 languirent|languir|V+z1:J3p
 languies|languir|V+z1:Kfp
 languie|languir|V+z1:Kfs
-languis|languir|V+z1:Kmp:P1s:P2s:J1s:J2s:Y2s
 langui|languir|V+z1:Kms
 languissons|languir|V+z1:P1p:Y1p
-languis|languir|V+z1:P1s:P2s:J1s:J2s:Y2s
 languissez|languir|V+z1:P2p:Y2p
 languissent|languir|V+z1:P3p:S3p:T3p
 languit|languir|V+z1:P3s:J3s
@@ -1455,7 +1453,6 @@ lansquine|lansquiner|V:P1s:P3s:S1s:S3s:Y2s
 lansquinez|lansquiner|V:P2p:Y2p
 lansquines|lansquiner|V:P2s:S2s
 lansquinent|lansquiner|V:P3p:S3p
-lansquine|lansquiner|V:P3s:S3s
 lansquinassions|lansquiner|V:T1p
 lansquinasse|lansquiner|V:T1s
 lansquinassiez|lansquiner|V:T2p
@@ -5054,13 +5051,12 @@ lisiez|lire|V+z1:I2p:S2p
 lisaient|lire|V+z1:I3p
 lisait|lire|V+z1:I3s
 lûmes|lire|V+z1:J1p
-lus|lire|V+z1:J1s:J2s
+lus|lire|V+z1:J1s:J2s:Kmp
 lûtes|lire|V+z1:J2p
 lurent|lire|V+z1:J3p
 lut|lire|V+z1:J3s
 lues|lire|V+z1:Kfp
 lue|lire|V+z1:Kfs
-lus|lire|V+z1:Kmp:J1s:J2s
 lu|lire|V+z1:Kms
 lisons|lire|V+z1:P1p:Y1p
 lis|lire|V+z1:P1s:P2s:Y2s
@@ -6491,7 +6487,6 @@ loupe|louper|V+z1:P1s:P3s:S1s:S3s:Y2s
 loupez|louper|V+z1:P2p:Y2p
 loupes|louper|V+z1:P2s:S2s
 loupent|louper|V+z1:P3p:S3p
-loupe|louper|V+z1:P3s:S3s
 loupassions|louper|V+z1:T1p
 loupasse|louper|V+z1:T1s
 loupassiez|louper|V+z1:T2p

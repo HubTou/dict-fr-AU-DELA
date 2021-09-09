@@ -2246,13 +2246,12 @@ omettiez|omettre|V+z1:I2p:S2p
 omettaient|omettre|V+z1:I3p
 omettait|omettre|V+z1:I3s
 omîmes|omettre|V+z1:J1p
+omis|omettre|V+z1:J1s:J2s:Kmp:Kms
 omîtes|omettre|V+z1:J2p
 omirent|omettre|V+z1:J3p
 omit|omettre|V+z1:J3s
 omises|omettre|V+z1:Kfp
 omise|omettre|V+z1:Kfs
-omis|omettre|V+z1:Kms:J1s:J2s
-omis|omettre|V+z1:Kms:Kmp:J1s:J2s
 omettons|omettre|V+z1:P1p:Y1p
 omets|omettre|V+z1:P1s:P2s:Y2s
 omettez|omettre|V+z1:P2p:Y2p

@@ -4440,7 +4440,6 @@ pince|pincer|V+z1:P1s:P3s:S1s:S3s:Y2s
 pincez|pincer|V+z1:P2p:Y2p
 pinces|pincer|V+z1:P2s:S2s
 pincent|pincer|V+z1:P3p:S3p
-pince|pincer|V+z1:P3s:S3s
 pinçassions|pincer|V+z1:T1p
 pinçasse|pincer|V+z1:T1s
 pinçassiez|pincer|V+z1:T2p
@@ -5923,13 +5922,12 @@ plaisiez|plaire|V+z1:I2p:S2p
 plaisaient|plaire|V+z1:I3p
 plaisait|plaire|V+z1:I3s
 plûmes|plaire|V+z1:J1p
-plus|plaire|V+z1:J1s:J2s
+plus|plaire|V+z1:J1s:J2s:Kmp
 plûtes|plaire|V+z1:J2p
 plurent|plaire|V+z1:J3p
 plut|plaire|V+z1:J3s
 plues|plaire|V+z1:Kfp
 plue|plaire|V+z1:Kfs
-plus|plaire|V+z1:Kmp:J1s:J2s
 plu|plaire|V+z1:Kms
 plaisons|plaire|V+z1:P1p:Y1p
 plais|plaire|V+z1:P1s:P2s:Y2s
@@ -5938,7 +5936,6 @@ plaisent|plaire|V+z1:P3p:S3p
 plaît|plaire|V+z1:P3s
 plaise|plaire|V+z1:S1s:S3s
 plaises|plaire|V+z1:S2s
-plaise|plaire|V+z1:S3s
 plussions|plaire|V+z1:T1p
 plusse|plaire|V+z1:T1s
 plussiez|plaire|V+z1:T2p

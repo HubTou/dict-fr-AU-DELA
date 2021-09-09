@@ -2235,7 +2235,6 @@ impose|imposer|V+z1:P1s:P3s:S1s:S3s:Y2s
 imposez|imposer|V+z1:P2p:Y2p
 imposes|imposer|V+z1:P2s:S2s
 imposent|imposer|V+z1:P3p:S3p
-impose|imposer|V+z1:P3s:S3s
 imposassions|imposer|V+z1:T1p
 imposasse|imposer|V+z1:T1s
 imposassiez|imposer|V+z1:T2p
@@ -8609,7 +8608,6 @@ interviennent|intervenir|V+z1:P3p:S3p
 intervient|intervenir|V+z1:P3s
 intervienne|intervenir|V+z1:S1s:S3s
 interviennes|intervenir|V+z1:S2s
-intervienne|intervenir|V+z1:S3s
 intervinssions|intervenir|V+z1:T1p
 intervinsse|intervenir|V+z1:T1s
 intervinssiez|intervenir|V+z1:T2p

@@ -3669,7 +3669,6 @@ barde|barder|V+z1:P1s:P3s:S1s:S3s:Y2s
 bardez|barder|V+z1:P2p:Y2p
 bardes|barder|V+z1:P2s:S2s
 bardent|barder|V+z1:P3p:S3p
-barde|barder|V+z1:P3s:S3s
 bardassions|barder|V+z1:T1p
 bardasse|barder|V+z1:T1s
 bardassiez|barder|V+z1:T2p
@@ -7509,7 +7508,6 @@ biche|bicher|V+z1:P1s:P3s:S1s:S3s:Y2s
 bichez|bicher|V+z1:P2p:Y2p
 biches|bicher|V+z1:P2s:S2s
 bichent|bicher|V+z1:P3p:S3p
-biche|bicher|V+z1:P3s:S3s
 bichassions|bicher|V+z1:T1p
 bichasse|bicher|V+z1:T1s
 bichassiez|bicher|V+z1:T2p

@@ -56,7 +56,6 @@ grisaille|grisailler|V+z2:P1s:P3s:S1s:S3s:Y2s
 grisaillez|grisailler|V+z2:P2p:Y2p
 grisailles|grisailler|V+z2:P2s:S2s
 grisaillent|grisailler|V+z2:P3p:S3p
-grisaille|grisailler|V+z2:P3s:S3s
 grisaillassions|grisailler|V+z2:T1p
 grisaillasse|grisailler|V+z2:T1s
 grisaillassiez|grisailler|V+z2:T2p
@@ -481,14 +480,13 @@ grossissiez|grossir|V+z1:I2p:S2p:T2p
 grossissaient|grossir|V+z1:I3p
 grossissait|grossir|V+z1:I3s
 grossîmes|grossir|V+z1:J1p
+grossis|grossir|V+z1:J1s:J2s:Kmp:P1s:P2s:Y2s
 grossîtes|grossir|V+z1:J2p
 grossirent|grossir|V+z1:J3p
 grossies|grossir|V+z1:Kfp
 grossie|grossir|V+z1:Kfs
-grossis|grossir|V+z1:Kmp:P1s:P2s:J1s:J2s:Y2s
 grossi|grossir|V+z1:Kms
 grossissons|grossir|V+z1:P1p:Y1p
-grossis|grossir|V+z1:P1s:P2s:J1s:J2s:Y2s
 grossissez|grossir|V+z1:P2p:Y2p
 grossissent|grossir|V+z1:P3p:S3p:T3p
 grossit|grossir|V+z1:P3s:J3s
