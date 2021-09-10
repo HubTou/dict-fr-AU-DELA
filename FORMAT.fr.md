@@ -78,6 +78,20 @@ Catégorie|Code|Description
 \*|z2|langage spécialisé
 \*|z3|langage très spécialisé ou technique
 
+### Enrichissements spécifiques AU-DELA
+Catégorie|Code|Description 
+---|---|--- 
+V|G1|Verbe du premier groupe
+V|G2|Verbe du deuxième groupe
+V|G3|Verbe du troisième groupe
+V|AE|Verbe se conjuguant avec l'auxiliaire être
+V|A2|Verbe se conjuguant avec l'un ou l'autre auxiliaire
+V|PR|Verbe obligatoirement pronominal
+V|Pr|Verbe facultativement pronominal
+V|EN|Verbe à particule pré-verbale obligatoire
+V|En|Verbe à particule pré-verbale facultative
+V|PrEn|Verbe facultativement pronominal et à particule pré-verbale (ex: s'en aller)
+
 ## Codification des flexions
 ### Genre et nombre
 Code|Description
