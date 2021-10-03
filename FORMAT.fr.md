@@ -123,7 +123,7 @@ J|Indicatif|Passé simple|
 F|Indicatif|Futur simple|
 C|Conditionnel|Présent|
 S|Subjonctif|Présent|
-T|Subjonctif|Passé|
+T|Subjonctif|Imparfait|
 G|Participe|Présent|
 K|Participe|Passé|Les formes ms, mp, fs, fp existent
 Y|Impératif||Seules les formes 2s, 1p et 2p existent
